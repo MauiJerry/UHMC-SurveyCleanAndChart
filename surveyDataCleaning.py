@@ -42,22 +42,17 @@ crop_counts.to_csv("crop_counts.csv", index=False)
 # would be good to add them but then again, i got other things to do
 # and this is good enough for the class Final for now
 
-crop_counts = df.explode('Crops')['Crops'].loc[df['Crops'] != 'other'].value_counts()
-
 print("Graph crop counts")
 
-# create the bar plot
-ax = crop_counts.plot.bar(x='Crop', y='Count', rot=90)
+# create an ugly bar plot
+ax = crop_counts.plot.bar(x='Crop', y='Count')#, rot=45)
 
 # set the x-axis label
-ax.set_xlabel('Crop')
-
+ax.set_ylabel('Crop')
 # set the y-axis label
-ax.set_ylabel('Count')
-
+ax.set_xlabel('Count')
 # set the plot title
 ax.set_title('Crop Counts')
-
 # display the plot
 plt.show()
 
