@@ -31,30 +31,52 @@ df['Crops'] = df['CropsInField'].str.split(',')
 
 # Count unique crop names
 exploded_crops = df.explode('Crops')
-print(exploded_crops['Crops'].unique())
+print('Exploded Crops (unique)', exploded_crops['Crops'].unique())
 crop_counts = df.explode('Crops')['Crops'].value_counts()
 
-# Display result
-print(crop_counts)
-crop_counts.to_csv("crop_counts.csv", index=False)
-###################
-# lots of Other, and Other are not counted in this.
-# would be good to add them but then again, i got other things to do
-# and this is good enough for the class Final for now
+# Display resulting panda Series
+print("crop counts:\n", crop_counts)
+crop_counts.to_csv("crop_counts.csv", index=True)
+
+# drop 'other' as those would be in OtherCropsInField column that maybe we should add in
+# but not now
+crop_counts.drop('other', inplace=True)
+
+#convert it to a dataframe rather than a Series because i have issue with Series
+crop_counts_df = pd.DataFrame({'crop': crop_counts.index, 'count': crop_counts.values})
+crop_counts_df = crop_counts_df.reset_index()
+
+print("Shorten some names")
+# get rid of 'other' row; should perhaps add in the exploded Others column?
+# convert it to a dataframe
+#crop_counts_df.index.name = 'index'
+crop_counts_df = crop_counts_df.replace({
+    'kalo_(taro)': 'kalo',
+    'maia_(banana)': 'banana',
+    'kalo_(taro)_-_loʻi_(wetland)': 'kalo wetland',
+    'kalo_(taro)_-_mala_(dryland)': 'kalo dryland',
+    'vegetables_(e.g._leafy_greens_c': 'vegetables',
+})
+
+print("As DF:\n",crop_counts_df)
+print("Head of crop_counts_df\n", crop_counts_df.head())
+print("\nCrop counts w short Names:\n", crop_counts_df)
+crop_counts_df.to_csv("crop_counts_shortNames.csv", index=True)
 
 print("Graph crop counts")
 
 # create an ugly bar plot
-ax = crop_counts.plot.bar(x='Crop', y='Count')#, rot=45)
-
-# set the x-axis label
-ax.set_ylabel('Crop')
-# set the y-axis label
-ax.set_xlabel('Count')
-# set the plot title
-ax.set_title('Crop Counts')
-# display the plot
+# plot bar chart
+plt.figure(figsize=(9, 6))
+plt.barh(crop_counts_df['crop'], crop_counts_df['count'])
+plt.xlabel('Count')
+plt.ylabel('Crops')
+plt.title('Crop Counts')
+#plt.xlim(0, crop_counts.values.max() * 1.1)
+plt.tight_layout()
 plt.show()
+
+"""
 
 print("Now calculate FarmIDs")
 
@@ -94,5 +116,7 @@ df = label_farms(df, distance_threshold=0.5)
 print ("Save the df to FarmClustered.csv")
 
 df.to_csv('20230423_survey_FarmClustered.csv', index=False)
+"""
 
+print("Complete!")
 
