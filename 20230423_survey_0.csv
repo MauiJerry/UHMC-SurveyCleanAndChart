@@ -1,0 +1,822 @@
+﻿ObjectID,GlobalID,CreationDate,Creator,EditDate,Editor,Your name,What is the date and time of collection?,Where are you recording the point?,"Are there no crops (fallow or pasture), one crop, or multiple crops growing in the field?",Which crop(s) are present in the field?,Other - Which crop(s) are present in the field?,"[OPTIONAL] If you selected multiple crops in the previous question, is there a dominant crop?","Other - [OPTIONAL] If you selected multiple crops in the previous question, is there a dominant crop?",[OPTIONAL] Additional notes,x,y
+1,91f4ba6f-7786-4fc9-b173-d13f2bd95228,1/10/2023 8:11:20 PM,NASAHarvest_UofMD,1/10/2023 8:11:20 PM,NASAHarvest_UofMD,Ivan Z,1/10/2023 8:04:00 PM,On the edge of the field,Fallow,,,,,,-111.926637772042,33.3683742161324
+2,e0390d4d-8cdf-4651-b377-e5037dd7f5d6,1/17/2023 5:45:17 PM,NASAHarvest_UofMD,1/17/2023 5:45:17 PM,NASAHarvest_UofMD,Hannah Kerner ,,On the edge of the field,Multiple crops,"niu_(coconut),pineapple",,,,,-111.92671476486,33.3684217690738
+3,c68383f6-69d5-4fc9-bb4b-fd27e7fe105d,1/17/2023 6:52:00 PM,NASAHarvestCollector_UofMD,1/17/2023 6:52:00 PM,NASAHarvestCollector_UofMD,Hannah,,Inside the field,One crop,`ulu_(breadfruit),,,,,-111.926731465373,33.3683944265308
+4,ec1491e5-2199-46ad-8423-25115326e2d2,1/17/2023 6:52:04 PM,NASAHarvestCollector_UofMD,1/17/2023 6:52:04 PM,NASAHarvestCollector_UofMD,Hannah,,Inside the field,One crop,mai`a_(banana),,,,,-111.926730088085,33.3683742919501
+5,66e0706a-cf80-49f6-92a3-e788bc1d003f,1/17/2023 9:10:44 PM,NASAHarvestCollector_UofMD,1/17/2023 9:10:44 PM,NASAHarvestCollector_UofMD,Gabriel Tseng,,On the edge of the field,Pasture,,,,,,-156.34356138,20.88313467
+6,eab874b9-5226-439d-a612-0114bcbe0af3,1/18/2023 8:29:57 PM,NASAHarvestCollector_UofMD,1/18/2023 8:29:57 PM,NASAHarvestCollector_UofMD,akw,,On the edge of the field,Fallow,,,,,,-105.159649261042,39.9524937843646
+7,3daa0079-e7a8-4c2c-ac6e-041b115990d1,1/21/2023 1:23:37 PM,NASAHarvestCollector_UofMD,1/21/2023 1:23:37 PM,NASAHarvestCollector_UofMD,Catherine Nakalembe,,On the edge of the field,Fallow,other,Nothing ,,,,32.4676277273002,0.0555291652630381
+8,5d663805-8bcd-494b-ac4d-c90451fc054f,1/24/2023 9:56:13 PM,,1/24/2023 9:56:13 PM,,Jacob Adler,,On the edge of the field,Pasture,other,Ryegrass,,,Test point,-111.926468783199,33.3683640483064
+9,82660edd-6f00-456a-8b99-6bc8616636be,1/25/2023 11:58:49 PM,,1/25/2023 11:58:49 PM,,Jacob Adler,,On the edge of the field,Pasture,other,Ryegrass and dormant fig tree,,,,-111.926485233301,33.3683292738925
+10,794b6ff3-a692-428c-8b41-336ff5855639,1/27/2023 2:27:59 AM,NASAHarvestCollector_UofMD,1/27/2023 2:27:59 AM,NASAHarvestCollector_UofMD,Gabriel Tseng,,On the edge of the field,Pasture,,,,,,-156.34329253,20.88317591
+11,625c7ec8-7712-4cf2-9c95-ec3c27ebaae8,1/28/2023 6:36:57 AM,,1/28/2023 6:36:57 AM,,H,,Inside the field,One crop,"kalo_(taro),mai`a_(banana)",,kalo (taro),,Lots of dog toys ,-111.926651322716,33.3683809587485
+12,0053defd-2e03-4442-adf8-388b93150d45,1/28/2023 6:37:03 AM,,1/28/2023 6:37:03 AM,,Kerner,,Inside the field,One crop,kalo_(taro),,,,Farmer noted that the taro ponds have been water scarce,-111.926651579529,33.3683901011289
+13,b03ab5d8-e170-48ed-8edd-966a3bdd2d38,1/28/2023 11:57:57 PM,,1/28/2023 11:57:57 PM,,Nicolette van der Lee,,On the edge of the field,One crop,other,test,,,,-156.479847662577,20.8896578933585
+14,31dc8a65-6642-4169-b3b4-0ef27307f5ab,1/29/2023 12:00:17 AM,,1/29/2023 12:00:17 AM,,Nick adams ,,On the edge of the field,Fallow,other,,,,Test point ,-156.497337151001,20.9119698594506
+15,8bd113b1-34d7-4a7a-bf0d-4cfad6bb98cc,1/29/2023 12:17:01 AM,,1/29/2023 12:17:01 AM,,Jeffrey wayer,,On the edge of the field,One crop,kalo_(taro),,,,Kalo garden App test,-156.47995492267,20.8919680978335
+16,5702945b-213d-4683-a76f-8b4155efeba5,1/29/2023 12:17:53 AM,,1/29/2023 12:17:53 AM,,Hannah Kerner ,,On the edge of the field,One crop,mai`a_(banana),,,,,-156.479863192649,20.8923208778511
+17,2aaa14ba-2694-445d-bd7d-686124e60a7d,1/29/2023 12:17:57 AM,,1/29/2023 12:17:57 AM,,Paige Moffitt,,On the edge of the field,One crop,kalo_(taro),,,,,-156.479999131926,20.8919838240334
+18,466f8fdc-71ae-43ac-bce1-a671ba9b0d5a,1/29/2023 12:18:05 AM,,1/29/2023 12:18:05 AM,,Dylan Bowen ,,On the edge of the field,Multiple crops,"kalo_(taro),`ulu_(breadfruit),mai`a_(banana),`uala_(sweet_potato),niu_(coconut),coffee,pineapple,macadamia_nut,tropical_fruits,avocado,sugarcane,other",All of them ,,,,-156.47996088211,20.8925422446171
+19,8491689b-288b-4015-a9ef-90fcb0d998fe,1/29/2023 12:20:26 AM,,1/29/2023 12:20:26 AM,,Charlotte Cabaccang,,On the edge of the field,Multiple crops,other,Turmeric and an avocado tree,other,Turmeric,,-156.479802314026,20.8922841508093
+20,619d2d43-9fc0-4ac1-b5d7-56463f5425d3,1/29/2023 12:20:29 AM,,1/29/2023 12:20:29 AM,,Joshua D Hinau - Nanod,,Inside the field,One crop,mai`a_(banana),,,,,-156.479867382288,20.8923202609853
+21,027c6aa8-5e7e-48f2-a78d-4c8941b485e2,1/29/2023 12:20:45 AM,,1/29/2023 12:20:45 AM,,jerry isdale,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),kalo_(taro),tropical_fruits",,,,,-156.48003998,20.89189813
+22,6db048ec-db35-4bd4-9bc4-ce8195fb10fb,1/29/2023 12:21:01 AM,,1/29/2023 12:21:01 AM,,Sean McCormick,,On the edge of the field,Multiple crops,"kalo_(taro),`ulu_(breadfruit),other",,kalo (taro),,,-156.480022300984,20.8919199230081
+23,181ef3e3-d773-4adb-ba74-49d5a4f7ddc8,1/29/2023 12:21:12 AM,,1/29/2023 12:21:12 AM,,Rohan Fahland,,On the edge of the field,Multiple crops,"`uala_(sweet_potato),other",Noni ,other,Noni,,-156.479828787067,20.8923684227959
+24,9fca3b34-a83e-4bb1-bbc0-97dd2c864cb4,1/29/2023 12:23:23 AM,,1/29/2023 12:23:23 AM,,Anna Galbreath ,,Inside the field,Multiple crops,"`ulu_(breadfruit),tropical_fruits,`uala_(sweet_potato),mai`a_(banana),kalo_(taro),other","Lemongrass, tea leaf, oranges, rest unknown",not applicable,,Nice garden,-156.479823742295,20.8924709687453
+25,0b944c01-8b92-4a6f-b0a5-a3420e118f0a,1/29/2023 12:23:48 AM,,1/29/2023 12:23:48 AM,,Hannah Kerner ,,On the edge of the field,Multiple crops,"kalo_(taro),`uala_(sweet_potato)",,other,Sweet potato,,-156.479823961654,20.8922383344568
+26,77ab0804-b7a8-440b-a1b8-df46bb9a1d65,1/29/2023 12:26:31 AM,,1/29/2023 12:26:31 AM,,Jacob Adler,,On the edge of the field,Multiple crops,other,Garden at Maui College,,,,-156.47989871239,20.892228743486
+27,59eab3b2-b242-4c28-9788-6a3259b0425a,1/29/2023 12:27:39 AM,,1/29/2023 12:27:39 AM,,Hannah Kerner ,,On the edge of the field,One crop,other,Pumpkin ,,,Very small plot,-156.479839464114,20.892457724096
+28,1cc9a5cf-16b3-4584-805d-db46f710bbf9,1/29/2023 12:32:19 AM,,1/29/2023 12:32:19 AM,,Anna Galbreath,,Inside the field,Multiple crops,"`ulu_(breadfruit),mai`a_(banana),`uala_(sweet_potato),tropical_fruits,other","Lemongrass, cucumber, tea leaf, oranges, rest unknown",not applicable,,Nice garden,-156.479838734709,20.8922735055302
+29,22d2545f-c927-41fe-900d-f42301e69218,1/29/2023 12:36:07 AM,,1/29/2023 12:36:07 AM,,Brigette Tomas ,,Inside the field,Multiple crops,"`ulu_(breadfruit),mai`a_(banana),`uala_(sweet_potato),tropical_fruits,other,niu_(coconut),kalo_(taro)","Citrus, Ti Leaf",,,,-156.47984167,20.89231538
+30,86242134-8ebc-4add-9906-4065048600c9,1/30/2023 3:55:07 AM,,1/30/2023 3:55:07 AM,,Dylan Bowen ,,On the edge of the field,Pasture,,,,,,-156.325937623334,20.7669854475116
+31,ba2fd34e-9777-4f09-ac59-d761aa2675f4,1/31/2023 4:04:24 AM,NASAHarvestCollector_UofMD,1/31/2023 4:04:24 AM,NASAHarvestCollector_UofMD,Gabriel Tseng,,Inside the field,Multiple crops,other,,,,Jackfruit,-156.30244768,20.91428287
+32,5e2ad245-fab8-4d86-8e11-d0b7f40c7005,2/4/2023 1:23:59 AM,,2/4/2023 1:23:59 AM,,Hannah,,On the edge of the field,Multiple crops,other,"Okasanta, ginger etc",,,,-156.240652408596,20.9144391724997
+33,bb604a1c-af57-492a-bf2c-5d69413f9879,2/4/2023 1:24:11 AM,,2/4/2023 1:24:11 AM,,Hannah,,On the edge of the field,Multiple crops,other,Cashew,,,,-156.241201001951,20.9144403007847
+34,aba564b4-425a-43f2-8fbd-a5571a3ee3d9,2/4/2023 1:24:20 AM,,2/4/2023 1:24:20 AM,,Hannah Kerner,,On the edge of the field,One crop,mai`a_(banana),,,,Small,-156.356838517143,20.7052443139019
+35,8d087042-37da-4944-be89-1298247a5c64,2/4/2023 1:24:32 AM,,2/4/2023 1:24:32 AM,,Hannah,,On the edge of the field,One crop,kalo_(taro),,,,,-156.500611100492,20.8248062012875
+36,32633931-cdef-45de-801e-f8a04fe2b8f6,2/4/2023 1:24:44 AM,,2/4/2023 1:24:44 AM,,Hannah,,Inside the field,One crop,kalo_(taro),,,,,-156.500466374796,20.8296300715189
+37,3abc8f10-8c24-4214-ba15-127751cc1ddc,2/4/2023 1:24:55 AM,,2/4/2023 1:24:55 AM,,Hannah,,On the edge of the field,One crop,kalo_(taro),,,,,-156.137018222507,20.8411864936509
+38,0842a032-d3f3-4e31-a0cd-f6c077fb9b89,2/4/2023 1:25:07 AM,,2/4/2023 1:25:07 AM,,Hannah,,On the edge of the field,Multiple crops,"kalo_(taro),other","Corn, tomatoes, sunflowers, flowers etc",,,,-155.997924395818,20.7771026509735
+39,4f23aebd-2510-4c8d-aaa2-27c9787a79b5,2/4/2023 1:25:20 AM,,2/4/2023 1:25:20 AM,,Hannah,,On the edge of the field,One crop,niu_(coconut),,,,,-156.036224553879,20.7980815623125
+40,ad7e9a43-0705-4969-bb2f-277e021afedf,2/4/2023 1:25:35 AM,,2/4/2023 1:25:35 AM,,Hannah,,On the edge of the field,Multiple crops,other,Vegetables,,,,-156.286021890264,20.8154408494166
+41,0103a362-86b7-4daa-a4bb-1176afd83ab2,2/4/2023 1:25:46 AM,,2/4/2023 1:25:46 AM,,Hannah,,On the edge of the field,Multiple crops,other,Vegetables ,,,,-156.358200805407,20.7924231374793
+42,bc0248cb-5403-436b-9e2c-15b96046bd67,2/4/2023 1:25:56 AM,,2/4/2023 1:25:56 AM,,Hannah,,On the edge of the field,Multiple crops,other,Vegetables ,,,Research fields ,-156.358329000974,20.7925289969305
+43,de1790a2-a001-4c65-b1ca-112d70670354,2/4/2023 1:40:17 AM,,2/4/2023 1:40:17 AM,,Jake Adler,,Inside the field,One crop,macadamia_nut,,,,Mature 100 year old trees suspected by farmer! Mac nuts with rat holes. ,-157.048807131986,21.1662933258238
+44,1693fcbb-6ba4-441e-a156-4b706a7874fd,2/4/2023 1:40:31 AM,,2/4/2023 1:40:31 AM,,Hannah,,On the edge of the field,One crop,macadamia_nut,,,,,-157.048828350144,21.16627395426
+45,1b45a266-c968-4960-b48c-5c45dd4d47b4,2/4/2023 1:41:28 AM,,2/4/2023 1:41:28 AM,,Kira Kai Yamazaki-Gray,,Inside the field,One crop,macadamia_nut,,,,,-157.048798548204,21.166267879323
+46,a75d9934-d9a6-43d3-b8c3-afa01e09dbc4,2/4/2023 1:41:52 AM,,2/4/2023 1:41:52 AM,,Miliopuna Davis,,Inside the field,One crop,macadamia_nut,,,,"
+Macadamia nui cracked open by rodents",-157.048830994268,21.1662606254697
+47,823d0a07-ef40-42b5-9537-1f6a284ef6eb,2/4/2023 1:56:55 AM,,2/4/2023 1:56:55 AM,,Kahakuhailoa Poepoe,,Inside the field,One crop,macadamia_nut,,,,,-157.04826666151,21.166292888969
+48,3f6e011b-253e-4187-9c2b-0602e0fba6f1,2/4/2023 1:58:14 AM,,2/4/2023 1:58:14 AM,,Hannah,,Inside the field,Multiple crops,"macadamia_nut,tropical_fruits",,macadamia nut,,Mango trees are the tropical fruits. Black plastic in the soil. ,-157.047601987334,21.1664545484296
+49,1d742e86-b184-48c3-a49d-6e2dcdf40fd9,2/4/2023 1:58:29 AM,,2/4/2023 1:58:29 AM,,Jake Adler,,Inside the field,Multiple crops,"tropical_fruits,macadamia_nut",,macadamia nut,,Mangos and Mac nuts almost 50-50. Black plastic noted in soil. ,-157.047633768164,21.1664568708976
+50,173e4ead-cb1f-4238-9b88-46a8d518fc4c,2/4/2023 1:58:34 AM,,2/4/2023 1:58:34 AM,,Miliopuna Davis,,Inside the field,Multiple crops,"macadamia_nut,tropical_fruits",,macadamia nut,,Mango trees as the tropical fruit. Black plastic stuck in the soiled.,-157.047625660523,21.1664092701185
+51,b8c437cc-81be-443e-b837-40d751a62fec,2/4/2023 1:58:53 AM,,2/4/2023 1:58:53 AM,,Kira Kai Yamazaki-Gray,,Inside the field,Multiple crops,"macadamia_nut,tropical_fruits",,macadamia nut,,"Mango trees are the tropical fruits, black plantation plastic in soil, farm road in the middle of field.",-157.047615508962,21.1664283880241
+52,f47388c8-7857-40ce-8031-92f7b5ca88a8,2/4/2023 1:58:58 AM,,2/4/2023 1:58:58 AM,,Wailana ,,Inside the field,One crop,macadamia_nut,,,,"Evidence of Rats/Mice 
+Spiderwebs around trees and branches ",-157.048794919371,21.1662541774066
+53,a99d78d6-2410-4aae-bff8-48efdc83c53d,2/4/2023 1:59:07 AM,,2/4/2023 1:59:07 AM,,Wailana,,Inside the field,Multiple crops,"macadamia_nut,tropical_fruits",,macadamia nut,,"Tropical fruits = mango
+Plantation Plastic under soil ",-157.047625359867,21.1664432517989
+54,eaa303da-7aa7-4242-8180-dc801e580280,2/4/2023 2:00:26 AM,,2/4/2023 2:00:26 AM,,Kahakuhailoa Poepoe,,Inside the field,Multiple crops,"macadamia_nut,tropical_fruits",,macadamia nut,,Mango trees are the tropical fruits. Black plastic in the soil,-157.047637034321,21.1664385880882
+55,9cbf13ac-7e41-46be-9405-8cd669a10fc2,2/4/2023 2:10:49 AM,,2/4/2023 2:10:49 AM,,Kairee ,,On the edge of the field,One crop,macadamia_nut,,,,,-157.048802152687,21.1662533371147
+56,f511f932-c162-4d50-a4b0-4388f97d587f,2/4/2023 2:10:56 AM,,2/4/2023 2:10:56 AM,,Kairee,,On the edge of the field,Multiple crops,"macadamia_nut,other",mangoes,macadamia nut,,"mango trees, black plastic in soil from pineapple industry ",-157.047609898191,21.1664385120683
+57,5cc005aa-3c5d-4704-8348-925aa3df7e27,2/4/2023 3:32:00 AM,,2/4/2023 3:32:00 AM,,Charlotte Cabaccang,,On the edge of the field,Multiple crops,other,"Peas, Papaya, pumpkin, avocado, orange, longan",other,Peas,,-156.500671494151,20.9025170535505
+58,b7ca668e-ed69-4370-9839-68bfc35ab2dd,2/4/2023 7:41:29 PM,,2/4/2023 7:41:29 PM,,jerry isdale,,On the edge of the field,Multiple crops,"mai`a_(banana),kalo_(taro),other",young minds,,,,-156.50319318,20.82836162
+59,2d35e8ec-25ce-4ccd-912c-f9526dcb16ee,2/4/2023 7:48:05 PM,,2/4/2023 7:48:05 PM,,jerry isdale,,On the edge of the field,Multiple crops,"mai`a_(banana),other,sugarcane",dicon radish,,,,-156.50233747,20.82940108
+60,620269e7-0659-49c1-91fd-e2adf124763a,2/4/2023 7:58:22 PM,,2/4/2023 7:58:22 PM,,Joshua D Hinau-Nanod,,On the edge of the field,Fallow,,,,,,-156.501987404212,20.8294853100685
+61,d28f2c5b-3b9f-4fae-8f45-a8ea8708926c,2/4/2023 7:58:36 PM,,2/4/2023 7:58:36 PM,,Jeffrey wayer,,On the edge of the field,One crop,kalo_(taro),,,,App test at Kalo field ,-156.501242024369,20.8290982710241
+62,4fc76f6a-5c0b-4215-8367-ab8b1ba5c20f,2/4/2023 7:59:54 PM,,2/4/2023 7:59:54 PM,,Charlotte Cabaccang,,Inside the field,One crop,kalo_(taro),,,,They use cut grass as mulch,-156.501148590507,20.8293377453588
+63,d2e5fd3a-7443-42fc-bbe6-0302ec92e090,2/4/2023 8:00:15 PM,,2/4/2023 8:00:15 PM,,Rohan Fahland,,Inside the field,One crop,kalo_(taro),,,,Dry land taro,-156.501478726725,20.8287495973888
+64,1192eff9-948b-4ab6-92a0-d595e66a0b52,2/4/2023 8:00:39 PM,,2/4/2023 8:00:39 PM,,Sean McCormick,,Inside the field,One crop,kalo_(taro),,,,,-156.501091906085,20.829763154877
+65,71d7a9c6-1500-4bcb-b9f3-f2961add4e90,2/4/2023 8:02:15 PM,,2/4/2023 8:02:15 PM,,Joshua D Hinau-Nanod,,Inside the field,One crop,kalo_(taro),,,,,-156.501211599706,20.8295660482846
+66,7888a7db-1411-4af5-91b6-654ee646ca59,2/4/2023 8:02:20 PM,,2/4/2023 8:02:20 PM,,Brigette Tomas,,Inside the field,Multiple crops,"kalo_(taro),sugarcane",,kalo (taro),,"No fence surrounding 
+Drip irriagation 
+Wood chips mulch 
+",-156.50145667,20.82909665
+67,8414123c-6b30-4476-8f09-6ea156092fcc,2/4/2023 8:04:11 PM,,2/4/2023 8:04:11 PM,,Rohan Fahland,,On the edge of the field,Fallow,,,,,,-156.501422640539,20.8294923058916
+68,6b12e12e-afe4-4dab-b7af-c3c59e24b14c,2/4/2023 8:04:20 PM,,2/4/2023 8:04:20 PM,,Anna Galbreath,,Inside the field,One crop,kalo_(taro),,kalo (taro),,,-156.50101381714,20.8289756856613
+69,bdaf8930-52b5-4984-9ddc-abe5b80a5d49,2/4/2023 8:04:43 PM,,2/4/2023 8:04:43 PM,,Joshua D Hinau-Nanod,,On the edge of the field,Fallow,,,,,,-156.501299555861,20.829751970925
+70,05c98713-33b2-4fa3-8288-32eb7ae1c054,2/4/2023 8:06:08 PM,,2/4/2023 8:06:08 PM,,Paige Moffitt,,Inside the field,Multiple crops,other,peanut ,,,"mixed field with peanuts , okra, and a root vegetable that I can no identify.  These crops are in between two fallow fields ",-156.502250394028,20.8294985348607
+71,4cd0c4ca-d3cd-4e9a-82d6-0069ebc87b0a,2/4/2023 8:06:34 PM,,2/4/2023 8:06:34 PM,,Nicholas Adams,,Inside the field,Multiple crops,"kalo_(taro),sugarcane",,kalo (taro),,"Mulch, no fence ",-156.50135307815,20.8289321617199
+72,b2bc85c1-20f6-40d1-aa32-a391a9ce264c,2/4/2023 8:07:46 PM,,2/4/2023 8:07:46 PM,,Charlotte Cabaccang,,Inside the field,One crop,other,Pumpkin,,,,-156.500259128908,20.8291533155218
+73,12caceea-5947-43a5-84ca-0b7dad8567f0,2/4/2023 8:08:33 PM,,2/4/2023 8:08:33 PM,,Nicolette van der Lee,,Inside the field,Multiple crops,"mai`a_(banana),other","okra, mixed veg",other,mixed veg,use of plastic weed suppressant; no fence,-156.502213780467,20.8293582224009
+74,37ea01b3-407a-4fc3-8983-13990af30c77,2/4/2023 8:09:38 PM,,2/4/2023 8:09:38 PM,,jerr isdale,,On the edge of the field,Multiple crops,"mai`a_(banana),sugarcane,other","ocra,dicon, peanut",,,,-156.50222848,20.82959182
+75,93741b6a-9908-49b0-ba2e-36cb4a8ebe9b,2/4/2023 8:10:02 PM,,2/4/2023 8:10:02 PM,,Sean McCormick,,Inside the field,Multiple crops,"`uala_(sweet_potato),other",Radish,,,,-156.501737561215,20.82908043595
+76,9ed36a48-41ea-47d5-b796-1d1274107da5,2/4/2023 8:12:42 PM,,2/4/2023 8:12:42 PM,,Sean,,Inside the field,Fallow,,,,,Looks like some Taro but mostly fallow (~80-90%),-156.501801110633,20.8287815178679
+77,734d1553-4db1-42d1-81cd-7cfeeb4abb74,2/4/2023 8:16:08 PM,,2/4/2023 8:16:08 PM,,Paige Moffitt ,,Inside the field,One crop,kalo_(taro),,kalo (taro),,,-156.50117901068,20.8298121432452
+78,c17700fa-9e7d-4a02-8233-dd09f37de8b4,2/4/2023 8:20:42 PM,,2/4/2023 8:20:42 PM,,Jeffrey wayer,,On the edge of the field,One crop,"kalo_(taro),macadamia_nut",,,,App test ,-156.501305398843,20.8291462787712
+79,52d2c2f8-2747-4894-9351-d1e573947bd0,2/4/2023 8:34:18 PM,,2/4/2023 8:34:18 PM,,Jeffrey wayer,,Inside the field,Fallow,,,,,App test empty field ,-156.500635895185,20.8283761516534
+80,4c2cacb2-b48e-44bc-951a-e9c7f5ec00aa,2/4/2023 8:38:20 PM,,2/4/2023 8:38:20 PM,,Rohan Fahland,,Inside the field,Fallow,,,,,Sugar cane border,-156.50139730792,20.8277327836346
+81,a624fe60-d1e9-47ac-bf31-200b03c2ef36,2/4/2023 8:39:17 PM,,2/4/2023 8:39:17 PM,,Joshua D Hinau-Nanod,,Inside the field,Fallow,,,,,Boarded by cane grass,-156.50098576082,20.8275943730492
+82,30494e68-e5d4-45dd-9a23-2acee3ed41ba,2/4/2023 8:39:44 PM,,2/4/2023 8:39:44 PM,,Charlotte Cabaccang,,Inside the field,Fallow,,,,,Fallow with cane grass on either side,-156.501510486804,20.8282956556812
+83,3aa6b0cb-88bc-47c7-b5bf-17d0f65f7caa,2/4/2023 8:40:00 PM,,2/4/2023 8:40:00 PM,,Anna Galbreath,,Inside the field,Multiple crops,other,"Radishes, ",not applicable,,,-156.501856916596,20.8290689051329
+84,31fc61da-8528-4bf2-b2f7-3fe93cdc7f24,2/4/2023 8:40:05 PM,,2/4/2023 8:40:05 PM,,Nicholas Adams,,Inside the field,Fallow,,,,,Windbreak of cane grass on either side,-156.501479978541,20.8280097681481
+85,ee0ba9ad-59d2-4c09-b19e-0c4f1976d5ef,2/4/2023 8:40:06 PM,,2/4/2023 8:40:06 PM,,Anna Galbreath,,On the edge of the field,Fallow,sugarcane,,sugarcane,,There are rows of sugarcane with plenty of fallow between each row.,-156.501885065496,20.8285859115225
+86,c1343c82-bceb-4a0b-aab7-3055174dccba,2/4/2023 8:41:08 PM,,2/4/2023 8:41:08 PM,,Anna Galbreath ,,Inside the field,Fallow,,,,,,-156.500749698441,20.8282964988398
+87,91cffc88-6720-4649-9ea8-fd472f46803a,2/4/2023 8:41:09 PM,,2/4/2023 8:41:09 PM,,Joshua D Hinau-Nanod,,Inside the field,Fallow,,,,,,-156.501208404248,20.8271998947694
+88,bbbdc7dc-71ff-4692-88d5-9f9f24ebeedf,2/4/2023 8:41:13 PM,,2/4/2023 8:41:13 PM,,Sean McCormick,,Inside the field,Fallow,,,,,Sugar Cane border no fence,-156.5010431277,20.8273378155521
+89,54291066-e35f-4283-883d-394d660fe76e,2/4/2023 8:42:06 PM,,2/4/2023 8:42:06 PM,,Charlotte Cabaccang,,Inside the field,Fallow,,,,,Has strips of sugar cane on either side. Used plastic to cover most of the soil,-156.501387943643,20.8282241967378
+90,80c1831c-7e73-4ca3-bf59-30f76c8efa04,2/4/2023 8:42:16 PM,,2/4/2023 8:42:16 PM,,Brigette Tomas,,Inside the field,Fallow,,,,,"Cane grass as windbreak
+",-156.5010257,20.82782578
+91,ea62124a-6491-4719-9efc-d6064a35516d,2/4/2023 8:45:13 PM,,2/4/2023 8:45:13 PM,,Charlotte Cabaccang,,Inside the field,Fallow,,,,,Fallow with strips of sugar cane in either side. Mostly uses plant cuttings and some plastic to cover the soil.,-156.500664662407,20.8279462563027
+92,acd5d5b7-10df-427c-ba3b-11792434c785,2/4/2023 8:52:24 PM,,2/4/2023 8:52:24 PM,,Hannah,,Inside the field,Fallow,,,,,,-156.50144048981,20.8282865770319
+93,91fdb373-3b98-4f3d-914b-6fe60b29d521,2/4/2023 9:59:53 PM,NASAHarvestCollector_UofMD,2/4/2023 9:59:53 PM,NASAHarvestCollector_UofMD,Catherine Nakalembe,,Inside the field,One crop,kalo_(taro),,,,,-156.501200058267,20.8289722796439
+94,a6ff6821-5beb-4488-beac-5ce7564120a5,2/4/2023 11:17:36 PM,,2/4/2023 11:17:36 PM,,Dustin Palos,,Inside the field,Multiple crops,other,"Bitter melon, okra, mixed greens",,,"Farmer no present, no fence, ",-156.50225365,20.82933968
+95,2462a828-3c41-413a-9628-e38ede91f55f,2/4/2023 11:17:37 PM,,2/4/2023 11:17:37 PM,,Julian Marcus Boone-Rogers,,Inside the field,Multiple crops,"coffee,tropical_fruits,sugarcane,`ulu_(breadfruit),`uala_(sweet_potato)",,other,,Dominant crop is Sweet Potato,-156.47995536957,20.8925674035365
+96,75705955-d5a0-407b-b833-e1ce57210c03,2/4/2023 11:17:40 PM,,2/4/2023 11:17:40 PM,,Julian Boone,,Inside the field,Multiple crops,other,Bitter Melon Okra Radish,not applicable,,3 crops of diffferent levels,-156.502256515295,20.8293238808201
+97,60510564-c6bf-4fb9-a5a2-a57fd9c8523d,2/4/2023 11:17:45 PM,,2/4/2023 11:17:45 PM,,Julian Boone,,Inside the field,One crop,kalo_(taro),,,,Large field with a wind break made of sugar cane on the south side,-156.501546955857,20.8286270752659
+98,b290be16-f407-4011-be72-0388199f8d94,2/4/2023 11:17:47 PM,,2/4/2023 11:17:47 PM,,Julian Boone,,Inside the field,Fallow,other,Fallow,,,Fallo win between fields ,-156.501647923726,20.8294598644185
+99,240a4b19-686c-40e7-9476-262a7e08fb01,2/4/2023 11:17:49 PM,,2/4/2023 11:17:49 PM,,Julian Boone,,Inside the field,Fallow,,,,,Wind breaks on both sides made of sugarcane,-156.501586695648,20.8275742735465
+100,00f9c004-ecee-495d-ad93-ded0a2971a9a,2/5/2023 1:19:38 AM,,2/5/2023 1:19:38 AM,,Mary Alleca,,On the edge of the field,Fallow,,,,,"Tilled field, ready for planting.",-156.50221831,20.8296259
+101,71c6838f-b1f2-44c3-b1d9-1939cda3f63f,2/5/2023 1:19:40 AM,,2/5/2023 1:19:40 AM,,Mary Alleca,,Inside the field,Multiple crops,other,"Okra, tomato",,,,-156.50052809,20.82884508
+102,03cb0552-6478-43e8-ba40-c5128a92c801,2/5/2023 1:19:44 AM,,2/5/2023 1:19:44 AM,,Mary Alleca,,Inside the field,Fallow,,,,,Border cane grass and coconut,-156.50188785,20.82740467
+103,6b18d684-93f2-417f-9965-ac360b16beaf,2/5/2023 1:19:46 AM,,2/5/2023 1:19:46 AM,,Mary Alleca,,Inside the field,One crop,niu_(coconut),,,,"Borders of road and banana, no fence",-156.50121987,20.82690729
+104,9157ab3e-84d7-4251-a153-2cf0ad72945e,2/5/2023 1:19:50 AM,,2/5/2023 1:19:50 AM,,Mary Alleca,,Inside the field,One crop,"tropical_fruits,mai`a_(banana)",,,,"Rows of citrus and banana with cane grass and coconut field borders, no fence",-156.50158919,20.82689792
+105,355eb074-1025-47d4-8edc-7d0035627eee,2/10/2023 8:31:43 PM,,2/10/2023 8:31:43 PM,,Jeffrey Wayer,,Inside the field,Multiple crops,"vegetables_(e.g._leafy_greens_c,other","Radishes, cabbages ",other,Radishes ,"Make their own mulch 
+Has occasionally problems with nema toads and fungus ",-156.298594102852,20.8998531147617
+106,e5853ee5-4073-4794-88e7-780e5d655a83,2/10/2023 8:34:08 PM,,2/10/2023 8:34:08 PM,,Jeffrey wayer ,,Inside the field,Multiple crops,niu_(coconut),,niu (coconut),,"A few banana trees grown with the coconuts 
+",-156.298758396867,20.9000987050843
+107,c8fd7bc2-2de5-47b7-8585-b0cfb2c6540b,2/10/2023 8:35:48 PM,,2/10/2023 8:35:48 PM,,Brigette Tomas,,Inside the field,Multiple crops,other,"Finger lime, Lime, Key lime, Orange ",not applicable,,All citrus fruits,-156.29864629,20.89988772
+108,df303dc4-9179-4782-9039-28dac84bf6f5,2/10/2023 8:36:08 PM,,2/10/2023 8:36:08 PM,,Jeffrey wayer ,,Inside the field,One crop,tropical_fruits,,,,Papaya ,-156.298582992458,20.8999932851342
+109,78c8f1eb-bf62-4ac1-a75d-f4a82dad37af,2/10/2023 8:40:13 PM,,2/10/2023 8:40:13 PM,,Jeffrey wayer,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),mai`a_(banana),macadamia_nut",,mai`a (banana),,Grown in a small grove ,-156.298870503718,20.8999038034747
+110,f5eb0b5d-a11d-49c0-ae72-1db755dbb63b,2/10/2023 8:49:20 PM,,2/10/2023 8:49:20 PM,,Jeffrey wayer,,Inside the field,One crop,kalo_(taro)_-_mala_(dryland),,,,"Uses homemade mulch 
+Some problems with fungus and nematodes ",-156.298624664087,20.89998014305
+111,a6865d24-b4ba-40a1-878c-e87907844754,2/10/2023 8:49:51 PM,,2/10/2023 8:49:51 PM,,Brigette Tomas,,Inside the field,One crop,kalo_(taro)_-_mala_(dryland),,,,Fungus and nematode problems on farm,-156.29867296,20.89994882
+112,816bdc2a-2ffb-4d20-b000-cb7cd63ffe34,2/10/2023 8:50:46 PM,,2/10/2023 8:50:46 PM,,Jeffrey wayer ,,Inside the field,Multiple crops,"niu_(coconut),mai`a_(banana)",,mai`a (banana),,,-156.298790875307,20.8997697658035
+113,064e6bbe-2369-4246-9de3-bec9327fb5d4,2/10/2023 8:53:36 PM,,2/10/2023 8:53:36 PM,,Jeffrey wayer ,,Inside the field,Multiple crops,"`ulu_(breadfruit),tropical_fruits",,`ulu (breadfruit),,,-156.298597583187,20.8997089828454
+114,8044927a-9555-46a6-9dfe-bec9816b9718,2/10/2023 8:55:38 PM,,2/10/2023 8:55:38 PM,,Jeffrey wayer ,,Inside the field,Multiple crops,"tropical_fruits,other",Caco tree ,other,Caco tree,Caco field with some tropical fruits- orange and lemon ,-156.298475317611,20.8996722404615
+115,ecab508d-4b1e-43a0-af5b-c52d44cde47d,2/10/2023 8:57:29 PM,,2/10/2023 8:57:29 PM,,Brigette Tomas,,Inside the field,Multiple crops,other,"Citrus, Calamansi tree",,,Fungi and Nematode problem on farm,-156.29835162,20.89969643
+116,b83be583-e8ca-42c2-82b7-1a5ccbba41a9,2/10/2023 8:57:51 PM,,2/10/2023 8:57:51 PM,,Jeffrey wayer ,,Inside the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),mai`a_(banana),vegetables_(e.g._leafy_greens_c",,kalo (taro) - mala (dryland),,"Kalo, bananas, cabbages, Caco tree ",-156.298411098732,20.8998108032756
+117,27a29cc8-3216-48f0-b01f-651ea3df29d6,2/10/2023 8:59:14 PM,,2/10/2023 8:59:14 PM,,Jeffrey wayer,,Inside the field,One crop,kalo_(taro)_-_mala_(dryland),,,,Homemade mulch and some nematodes problems ,-156.29846219086,20.899807610451
+118,57d5e1a7-7110-4aa3-9cfb-2d74b3f80cde,2/10/2023 9:00:48 PM,,2/10/2023 9:00:48 PM,,Jeffrey wayer,,Inside the field,One crop,mai`a_(banana),,,,,-156.298335979338,20.9001485789984
+119,63896c27-9b5d-4b48-b52c-6b9b040744f8,2/10/2023 9:02:41 PM,,2/10/2023 9:02:41 PM,,Brigette Tomas,,Inside the field,One crop,tropical_fruits,,,,"Abiu fruit
+Fungi and nematode problem on farm ",-156.29860593,20.90019498
+120,941b950a-935d-4486-81d4-328f2051962a,2/10/2023 9:08:46 PM,,2/10/2023 9:08:46 PM,,Jeffrey Wayer,,On the edge of the field,One crop,other,Caco tree ,,,,-156.298342574467,20.8996555953512
+121,92fc43bc-a6ab-48d1-b7b2-3e4233d30199,2/11/2023 7:29:33 PM,,2/11/2023 7:29:33 PM,,Paige Moffitt,,On the edge of the field,One crop,other,sunflower ,,,,-156.504166976199,20.8229559625966
+122,239385db-b97b-4435-a64a-f66d82175fbb,2/11/2023 7:30:05 PM,,2/11/2023 7:30:05 PM,,Sean,,On the edge of the field,Fallow,,,,,,-156.503696877092,20.8231703665447
+123,71fe4a4a-8f89-4202-9f9b-9dfbc82a5f79,2/11/2023 7:31:53 PM,,2/11/2023 7:31:53 PM,,jerry isdale,,On the edge of the field,Fallow,"other,kalo_(taro)",dirt,,,fallow w plastic tarp and cane grass border,-156.50403149,20.82311587
+124,090f8646-ad3e-4315-97e4-df1571c4b00d,2/11/2023 7:32:43 PM,,2/11/2023 7:32:43 PM,,Sean,,On the edge of the field,One crop,other,Tomato,,,,-156.503310266029,20.8232611239014
+125,2a2c4b5f-0c4c-4ea1-bea5-f46c47e6a388,2/11/2023 7:33:24 PM,,2/11/2023 7:33:24 PM,,Nick Adams,,Inside the field,One crop,other,Sunflower,,,,-156.503477604189,20.8229590527335
+126,90daf97b-0c32-4675-9fa6-305eaf583ded,2/11/2023 7:33:58 PM,,2/11/2023 7:33:58 PM,,Pono Fortune,,Inside the field,Multiple crops,"tropical_fruits,`ulu_(breadfruit),sugarcane,`uala_(sweet_potato)",,other,sweet potato,,-156.47995179,20.8925517
+127,aab773f5-afc2-48e0-9a7f-6262e7b16064,2/11/2023 7:34:01 PM,,2/11/2023 7:34:01 PM,,Pono Fortune,,On the edge of the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),other",tomato,kalo (taro) - mala (dryland),,,-156.50351813,20.82317991
+128,1763f311-e33e-49f8-8a3a-93fbea72988f,2/11/2023 7:34:09 PM,,2/11/2023 7:34:09 PM,,jerryisfale,,On the edge of the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),vegetables_(e.g._leafy_greens_c,other","tomato, squah, o:ra",,,,-156.50363017,20.82329016
+129,c4c7799f-7572-4344-bbe7-739f072ae472,2/11/2023 7:34:11 PM,,2/11/2023 7:34:11 PM,,Olivia Gray,,Inside the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),other",tomato,,,,-156.503610648111,20.8232115586254
+130,1dbff772-a1dc-4e9c-9516-58303dc65ea5,2/11/2023 7:34:56 PM,,2/11/2023 7:34:56 PM,,Brigette Tomas,,Inside the field,One crop,other,Sunflower,,,Farmer indicated they will plant sunflower the next day.,-156.50353343,20.82306489
+131,6036a4b8-c19b-4da9-b149-9471d0146d54,2/11/2023 7:35:05 PM,,2/11/2023 7:35:05 PM,,Pono Fortune,,On the edge of the field,Fallow,,,,,feild will be planted with sunflower in the next feq days,-156.50351576,20.82317836
+132,b72fc50e-91d7-436e-91b7-78fb0853d0ed,2/11/2023 7:35:19 PM,,2/11/2023 7:35:19 PM,,Anna Galbreath,,On the edge of the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),vegetables_(e.g._leafy_greens_c,niu_(coconut)",,not applicable,,"Coconut trees are windbreaks. This is an experimental area where they tried tomatoes and taro, but there are a good amount of weeds as well.",-156.503531561312,20.8231734281187
+133,fe5eedba-d0de-4899-8cae-8753abd8e14f,2/11/2023 7:35:35 PM,,2/11/2023 7:35:35 PM,,Sean,,Inside the field,Pasture,,,,,,-156.503350317514,20.8231128062817
+134,8b7e08ff-e19a-432d-a87d-005320c66426,2/11/2023 7:36:17 PM,,2/11/2023 7:36:17 PM,,Paige Moffitt,,Inside the field,One crop,other,sunflower,,,currently fallow but planting sunflower tomorrow ,-156.503399992717,20.8231485709796
+135,6ba602fb-f0be-4781-a197-a2403f91a323,2/11/2023 7:38:15 PM,,2/11/2023 7:38:15 PM,,Jeffrey Wayer,,On the edge of the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),vegetables_(e.g._leafy_greens_c",,kalo (taro) - mala (dryland),,Other leafy greens present along with weeds ,-156.502729356502,20.8234708255665
+136,ea8e6be4-cc39-4bd2-8732-712c56d72d04,2/11/2023 7:41:02 PM,,2/11/2023 7:41:02 PM,,Brigette Tomas,,Inside the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),vegetables_(e.g._leafy_greens_c",,kalo (taro) - mala (dryland),,"Vegetable - Tomatoes
+with some Fallow",-156.50392197,20.82312332
+137,a0838b91-d0aa-4f07-942b-f690d1ffcbe6,2/11/2023 7:42:15 PM,,2/11/2023 7:42:15 PM,,Paige Moffitt,,On the edge of the field,One crop,mai`a_(banana),,,,,-156.50251370118,20.8234051999005
+138,12717649-017e-4b37-bd7f-6167574c3cae,2/11/2023 7:46:18 PM,,2/11/2023 7:46:18 PM,,Sean,,Inside the field,Pasture,,,,,,-156.503629363079,20.8218503073108
+139,eebb15eb-80ab-4a82-b9d0-2c8502636c89,2/11/2023 7:47:11 PM,,2/11/2023 7:47:11 PM,,pono fortunr,,Inside the field,Fallow,,,,,field will be planted with sumflowers in the next few days,-156.50340598,20.82129373
+140,b7cb33cf-4911-4ea1-83c7-c47c444138fd,2/11/2023 7:48:47 PM,,2/11/2023 7:48:47 PM,,Olivia Gray,,Inside the field,One crop,other,Sunflower,,,Sunflower grown for biodiesel.,-156.503584798962,20.8215838094586
+141,55e51740-8a73-4e04-b005-6cfc58529dd2,2/11/2023 7:49:13 PM,,2/11/2023 7:49:13 PM,,Pono Fortune,,On the edge of the field,One crop,other,sunflower,,,,-156.50366663,20.820156
+142,28dab166-0bbb-4464-a228-8c5efa66bd00,2/11/2023 7:49:32 PM,,2/11/2023 7:49:32 PM,,jerry isfale,,Inside the field,One crop,other,sunflower,,,pivot irrigation ,-156.5035634,20.81961312
+143,73872579-d38b-43a5-970c-aeda4dd16a79,2/11/2023 7:49:59 PM,,2/11/2023 7:49:59 PM,,Sean,,Inside the field,Pasture,,,,,,-156.503822441847,20.8210571937185
+144,c6ef736f-b185-4759-afa7-a517ddad30c6,2/11/2023 7:50:45 PM,,2/11/2023 7:50:45 PM,,Brigette Tomas,,Inside the field,One crop,other,Sunflower,,,"Uses a pivot watering system to water
+",-156.50395455,20.82021645
+145,3c5e0fc0-ecdf-4db7-8eb7-63ab186c492d,2/11/2023 7:50:59 PM,,2/11/2023 7:50:59 PM,,Olivia Gray,,Inside the field,One crop,other,Sunflower,,,Sunflower grown for biodiesel.,-156.503996583636,20.819920379332
+146,1ed8d3c0-5cc2-4d6f-9a6d-a7b6293da4b5,2/11/2023 7:51:11 PM,,2/11/2023 7:51:11 PM,,CWC,,On the edge of the field,One crop,other,Sunflower,,,"This is a one crop field, nothing else will grow in the year except for sunflowers. Their biggest limiting factor is water shortage and expenses.",-156.504322876081,20.8205989571673
+147,5f821bf1-36cc-4ea4-9d56-09a55b58e978,2/11/2023 7:51:11 PM,,2/11/2023 7:51:11 PM,,Sean,,Inside the field,One crop,other,Sunflower,,,,-156.504105999378,20.8203480857159
+148,f3d034a1-cab3-44ac-95d6-7e510e83d416,2/11/2023 7:52:02 PM,,2/11/2023 7:52:02 PM,,Jeffrey Wayer,,On the edge of the field,One crop,other,Sunflowers ,,,,-156.503714209157,20.8201655607321
+149,5472fa2d-0660-4444-b4d7-beb00dcf7c2e,2/11/2023 7:56:48 PM,,2/11/2023 7:56:48 PM,,Pono Fortune,,Inside the field,One crop,other,sunflower,,,,-156.5039121,20.82011336
+150,02bc39cf-4903-4df1-bcfe-de26d52f2309,2/11/2023 7:56:51 PM,,2/11/2023 7:56:51 PM,,Pono Fortune,,On the edge of the field,One crop,other,sunflower,,,,-156.50407761,20.82040899
+151,95f5daa3-6926-42bf-b889-f9544fed6c80,2/11/2023 7:57:44 PM,,2/11/2023 7:57:44 PM,,Pono Fortune,,On the edge of the field,Fallow,,,,,field will be planted with sunflower in the next few days,-156.50402818,20.82044013
+152,07a86386-ce94-4bfa-a350-b7a24caba62e,2/11/2023 8:18:48 PM,,2/11/2023 8:18:48 PM,,Jeffrey Wayer,,On the edge of the field,One crop,other,Bitterlemon ,,,,-156.505989664203,20.8215739156733
+153,3bea51f3-a2d2-46f5-8f1f-c456bd5c4937,2/11/2023 8:19:03 PM,,2/11/2023 8:19:03 PM,,Sean,,On the edge of the field,One crop,other,Bittermelon ,,,,-156.505986951937,20.8215937112535
+154,0fa5c2d2-0a97-4c4c-8778-07d5836c5417,2/11/2023 8:19:14 PM,,2/11/2023 8:19:14 PM,,Paige Moffitt ,,On the edge of the field,One crop,other,bitter melon,,,,-156.505989952266,20.8215700656068
+155,0ef92208-8402-40b6-a698-bfeada00667d,2/11/2023 8:19:29 PM,,2/11/2023 8:19:29 PM,,jerry isfale,,On the edge of the field,Multiple crops,"mai`a_(banana),other","bitter mellon, fallow",,,,-156.50616399,20.82158575
+156,504c8fe7-3c1e-442d-a6bd-18d7b5c062ab,2/11/2023 8:19:33 PM,,2/11/2023 8:19:33 PM,,Olivia Gray,,Inside the field,Fallow,,,,,Bordered by banana trees on one side of the field.,-156.506127489998,20.8215753903343
+157,9b4e8159-95f5-427b-8f58-3b1a13343b6e,2/11/2023 8:19:54 PM,,2/11/2023 8:19:54 PM,,Sean,,On the edge of the field,One crop,other,Sunflower,,,"
+",-156.506011259274,20.8213477348425
+158,32ef1a11-a351-4c53-ba4d-6e377f4d5f64,2/11/2023 8:20:08 PM,,2/11/2023 8:20:08 PM,,Cwc,,On the edge of the field,Fallow,other,Bittermelon,,,Uses plastic to cover the soil.,-156.505980325143,20.8216194101389
+159,e8d974b7-67cd-4f4a-9eba-6dd6991b84fd,2/11/2023 8:20:23 PM,,2/11/2023 8:20:23 PM,,Anna G,,On the edge of the field,One crop,other,Sunflower,,,"Will be in bloom in about a week. This area switches between sunflower, sunn hemp, and ",-156.505048066647,20.8210912514789
+160,2e28a7ec-a121-49f4-900f-152c2b6332b3,2/11/2023 8:20:28 PM,,2/11/2023 8:20:28 PM,,Anna G,,On the edge of the field,Multiple crops,"mai`a_(banana),other",Bittermelon,other,Bittermelon,Banana is a windbreak.,-156.505981316753,20.8216107753142
+161,e2860224-c484-4050-9c45-6ff4cfe7af28,2/11/2023 8:20:33 PM,,2/11/2023 8:20:33 PM,,Brigette Tomas,,On the edge of the field,One crop,other,Bittermelon,,,"Has Banana tree windbreak
+",-156.50608125,20.82153337
+162,5546f113-1028-4be3-a110-abf53e7d844b,2/11/2023 8:20:40 PM,,2/11/2023 8:20:40 PM,,Pono Fortune,,On the edge of the field,Multiple crops,"other,mai`a_(banana)",bittermelon,other,bittermelon,,-156.50591631,20.82160622
+163,c1d3d0ef-5499-4676-b607-c57de638f2c5,2/11/2023 8:21:01 PM,,2/11/2023 8:21:01 PM,,Jeffrey Wayer,,On the edge of the field,Fallow,,,,,,-156.506038277536,20.8214903641845
+164,fbc30fcd-eca2-4178-88bc-94568e578bba,2/11/2023 8:23:40 PM,,2/11/2023 8:23:40 PM,,Sean,,Inside the field,Fallow,,,,,,-156.505915309947,20.8218117151988
+165,cdc4b839-22cf-4541-9a80-fbbdd95e2263,2/11/2023 8:26:11 PM,,2/11/2023 8:26:11 PM,,Cwc,,On the edge of the field,One crop,other,Sunflower,,,"Sunflowers will be planted the next day, they’ll pop up in the next two weeks.",-156.505590997314,20.8220567070966
+166,e411f5d1-1649-4466-866b-38d566998812,2/11/2023 8:27:30 PM,,2/11/2023 8:27:30 PM,,Pono Fortune,,On the edge of the field,Fallow,,,,,field will be planted with sunflower in the next few days,-156.50461607,20.8225859
+167,6f9b496b-49a3-48d9-9669-8e98c0181fd6,2/12/2023 1:06:56 AM,,2/12/2023 1:06:56 AM,,Mary Alleca0,,Inside the field,Fallow,,,,,Will be planted with sunflower tomorrow,-156.50340583,20.82311349
+168,24bfc710-8fa0-4f86-8cc7-ab42a8e7760a,2/12/2023 1:07:00 AM,,2/12/2023 1:07:00 AM,,Mary Alleca,,On the edge of the field,One crop,other,Sunflower,,,Late harvest due to weather - not enough sunlight.,-156.5040072,20.8203178
+169,c4de6b60-a6bd-41d6-b404-92091b4b56b2,2/12/2023 1:07:04 AM,,2/12/2023 1:07:04 AM,,Mary Alleca,,On the edge of the field,Fallow,,,,,Sunflower planting tomorrow,-156.50402507,20.82040239
+170,51ab737a-df99-4990-a368-90f41e9979f1,2/12/2023 1:07:10 AM,,2/12/2023 1:07:10 AM,,Mary Alleca0+,,On the edge of the field,One crop,other,Bittermelon,,,,-156.50648954,20.82186663
+171,2b2a706a-ddea-44be-9ef0-1c36a2fe473a,2/12/2023 1:07:14 AM,,2/12/2023 1:07:14 AM,,Mary Alleca,,On the edge of the field,Fallow,,,,,,-156.50651718,20.82156657
+172,ee4f1fd4-05e1-465b-a8e1-bea8de21b304,2/12/2023 1:07:17 AM,,2/12/2023 1:07:17 AM,,Mary Alleca,,On the edge of the field,Fallow,,,,,,-156.50645937,20.82149858
+173,0b3f1a56-4e0c-45f6-b6a5-3b740431bab9,2/12/2023 1:07:21 AM,,2/12/2023 1:07:21 AM,,Mary Alleca,,On the edge of the field,Fallow,,,,,,-156.50533478,20.82226224
+174,d62c9eb7-ad10-4a5c-8160-ea43248de6d3,2/12/2023 1:07:24 AM,,2/12/2023 1:07:24 AM,,Mary Alleca,,On the edge of the field,One crop,mai`a_(banana),,,,,-156.33992213,20.8843974
+175,c8b5ba27-2bdb-4b3e-a1ea-635cdc7c5099,2/12/2023 1:07:27 AM,,2/12/2023 1:07:27 AM,,Mary Alleca,,Inside the field,Multiple crops,"other,kalo_(taro)","Herbs, olena, green onions, tomato,kale",,,Greenhouse for plant seedlings,-156.34018484,20.88425166
+176,3f470ca5-85a0-46a5-983e-ec79134c8ac6,2/12/2023 1:07:35 AM,,2/12/2023 1:07:35 AM,,Mary Alleca,,On the edge of the field,One crop,kalo_(taro),,,,,-156.34023653,20.88403135
+177,3cffbda1-8d0b-47c9-b3b0-98ad66cb9cc7,2/14/2023 9:42:17 PM,mweinhouse_LHES,2/14/2023 9:42:17 PM,mweinhouse_LHES,Michele Weinhouse,,On the edge of the field,Home garden or irregular,"`uala_(sweet_potato),vegetables_(e.g._leafy_greens_c,other",papaya,other,tomatoes,"mostly hydroponics
+",-156.919542769464,20.8233003906394
+178,49e8d9d2-e3c8-4ba1-bf46-9d5aa2a8b547,2/15/2023 7:15:26 PM,NASAHarvestCollector_UofMD,2/15/2023 7:15:26 PM,NASAHarvestCollector_UofMD,Gabriel Tseng,,Inside the field,One crop,macadamia_nut,,,,,-157.04882715,21.16623965
+179,16236493-b468-4898-b4cc-3dcd3420ace5,2/15/2023 7:15:34 PM,NASAHarvestCollector_UofMD,2/15/2023 7:15:34 PM,NASAHarvestCollector_UofMD,Gabriel Tseng,,Inside the field,One crop,tropical_fruits,,,,mango,-157.04781182,21.16644674
+180,b43130f9-9ecf-4b8e-98e7-d41c9f6da008,2/16/2023 7:08:15 PM,,2/16/2023 7:08:15 PM,,Aubrey,,On the edge of the field,Fallow,,,,,Fence is blocking animals from eating their crops.,-156.92399627,20.82508831
+181,d2a65eee-ba23-495d-ac4a-c28c6837699d,2/16/2023 7:15:10 PM,,2/16/2023 7:15:10 PM,,Aubrey,,Inside the field,Multiple crops,"other,tropical_fruits","Papaya, marungay, ginger, lei plants, ",,,,-156.92398822,20.82514253
+182,0c7c3731-6d46-4eda-9d8c-9ffa1b5e4dde,2/16/2023 9:28:53 PM,,2/16/2023 9:28:53 PM,,Jayleen ,,On the edge of the field,Home garden or irregular,"`ulu_(breadfruit),mai`a_(banana),vegetables_(e.g._leafy_greens_c,other,sugarcane",Lemon grass ,,,"Deer fence 
+Is it irrigated? What are the challenges you face? How much do you produce? Pests? ",-156.922723770994,20.8268457266769
+183,0ed44faa-30ca-444b-8b0f-37d5b04c07e1,2/16/2023 9:28:54 PM,,2/16/2023 9:28:54 PM,,ervina,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),mai`a_(banana),vegetables_(e.g._leafy_greens_c",,,,"There’s a fence to keep deer out. (DEER FENCE) 
+Irrigation",-156.923556371944,20.8262521565737
+184,c376c16a-5a74-4af8-8842-5878dd3ee54e,2/16/2023 9:28:56 PM,,2/16/2023 9:28:56 PM,,Alex ,,On the edge of the field,Home garden or irregular,"`ulu_(breadfruit),mai`a_(banana),vegetables_(e.g._leafy_greens_c,other","Lemon grass, ",,,"Deer fence, rain water ",-156.923539100065,20.8263327111639
+185,9144a8a8-803d-4d3c-9fa0-7031db184ba2,2/16/2023 9:29:00 PM,,2/16/2023 9:29:00 PM,,Geiv ,,On the edge of the field,Home garden or irregular,"`ulu_(breadfruit),mai`a_(banana),vegetables_(e.g._leafy_greens_c,other",Lemon grass ,,,"There’s a deer fence, irrigated, yields, pests, ",-156.92269981115,20.8268017684244
+186,73cb15e3-724b-41fd-a7c5-5d299d1feb3e,2/16/2023 9:29:02 PM,,2/16/2023 9:29:02 PM,,Makamae,,On the edge of the field,Home garden or irregular,"`ulu_(breadfruit),mai`a_(banana),vegetables_(e.g._leafy_greens_c,other",Lemon grass ,,,"Deer fence. On school grounds. 
+Question: 
+- yield 
+- any challenges 
+- what grows well",-156.923541204952,20.826359931776
+187,765d968b-0a8d-4002-b56e-f9831e5a5657,2/16/2023 9:29:06 PM,,2/16/2023 9:29:06 PM,,Andrei,,On the edge of the field,Home garden or irregular,"`ulu_(breadfruit),other,vegetables_(e.g._leafy_greens_c","Banana, lemon grass, ",,,"Deer fence, irrigated ",-156.923536483644,20.8263502178117
+188,20ed8db9-3a01-4192-ac1d-0034473ac339,2/16/2023 9:29:37 PM,,2/16/2023 9:29:37 PM,,Hershey Lei,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),mai`a_(banana),vegetables_(e.g._leafy_greens_c,other",Lemongrass,not applicable,,"Deer fence, yielding, pests.
+
+- What are challenges farmers face with growing in their fields or gardens?
+- Is this garden irrigated? ",-156.923616263394,20.8261339969861
+189,61d80c89-bd75-43ee-bfa9-92200355d0e0,2/16/2023 9:36:33 PM,,2/16/2023 9:36:33 PM,,ervina ,,On the edge of the field,Home garden or irregular,"tropical_fruits,other",TI LEAF & Fallows,,,"DEER FENCE
+MOSTLY TALL GRASS (fallow land)
+",-156.923772005318,20.8252945406277
+190,3322aa0f-64a8-43ac-8948-d98deb87c928,2/16/2023 9:36:56 PM,,2/16/2023 9:36:56 PM,,Geiv ,,On the edge of the field,Home garden or irregular,other,Tea leaf papaya ,,,Deer fence pests a lot of fallow land irritated yields ,-156.923442710189,20.8259706112262
+191,a129f422-7eec-46d2-a4e8-b4d3f367311c,2/16/2023 9:37:01 PM,,2/16/2023 9:37:01 PM,,Jayleen,,On the edge of the field,Home garden or irregular,"vegetables_(e.g._leafy_greens_c,other","Papayas, tea leaf",,,"A lot of fallow land, fence around it, ",-156.923919539081,20.8254999940653
+192,fe2b9db0-81cc-46d2-a0b0-62f4b6abe283,2/16/2023 9:37:05 PM,,2/16/2023 9:37:05 PM,,Andrei,,On the edge of the field,Home garden or irregular,"other,vegetables_(e.g._leafy_greens_c","Tea leafs, papaya, lilikoi, banana, mamaki, ginger",,,"It’s fenced in, irrigated",-156.923732064883,20.8253094618794
+193,5da70b3f-4471-46b7-9cb0-57132ae1375c,2/16/2023 9:37:25 PM,,2/16/2023 9:37:25 PM,,Rennan,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),vegetables_(e.g._leafy_greens_c,other","Lemon grass, bananas",,,,-156.923536377709,20.8263328321112
+194,4a4cd0eb-16a0-4945-a01d-2fcc36496493,2/16/2023 9:37:36 PM,,2/16/2023 9:37:36 PM,,Makamae ,,On the edge of the field,Home garden or irregular,"mai`a_(banana),tropical_fruits,vegetables_(e.g._leafy_greens_c,other",Liliko’i mamaki tea leaf ,,,"Irrigation
+Dear fence
+A lot of elephant grass ",-156.923859684582,20.825328158608
+195,8aea5517-bd84-41c2-8ac7-cf1a93cb9fbf,2/16/2023 9:37:41 PM,,2/16/2023 9:37:41 PM,,Rennan,,On the edge of the field,Home garden or irregular,"tropical_fruits,vegetables_(e.g._leafy_greens_c",,,,Lots of fallow land and is irrigated ,-156.923782017676,20.8253261319682
+196,83eadaca-24d0-4502-8fc0-173c9630c75d,2/16/2023 9:37:47 PM,,2/16/2023 9:37:47 PM,,Alex ,,On the edge of the field,Home garden or irregular,"other,vegetables_(e.g._leafy_greens_c,mai`a_(banana),tropical_fruits","Papaya, ti leaf, ",,,"A lot of fallow land (lots of grass)  Deer fence, irrigated system, ",-156.923836719401,20.8253152951109
+197,6b987610-c07a-4d3f-b746-503114ce7e4a,2/16/2023 9:38:19 PM,,2/16/2023 9:38:19 PM,,Hershey Lei,,On the edge of the field,Home garden or irregular,other,Ti Leaf and Papaya,,,"- Deer fence 
+- Land is irrigated
+- Pests
+- Yields
+- There’s a lot of fallow land that isn’t being harvested. ",-156.923804727424,20.8252782043513
+198,4704db4d-f5c4-4cb1-a8d1-f4b51b07b3bb,2/17/2023 12:03:51 AM,,2/17/2023 12:03:51 AM,,Hi',,On the edge of the field,Multiple crops,"`ulu_(breadfruit),other","la'i, kukui, wauke",,,,-156.896618260255,20.8181666171598
+199,59184364-3f07-47d8-80db-419edc3fae70,2/17/2023 3:44:54 AM,,2/17/2023 3:44:54 AM,,Miguel,,On the edge of the field,Home garden or irregular,"`ulu_(breadfruit),vegetables_(e.g._leafy_greens_c,mai`a_(banana),other",Lemon Grass,,,Deer Fence and irrigated,-156.923549260937,20.8263482694766
+200,5b760cea-aee1-4982-808d-873418849275,2/17/2023 3:45:00 AM,,2/17/2023 3:45:00 AM,,Miguel,,On the edge of the field,Home garden or irregular,"other,mai`a_(banana),vegetables_(e.g._leafy_greens_c",Papaya,,,"Deer fence, irrigated, lots of fallow, there are pests.",-156.923786471618,20.8253444213991
+201,0b6f3971-e073-459a-a296-c2976c064c4e,2/18/2023 11:50:33 PM,,2/18/2023 11:50:33 PM,,NV,,On the edge of the field,Pasture,other,Cattle,,,,-156.355354931355,20.9352795433409
+202,25068d3a-d3b5-4311-828f-d31290bfa2db,2/22/2023 8:07:54 PM,,2/22/2023 8:07:54 PM,,Jeffrey wayer,,On the edge of the field,Pasture,,,other,Goat farm,,-156.504409165337,20.8362389123875
+203,16bcdf56-2fd2-43ca-b843-f1b80a6cee4a,2/22/2023 8:12:29 PM,,2/22/2023 8:12:29 PM,,Brigette Tomas,,Inside the field,Pasture,,,,,,-156.50414534,20.83521755
+204,38cbf44c-51f2-40e1-a36d-7df0750a2ed6,2/22/2023 8:12:44 PM,,2/22/2023 8:12:44 PM,,Jeffrey wayer,,Inside the field,One crop,"kalo_(taro)_-_mala_(dryland),mai`a_(banana)",,kalo (taro) - mala (dryland),,Kalo field with banana tree outline ,-156.504367595529,20.8347591140205
+205,8661bfaa-2665-43b3-99f4-8436a4ecdd30,2/22/2023 8:15:16 PM,,2/22/2023 8:15:16 PM,,Brigette Tomas,,Inside the field,One crop,,,mai`a (banana),,Fallow and banana ,-156.50505966,20.83537963
+206,c0ee7104-ec94-4cb1-ab5e-8ad11212b4e0,2/22/2023 8:16:47 PM,,2/22/2023 8:16:47 PM,,Jeffrey wayer,,Inside the field,Windbreak,,,,,,-156.505643965974,20.8355670397855
+207,ef8aa630-a4f1-4cf5-a4bf-2134f79d6ba0,2/22/2023 8:28:28 PM,,2/22/2023 8:28:28 PM,,Jeffrey wayer,,Inside the field,One crop,other,Pumpkin ,other,Pumpkin ,,-156.498047167613,20.8318658905381
+208,938206a2-bd71-4ccf-ac9f-d914199de39e,2/22/2023 8:40:34 PM,,2/22/2023 8:40:34 PM,,Jeffrey wayer ,,Inside the field,One crop,`ulu_(breadfruit),,,,,-156.49768617429,20.8316392063822
+209,7889d952-ed82-48e9-9705-6e4aa389f556,2/22/2023 8:42:29 PM,,2/22/2023 8:42:29 PM,,Jeffrey wayer,,Inside the field,One crop,`ulu_(breadfruit),,,,,-156.497406369299,20.8322015523356
+210,6424b08c-1191-4146-839d-b5c40ca1c5fb,2/22/2023 8:44:43 PM,,2/22/2023 8:44:43 PM,,Jeffrey wayet,,Inside the field,Multiple crops,"`ulu_(breadfruit),other",,`ulu (breadfruit),,Ulu and kukui tree,-156.497156629182,20.832639125808
+211,c5f0f6bb-5eac-4341-97e9-a3a5e207ceb9,2/22/2023 8:44:44 PM,,2/22/2023 8:44:44 PM,,Brigette Tomas,,Inside the field,Multiple crops,"`ulu_(breadfruit),other",Kukui tree,`ulu (breadfruit),,,-156.49709758,20.83257715
+212,112974a8-944c-489b-999d-df09792941fb,2/22/2023 8:47:26 PM,,2/22/2023 8:47:26 PM,,Jeffrey wayer ,,Inside the field,Multiple crops,other,Bitter melon ,other,Bitter melon,Bitter melon and okra ,-156.497489211891,20.8330358472477
+213,f2d77a40-6c48-4b47-9b77-3276711b9450,2/22/2023 8:50:30 PM,,2/22/2023 8:50:30 PM,,Brigette Tomas,,Inside the field,Multiple crops,vegetables_(e.g._leafy_greens_c,,,,"Chinese okra
+Bittermelon
+long green beans ",-156.49736818,20.83312268
+214,f8b8b0cf-87d0-4bea-b39f-1e678ab24cb5,2/22/2023 8:54:58 PM,,2/22/2023 8:54:58 PM,,Jeffrey wayer,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),vegetables_(e.g._leafy_greens_c",,,,Many different leafy greens ,-156.495507531693,20.8321891120245
+215,9681a6a9-0448-434f-bde8-92bf0a0d5e5d,2/22/2023 8:58:23 PM,,2/22/2023 8:58:23 PM,,Brigette Tomas,,On the edge of the field,One crop,other,,,,Morniga trees,-156.49631706,20.83215503
+216,c4de7d5e-a5b1-46da-939c-b75833b175ad,2/22/2023 9:09:58 PM,,2/22/2023 9:09:58 PM,,Jeffrey Wayet,,Inside the field,Fallow,,,,,,-156.504161215268,20.8330178186466
+217,91a1ce23-7293-406a-995f-086898dd2a1a,2/25/2023 8:11:17 PM,,2/25/2023 8:11:17 PM,,Dylan Bowen ,,On the edge of the field,One crop,niu_(coconut),,,,3 trees,-156.301987350567,20.9123730896888
+218,7842feb0-4b57-4eb2-b88a-f0bb61b4fb26,2/25/2023 8:33:35 PM,,2/25/2023 8:33:35 PM,,jerry isdale,,Inside the field,Multiple crops,"niu_(coconut),mai`a_(banana),vegetables_(e.g._leafy_greens_c,other,tropical_fruits","
+peach palm 
+morganstein
+mangostein
+jack friut
+durian
+star apple
+dragon fruit
+pumpkin
+longum
+lemon drop mangostein
+mountain apple 
+jabotacaba 
+star fruit
+ icecream bean",,,lots of variation in trees; pasture area w chickens; big problem w pigs,-156.3022162,20.91271173
+219,9b070533-330c-463a-a476-3ef7b133e40a,2/25/2023 8:34:49 PM,,2/25/2023 8:34:49 PM,,Brigette Tomas,,Inside the field,Multiple crops,"tropical_fruits,kalo_(taro)_-_mala_(dryland)",,,,"Dwarf coconut,lychee,papaya,pumpkins
+diversified tropical farm",-156.3019318,20.91240693
+220,1407319c-a9c1-4320-aa4b-02ddac319cbf,2/25/2023 8:35:09 PM,,2/25/2023 8:35:09 PM,,Brigette Tomas,,Inside the field,Multiple crops,"avocado,tropical_fruits",,,,"Finger limes,chocolate sapote llyod, green gold avocado, malama avacado,fig mina tree",-156.30227894,20.91286577
+221,ae8d174f-4afe-4534-beba-e20807d222f9,2/25/2023 8:35:30 PM,,2/25/2023 8:35:30 PM,,Brigette Tomas,,Inside the field,Multiple crops,tropical_fruits,,,,"Gliricidia
+heart of palm 
+Mangosteen",-156.30289793,20.91324253
+222,6615dba0-399f-419d-ac0f-3c07446a8372,2/25/2023 8:35:58 PM,,2/25/2023 8:35:58 PM,,Sean,,On the edge of the field,Windbreak,,,,,Vetiver,-156.302367249574,20.9120662969811
+223,c6f7e82a-90bd-4a1f-8b24-434d51d7fc07,2/25/2023 8:36:09 PM,,2/25/2023 8:36:09 PM,,Sean,,Inside the field,One crop,tropical_fruits,,,,Lychee,-156.301851596926,20.9124185787774
+224,830fb323-c979-4022-9ac9-750b87f6da6a,2/25/2023 8:36:09 PM,,2/25/2023 8:36:09 PM,,Brigette Tomas,,Inside the field,One crop,tropical_fruits,,,,Jackfruit,-156.30260529,20.91353937
+225,a4079fbb-5d77-4237-a924-6ebd2280b9a1,2/25/2023 8:36:22 PM,,2/25/2023 8:36:22 PM,,Sean,,Inside the field,Multiple crops,"vegetables_(e.g._leafy_greens_c,tropical_fruits",,,,,-156.301929703961,20.9124617632007
+226,db0b7fa0-d5a5-454c-805c-2681249e70d3,2/25/2023 8:36:34 PM,,2/25/2023 8:36:34 PM,,Sean,,On the edge of the field,One crop,mai`a_(banana),,,,,-156.302177903842,20.9126001163014
+227,2b1fdaa7-661d-483e-a77c-d82b277bf584,2/25/2023 8:36:44 PM,,2/25/2023 8:36:44 PM,,Sean,,Inside the field,Multiple crops,tropical_fruits,,,,,-156.302308586636,20.9128790080905
+228,2525d761-e5c5-4138-8d01-458dfe23ccf9,2/25/2023 8:36:54 PM,,2/25/2023 8:36:54 PM,,Sean,,Inside the field,Multiple crops,,,,,,-156.302325096632,20.9130762340123
+229,c3951e6b-a0a0-42d8-9a6a-cc41a1edc51e,2/25/2023 8:36:59 PM,,2/25/2023 8:36:59 PM,,Sean,,Inside the field,Multiple crops,tropical_fruits,,,,,-156.302681773275,20.912716945178
+230,8eaf1705-ba6f-4b10-bc91-5df79096e0db,2/25/2023 8:37:10 PM,,2/25/2023 8:37:10 PM,,Sean,,Inside the field,Pasture,,,,,,-156.302530310997,20.912988902566
+231,eb0e1536-bf14-4bce-8683-76d0a22c0c0e,2/25/2023 8:37:14 PM,,2/25/2023 8:37:14 PM,,Brigette Tomas,,Inside the field,Multiple crops,tropical_fruits,,,,"Mango
+mangosteen
+mabalo
+heart of palm",-156.30357653,20.91378601
+232,492c4333-974f-47b5-a85c-73879148e87b,2/25/2023 8:37:17 PM,,2/25/2023 8:37:17 PM,,Sean,,On the edge of the field,Fallow,,,,,,-156.302506289664,20.9132810223285
+233,caa79cbf-ce96-42b2-b181-7ca1d446e37d,2/25/2023 8:37:27 PM,,2/25/2023 8:37:27 PM,,Sean,,Inside the field,One crop,tropical_fruits,,,,,-156.302654266371,20.9135128732635
+234,486322d0-976c-4d6b-8b3b-21395cede3ea,2/25/2023 8:37:36 PM,,2/25/2023 8:37:36 PM,,Sean,,Inside the field,One crop,tropical_fruits,,,,,-156.302730659175,20.9139409720412
+235,6fd52f8f-2fbc-4aab-b2b1-37b7f850960b,2/25/2023 8:37:45 PM,,2/25/2023 8:37:45 PM,,Sean,,Inside the field,One crop,tropical_fruits,,,,Mango,-156.303657929599,20.9137344811317
+236,b9e866e0-a777-4e5a-aa2c-af20396a67cc,2/25/2023 8:37:55 PM,,2/25/2023 8:37:55 PM,,Sean,,Inside the field,One crop,tropical_fruits,,,,Star apple,-156.303520271241,20.9140616745195
+237,991dadcf-9dd8-4e9a-96cc-b89eccd382b3,2/25/2023 8:37:56 PM,,2/25/2023 8:37:56 PM,,Brigette Tomas,,Inside the field,Multiple crops,tropical_fruits,,,,"Lemon drop mangosteen
+fallow",-156.30374712,20.91465598
+238,0ff94668-4b64-4e84-bb93-0ce46ff5a730,2/25/2023 8:38:05 PM,,2/25/2023 8:38:05 PM,,Sean,,On the edge of the field,One crop,tropical_fruits,,,,,-156.303745838422,20.9146485474695
+239,3ad0e2b5-fc97-47a9-bc92-3fac559e50ba,2/25/2023 8:38:12 PM,,2/25/2023 8:38:12 PM,,Sean,,Inside the field,Multiple crops,tropical_fruits,,,,,-156.30288816507,20.9144340250876
+240,82859098-9547-4255-bd77-a48babaabfbd,2/25/2023 8:38:19 PM,,2/25/2023 8:38:19 PM,,Sean,,Inside the field,One crop,tropical_fruits,,,,Durian,-156.302430666105,20.9143209350893
+241,f1956ec5-0588-4709-9097-4ffde4bae9c3,2/25/2023 8:38:26 PM,,2/25/2023 8:38:26 PM,,Sean,,Inside the field,Multiple crops,"coffee,tropical_fruits",,,,,-156.302710061767,20.9141837461982
+242,60536bdf-92ba-4ce3-9a63-944abc44c5cc,2/25/2023 8:38:34 PM,,2/25/2023 8:38:34 PM,,Sean,,On the edge of the field,Multiple crops,"avocado,tropical_fruits",,,,,-156.302202924709,20.9134962984578
+243,6fa2d14c-3a7b-4a26-96c0-7263b12a3c53,2/25/2023 8:38:54 PM,,2/25/2023 8:38:54 PM,,Brigette Tomas,,Inside the field,Multiple crops,tropical_fruits,,,,"Lychee
+citrus",-156.30289866,20.9144746
+244,dc0e20a4-f6ab-4fd2-b947-04795c37afed,2/25/2023 8:39:14 PM,,2/25/2023 8:39:14 PM,,Brigette Tomas,,Inside the field,Multiple crops,tropical_fruits,,,,"Mountian apple
+Abeyu tree
+Mangosteen",-156.3024875,20.9142762
+245,b1903157-fc67-4f48-9b78-11724ee8d8d3,2/25/2023 8:43:22 PM,,2/25/2023 8:43:22 PM,,Paige Moffitt,,On the edge of the field,One crop,other,perrinneal peanut ,,,,-156.302356911764,20.9120992433794
+246,63ad8caf-ed17-47fe-9daf-d8cf4e87bb94,2/25/2023 8:59:20 PM,,2/25/2023 8:59:20 PM,,Rohan Fahland,,On the edge of the field,Fallow,,,,,Edge covered by trees,-156.302620639261,20.9139724842311
+247,853eda44-fc49-47cc-a76b-e2598658a35c,2/25/2023 8:59:27 PM,,2/25/2023 8:59:27 PM,,Rohan Fahland ,,On the edge of the field,Fallow,,,,,,-156.302208028014,20.9134457395371
+248,66ba6f03-d9fb-4c07-8bae-134dd7f8fce8,2/26/2023 12:55:13 AM,,2/26/2023 12:55:13 AM,,jerry isdale,,Inside the field,Multiple crops,"coffee,other,avocado","flowers - haliconia, kukui",coffee,,"maliko gulch: archeological site w petroglyphs, ruins etc",-156.31729153,20.87268962
+249,5db958ca-70e0-4e66-8c07-436e03104b5d,2/26/2023 12:56:48 AM,,2/26/2023 12:56:48 AM,,Anna G.,,Inside the field,One crop,coffee,,,,"Rather than using the land solely to grow coffee, they use the entire environment and grow the coffee to coexist with other plants.",-156.317234792546,20.8726524830813
+250,eb64ab3c-01e9-4101-87aa-35acb94b759c,2/26/2023 12:57:56 AM,,2/26/2023 12:57:56 AM,,Brigette Tomas,,On the edge of the field,One crop,"coffee,other",,,,"Coffee grown on the cliff
+Farm has coffee rust",-156.3172124,20.87266372
+251,da8bbdb9-4db6-4e1d-baf0-4349d3395b7d,2/26/2023 1:54:07 AM,,2/26/2023 1:54:07 AM,,Mary Alleca,,Inside the field,One crop,other,Green sapote,,,,-156.30260625,20.91395537
+252,04a35fc5-46b1-4481-ba58-954f770afd51,2/26/2023 1:54:10 AM,,2/26/2023 1:54:10 AM,,Mary Alleca,,Inside the field,Pasture,tropical_fruits,,,,Mango,-156.30357225,20.91377043
+253,eb4ab638-535a-4448-bb62-251f5ffdba8e,2/26/2023 1:54:13 AM,,2/26/2023 1:54:13 AM,,Mary Alleca,,Inside the field,Multiple crops,tropical_fruits,,,,"Mangosteen, heart of palms",-156.30359536,20.91409137
+254,1111ab64-a44e-4e4e-a2c2-b31d9c0b0561,2/26/2023 1:54:15 AM,,2/26/2023 1:54:15 AM,,Mary Alleca,,Inside the field,One crop,tropical_fruits,,,,Longan,-156.30352148,20.91477001
+255,e2ddd487-7690-4900-a4b9-8286dd6c411a,2/26/2023 1:54:18 AM,,2/26/2023 1:54:18 AM,,Mary Alleca,,Inside the field,One crop,tropical_fruits,,,,Lemon drop manhosteen,-156.30380147154,20.9146624797739
+256,111e87bc-d71e-422c-923f-2557f40d503e,2/26/2023 1:54:21 AM,,2/26/2023 1:54:21 AM,,Mary Alleca,,Inside the field,One crop,tropical_fruits,,,,Lychee,-156.30292817,20.91445096
+257,4700e887-523e-4418-b13b-4e9a133de16b,2/26/2023 1:54:24 AM,,2/26/2023 1:54:24 AM,,Mary Alleca,,Inside the field,Multiple crops,coffee,,,,,-156.30253046,20.91420505
+258,53487180-37b9-43cf-94cf-0ba66738c791,2/26/2023 1:54:27 AM,,2/26/2023 1:54:27 AM,,Mary Alleca,,Inside the field,Multiple crops,"avocado,tropical_fruits",,,,,-156.3021869,20.91350428
+259,f1eff534-5cb2-4f27-9c75-4273c8b65a9f,2/26/2023 1:54:30 AM,,2/26/2023 1:54:30 AM,,Mary Alleca,,On the edge of the field,One crop,tropical_fruits,,,,Dragon fruit,-156.30247177,20.9129107
+260,90a086bb-e288-4538-ae98-9b7d5e6e9aa4,2/26/2023 1:54:32 AM,,2/26/2023 1:54:32 AM,,Mary Alleca,,On the edge of the field,Multiple crops,tropical_fruits,,,,,-156.3022561,20.9127939
+261,f3f62cc8-bb3b-4224-99ef-92c71bf051c3,2/26/2023 1:54:36 AM,,2/26/2023 1:54:36 AM,,Mary Alleca,,On the edge of the field,One crop,coffee,,,,,-156.31737034,20.87278838
+262,06ad399a-f6a7-4795-8179-c367acbfeef1,2/26/2023 1:54:39 AM,,2/26/2023 1:54:39 AM,,Mary Alleca,,Inside the field,One crop,coffee,,,,,-156.31724577,20.87261876
+263,5f7c0016-536f-42c6-9400-3dd0ff5b3e3c,2/26/2023 1:54:42 AM,,2/26/2023 1:54:42 AM,,Mary Alleca,,On the edge of the field,One crop,kalo_(taro)_-_mala_(dryland),,,,,-156.31686099,20.87209175
+264,96a513b0-24a3-4fa8-9211-995730873f6d,2/27/2023 7:38:20 AM,,2/27/2023 7:38:20 AM,,Carter Rosenthal,,On the edge of the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),other,tropical_fruits",Pumpkin,,,"Lychee, pumpkin, mango, Kali are grown in this field. Parennial peanut is used for Nitrogen Fixing.",-156.301956056399,20.9123904405225
+265,9b172374-2977-4bf6-ad6a-de197c969dd5,2/27/2023 7:38:29 AM,,2/27/2023 7:38:29 AM,,Carter Rosenthal,,On the edge of the field,Multiple crops,"avocado,tropical_fruits",,avocado,,"Younger trees, majority of smaller trees planted around April 2022",-156.302244030742,20.9127748736184
+266,41025970-cd24-4fb6-af68-e8e9ba0826b2,2/27/2023 7:38:36 AM,,2/27/2023 7:38:36 AM,,Carter Rosenthal,,On the edge of the field,One crop,other,Dragon Fruit,,,10 varieties of Dragon Fruit. They are cross pollinated and self-pollinated by the farmer.,-156.302466105192,20.9128548009618
+267,08b990da-b01c-4fc2-8b26-28537a6d68ea,2/27/2023 7:38:45 AM,,2/27/2023 7:38:45 AM,,Carter Rosenthal,,On the edge of the field,One crop,other,Heart of Palm,,,"Glaracidia is used as a Nitrogen Fixing plant here. These trees are roughly 5-8 years old. They do not cut them down until after the tree reproduces; however, pigs in the area eat the young trees before they can grow, so these ones have not been cut down yet. Pigs are a problem here preventing sustainable reproduction",-156.302563663383,20.9132470734482
+268,f0aaf03d-6bca-4de2-85a6-9f8483f745bb,2/27/2023 7:41:51 AM,,2/27/2023 7:41:51 AM,,Carter Rosenthal,,Inside the field,One crop,other,Sapote,,,,-156.302686371364,20.9139334476927
+269,a5e237f2-dac8-4e41-8e7b-1ab94dc0dbbe,2/27/2023 7:41:58 AM,,2/27/2023 7:41:58 AM,,Carter Rosenthal,,On the edge of the field,One crop,other,Mabolo,,,,-156.303491640388,20.9138481105093
+270,df9655b4-b4c8-443e-9f21-c1965f4a5ca3,2/27/2023 7:42:07 AM,,2/27/2023 7:42:07 AM,,Carter Rosenthal,,Inside the field,One crop,other,Longan,,,,-156.30358917176,20.9148083956575
+271,a50b9b09-487b-41b3-8748-8666ac28154f,2/27/2023 7:42:13 AM,,2/27/2023 7:42:13 AM,,Carter Rosenthal,,On the edge of the field,One crop,tropical_fruits,,,,Imperial and Kaimana Lychee,-156.302935073947,20.9145094922441
+272,da5b8aaf-5104-48f1-a7b5-6be6a2182d1f,2/27/2023 7:42:20 AM,,2/27/2023 7:42:20 AM,,Carter Rosenthal,,On the edge of the field,One crop,other,Bees/beehive,,,,-156.302062690897,20.9135752295481
+273,db9f3b5d-8be9-4cdc-8a76-e9fe51845493,2/27/2023 7:42:38 AM,,2/27/2023 7:42:38 AM,,Carter Rosenthal,,Inside the field,One crop,other,Star Apple,,,,-156.303564212352,20.9140464429128
+274,f58f2ee7-83c7-43f4-b0fc-be05892148dd,2/27/2023 6:59:52 PM,,2/27/2023 6:59:52 PM,,Ivan Zvonkov,,On the edge of the field,One crop,kalo_(taro),,,,,-156.137024415395,20.8412227356589
+275,0dbb05f0-26a4-4bab-a922-fe9132bf3687,2/27/2023 7:00:02 PM,,2/27/2023 7:00:02 PM,,Ivan Zvonkov,,Inside the field,One crop,macadamia_nut,,,,,-157.048777107495,21.1662353358739
+276,b9d08727-194a-439c-a817-391563fbff33,2/27/2023 7:00:05 PM,,2/27/2023 7:00:05 PM,,Ivan Zvonkov,,Inside the field,Multiple crops,"macadamia_nut,tropical_fruits",,macadamia nut,,"Mango trees, black plastic in soil",-157.047622121884,21.1664726715244
+277,4f5a0312-1da3-4807-b3e7-67387f4b5e6e,3/7/2023 1:36:53 AM,,3/7/2023 1:36:53 AM,,Hershey,,On the edge of the field,Multiple crops,"vegetables_(e.g._leafy_greens_c,kalo_(taro)_-_mala_(dryland)",,other,Eggplant,"— ALL Natural and organic
+— CULTIVATED LAND
+— No usage of fertilizers and pesticides 
+— Deer fence 
+— Poultry: Chickens
+— Clippings on plants
+— Vegetables like chili, bitter melon, tomatoes lime, lemon, etc.",-156.925132637207,20.8274122389481
+278,d47cf5f8-5bad-43c0-b427-1967688ff113,3/8/2023 10:30:49 PM,,3/8/2023 10:30:49 PM,,paige moffitt ,,Inside the field,Multiple crops,"`ulu_(breadfruit),avocado",,,,"citrus 
+new baby trees",-156.302382555907,20.9128557522101
+279,f5f03a56-8b82-4a3d-8e09-4bbf256307a4,3/8/2023 10:31:12 PM,,3/8/2023 10:31:12 PM,,paige moffitt ,,Inside the field,One crop,other,dragonfruit ,,,,-156.30247866519,20.9128238693014
+280,13b52aaf-1d6e-4e76-bf82-a0f68303db1a,3/8/2023 10:31:36 PM,,3/8/2023 10:31:36 PM,,paige moffitt ,,Inside the field,Multiple crops,other,heart of palm,,,alternating peach palm mangosteen,-156.302565904064,20.9132720684553
+281,267d4e45-8007-4b5e-83f1-050d870f712d,3/8/2023 10:31:41 PM,,3/8/2023 10:31:41 PM,,paige moffitt,,Inside the field,One crop,other,jackfruit,,,,-156.302671280931,20.9135755563022
+282,2fb624ff-140d-4d43-aaf0-627f27fddb1e,3/8/2023 10:31:46 PM,,3/8/2023 10:31:46 PM,,paige moffitt,,Inside the field,One crop,other,green sapote,,,,-156.302656729706,20.9139693258278
+283,dca5344a-c8c5-4293-b6d5-734aa993757c,3/8/2023 10:31:52 PM,,3/8/2023 10:31:52 PM,,paige moffitt,,Inside the field,One crop,other,longon,,,,-156.303633497735,20.9147929115833
+284,11b8f9a0-419b-4ffa-8607-1c77c9e6a71c,3/8/2023 10:31:58 PM,,3/8/2023 10:31:58 PM,,paige moffitt,,On the edge of the field,Home garden or irregular,other,bees,,,,-156.302042166366,20.9136280635281
+285,a60410a5-94dd-4a85-90bb-b052cc3afd39,3/8/2023 10:32:03 PM,,3/8/2023 10:32:03 PM,,paige moffitt,,Inside the field,One crop,coffee,,,,,-156.317390030286,20.8727514725797
+286,1f036baf-0c59-43b7-9cea-37f75752f27e,3/8/2023 10:32:09 PM,,3/8/2023 10:32:09 PM,,paige moffitt ,,Inside the field,Multiple crops,"pineapple,coffee",,,,,-156.317214323959,20.872609037422
+287,74582a9a-7b19-400e-b38b-6f13ef504ab2,3/8/2023 10:32:14 PM,,3/8/2023 10:32:14 PM,,paige moffitt,,Inside the field,One crop,coffee,,,,,-156.316804947675,20.8719959785493
+288,7c9c4158-14b3-42da-b339-d1d481ed4bf1,3/8/2023 10:32:20 PM,,3/8/2023 10:32:20 PM,,paige moffitt ,,On the edge of the field,One crop,coffee,,,,,-156.316467334415,20.8716100568631
+289,93ec69af-2b7c-4da4-a036-bfdee6b9c64c,3/11/2023 10:06:57 PM,,3/11/2023 10:06:57 PM,,jerry isdals,,Inside the field,Multiple crops,"kalo_(taro)_-_loʻi_(wetland),`ulu_(breadfruit),coffee,tropical_fruits,sugarcane,vegetables_(e.g._leafy_greens_c,other",,,,,-156.24103535,20.91421558
+290,c6a87c10-ff16-416c-b217-a8010f7ddf39,3/11/2023 10:06:59 PM,,3/11/2023 10:06:59 PM,,jerry,,Inside the field,Multiple crops,"kalo_(taro)_-_loʻi_(wetland),`ulu_(breadfruit),niu_(coconut),other",cashew,,,,-156.241285,20.91427629
+291,936620bd-97ea-4636-9668-eafea409c477,3/11/2023 10:07:02 PM,,3/11/2023 10:07:02 PM,,jerty,,Inside the field,Multiple crops,"`ulu_(breadfruit),avocado,other,tropical_fruits,niu_(coconut),mai`a_(banana),kalo_(taro)_-_loʻi_(wetland)",pomeegranate cashew etc,,,"pomegranate
+",-156.24037042,20.91480184
+292,609185de-45c6-4d49-9094-d5d42164a4ba,3/11/2023 10:44:47 PM,,3/11/2023 10:44:47 PM,,Jeffrey ,,Inside the field,One crop,other,Blood orange ,,,Single plant ,-156.241030285924,20.9142974900773
+293,e7980b66-e885-4b80-bddb-a5f50e4b2f41,3/11/2023 10:45:17 PM,,3/11/2023 10:45:17 PM,,Jeffrey,,Inside the field,Multiple crops,other,Cashew ,other,Papaya tree,Mixed crops,-156.24120735187,20.9143529053072
+294,89eea58f-156e-4410-a6f6-3f0f689418d6,3/11/2023 10:45:59 PM,,3/11/2023 10:45:59 PM,,Jeffrey,,Inside the field,One crop,`ulu_(breadfruit),,,,Few trees ,-156.241356962701,20.9144254926071
+295,c2570682-33f6-4a95-9e61-6f58027ce80b,3/11/2023 10:46:05 PM,,3/11/2023 10:46:05 PM,,Jeffrey,,Inside the field,One crop,other,Caco tree,,,6 Caco trees in a row,-156.24105723424,20.9146721593167
+296,15d7e97a-20e9-40cb-a976-971a3a490f52,3/11/2023 10:46:26 PM,,3/11/2023 10:46:26 PM,,Jeffrey,,Inside the field,One crop,avocado,,,,,-156.240383623255,20.9149966584155
+297,2f342a32-bd82-4cbb-bcbd-fa11d96ce31c,3/11/2023 10:46:34 PM,,3/11/2023 10:46:34 PM,,Jeffrey ,,Inside the field,One crop,vegetables_(e.g._leafy_greens_c,,,,False Ava ,-156.240730173033,20.9143371946812
+298,384e7b96-9500-491d-953d-1b636cf81548,3/11/2023 10:48:08 PM,,3/11/2023 10:48:08 PM,,Jeffrey,,Inside the field,One crop,other,Coffee tree,,,Row of 5,-156.240741602136,20.9138962042339
+299,d9464d97-d051-4a0d-b18d-e1c5028f7f9e,3/11/2023 10:48:32 PM,,3/11/2023 10:48:32 PM,,Jeffrey,,Inside the field,One crop,other,Caco tree,,,,-156.240529440042,20.9137355879487
+300,90abae3c-9021-4f51-9858-b18d0204948d,3/11/2023 10:48:40 PM,,3/11/2023 10:48:40 PM,,Jeffrwy,,Inside the field,Multiple crops,"`ulu_(breadfruit),mai`a_(banana)",,,,,-156.240444204032,20.9135569655524
+301,bf9bc8b2-95bf-4b94-adb0-c6d979eed8ce,3/11/2023 10:48:54 PM,,3/11/2023 10:48:54 PM,,Jeffrey,,Inside the field,One crop,other,Elder flower ,,,,-156.240719228448,20.9135988443745
+302,8c86de2a-4d3b-48c1-93e8-fb05090283e7,3/11/2023 10:49:14 PM,,3/11/2023 10:49:14 PM,,Jeffrey ,,Inside the field,Pasture,,,,,Chicken pasture ,-156.24068374253,20.913713902008
+303,d790cfb8-47a6-4dae-94cb-ee2ff1403e14,3/12/2023 12:47:55 AM,,3/12/2023 12:47:55 AM,,Brigette Tomas,,On the edge of the field,Home garden or irregular,coffee,,,,,-156.24119046,20.9145194
+304,17dcab8d-e939-4d24-bcf1-fae826fa57ff,3/12/2023 12:48:48 AM,,3/12/2023 12:48:48 AM,,Brigette Tomas,,Inside the field,One crop,other,Cocoa Tree,,,,-156.24106868,20.9146661
+305,97059e77-f0e8-4cd2-8cfb-5ca544a9ea42,3/12/2023 12:49:40 AM,,3/12/2023 12:49:40 AM,,Brigette Tomas,,Inside the field,One crop,other,Pohole,,,,-156.24070155,20.91485841
+306,c6e295e5-7c14-43b3-9b37-fc8a0767838b,3/12/2023 12:51:38 AM,,3/12/2023 12:51:38 AM,,Brigette Tomas,,On the edge of the field,Multiple crops,other,Pomegranate and Avocado,,,,-156.24035067,20.91488715
+307,a3277f40-d523-4f8b-a926-bba82628a514,3/12/2023 12:52:58 AM,,3/12/2023 12:52:58 AM,,Brigette Tomas,,Inside the field,One crop,other,False Ava ,,,,-156.24069717,20.91432025
+308,57ff1b7d-9648-41f1-9e1b-521266b033b2,3/12/2023 12:53:04 AM,,3/12/2023 12:53:04 AM,,Brigette Tomas,,Inside the field,Multiple crops,other,"Abiyu, Jackfruit, Coffee",,,Coffee Rust on some ,-156.24072076,20.9138499
+309,6768495d-9aec-4c08-9e92-bae1509583d1,3/12/2023 12:53:08 AM,,3/12/2023 12:53:08 AM,,Brigette Tomas,,Inside the field,One crop,coffee,,,,,-156.24050042,20.9136801
+310,45bbbe7c-5239-40e2-ae2b-99a1c7212d09,3/16/2023 1:06:29 AM,,3/16/2023 1:06:29 AM,,Charlotte Cabaccang,,On the edge of the field,Multiple crops,"other,vegetables_(e.g._leafy_greens_c","Fennel, Lettuces, cilantro, leak, ",,,,-156.286530318879,20.8153560404781
+311,21fea180-27dd-4ed5-8503-e5e4cec1c7ca,3/16/2023 1:07:14 AM,,3/16/2023 1:07:14 AM,,Carter Rosenthal,,On the edge of the field,Multiple crops,vegetables_(e.g._leafy_greens_c,,,,,-156.286623221759,20.8153284418321
+312,6aa00e49-d529-4e4e-bcd3-f86140773114,3/16/2023 1:08:55 AM,,3/16/2023 1:08:55 AM,,Charlotte Cabaccang,,On the edge of the field,Multiple crops,vegetables_(e.g._leafy_greens_c,,,,,-156.286287687708,20.8152601341962
+313,e20230e8-22d9-4a69-8170-faa5fa1a02af,3/16/2023 1:12:14 AM,,3/16/2023 1:12:14 AM,,jerry,,On the edge of the field,Multiple crops,"other,kalo_(taro)_-_mala_(dryland)","pasture, roses, cilantro,lettuce, fennelgrass",,,"22+ acres, only 1.5 as row crop- greenhouses. rest is pasture; roughly 28 day rotation of salad mix",-156.2866557,20.81519423
+314,7f9987da-b31a-4701-8843-9b60f7d0731d,3/16/2023 1:13:30 AM,,3/16/2023 1:13:30 AM,,jerry,,On the edge of the field,Multiple crops,other,leek carrot,,,,-156.28605512,20.8155227
+315,35bc2672-3cb6-4d12-aeeb-2be66e915aa6,3/16/2023 1:20:05 AM,,3/16/2023 1:20:05 AM,,Charlotte Cabaccang ,,On the edge of the field,Multiple crops,vegetables_(e.g._leafy_greens_c,,,,"Uses used straws (from mushroom farm) for additional mulch. Grows parsnips, lettuce, celery, and other leafy greens on these patches.",-156.286134816997,20.8156972660784
+316,fdae565b-00a4-4217-b781-beb628eee79c,3/16/2023 1:24:04 AM,,3/16/2023 1:24:04 AM,,Charlotte Cabaccang,,On the edge of the field,Multiple crops,vegetables_(e.g._leafy_greens_c,,,,"Growing lettuce, daikon radish, and leaks",-156.286203924176,20.8159129918935
+317,1a4d522b-6fcb-450d-b706-ec9e46ff7b33,3/16/2023 1:28:26 AM,,3/16/2023 1:28:26 AM,,Charlotte Cabaccang,,On the edge of the field,One crop,other,4 rows of leaks,,,Uses drip irrigation,-156.286301804907,20.8160867705427
+318,93fb399e-22f0-4415-91f3-68facdd54960,3/16/2023 1:30:50 AM,,3/16/2023 1:30:50 AM,,Charlotte Cabaccang,,On the edge of the field,Multiple crops,vegetables_(e.g._leafy_greens_c,,,,Growing kale and rubarb,-156.285740437916,20.8158149487064
+319,60e08a4e-23ae-413b-897a-b980434415d2,3/16/2023 1:40:01 AM,,3/16/2023 1:40:01 AM,,Charlotte Cabaccang,,On the edge of the field,Multiple crops,"vegetables_(e.g._leafy_greens_c,other",Include arugula and other leafy greens,,,Whole farm mostly uses a drip system and uses smaller plots.,-156.285820106003,20.8154273991548
+320,038e084e-6927-43d3-bcbe-17d24823865a,3/16/2023 2:24:46 AM,,3/16/2023 2:24:46 AM,,Joshua D Hinau-Nanod,,Inside the field,One crop,other,Lettuce ,,,Different varieties of head lettuce ,-156.286084194311,20.8156098215111
+321,7519b65b-1960-4838-a2de-ccd8cfe448a3,3/16/2023 2:24:51 AM,,3/16/2023 2:24:51 AM,,Joshua D Hinau-Nanod,,Inside the field,One crop,other,Potatoes ,,,,-156.286175009366,20.8158040779621
+322,fb45086d-8d3d-46b2-bcad-b46a54e1dee9,3/16/2023 2:24:57 AM,,3/16/2023 2:24:57 AM,,Joshu D Hinau-Nanod,,Inside the field,One crop,other,Lettuces,,,Different verities of lettuce ,-156.286224085121,20.8159069002793
+323,cb52627b-3b81-43be-a925-0c8b365cfb8c,3/16/2023 2:26:30 AM,,3/16/2023 2:26:30 AM,,Joshua D Hinau-Nanod,,Inside the field,One crop,other,Green onions ,,,,-156.286179778482,20.8158609304733
+324,18166790-8ad1-4edd-b450-f0518c33cb96,3/16/2023 2:26:38 AM,,3/16/2023 2:26:38 AM,,Joshua D Hinau-Nanod,,Inside the field,One crop,other,Green Onions ,,,10 rows of green onions ,-156.28633966293,20.8161460040055
+325,0357ac80-9d2d-4c5e-8ad3-8f47c5f42a4c,3/17/2023 1:04:38 AM,,3/17/2023 1:04:38 AM,,Geiv,,On the edge of the field,Multiple crops,vegetables_(e.g._leafy_greens_c,,not applicable,,,-156.922223620384,20.8177604564066
+326,f50786b7-c854-49e4-818a-32fd4b388a18,3/17/2023 5:33:01 AM,,3/17/2023 5:33:01 AM,,geiv,,On the edge of the field,Multiple crops,vegetables_(e.g._leafy_greens_c,,not applicable,,there’s eggplants growing ,-156.922272054789,20.817748053224
+327,667f2714-c5fc-4e8a-92dd-845412bbc518,3/17/2023 5:33:27 AM,,3/17/2023 5:33:27 AM,,geiv,,On the edge of the field,Multiple crops,"other,vegetables_(e.g._leafy_greens_c,kalo_(taro)_-_mala_(dryland)","tumerick, eggplant, cassava, taro, sweet potato, cabbage, siote, dragon fruit, papaya, pumpkin, onions, carrots, ",other,cassava,"— Rocks
+— Mang weeds
+— Some trash around it
+— Yeilding
+— Irrigation
+— Grower claimed it was a permaculture garden, doesn’t experience pests. ",-156.922286733512,20.8177143688715
+328,5cb28c4f-a063-4fff-88ad-a1681d92e059,3/17/2023 5:33:47 AM,,3/17/2023 5:33:47 AM,,Hershey Lei,,On the edge of the field,Multiple crops,other,"Tomatoes, green onions, (maybe)  pumpkin or squash",not applicable,,"— Well taken care of 
+— Deer fence
+— No pests
+— Irrigated 
+— Yeilding",-156.92227914223,20.8176717679936
+329,a3fec7dc-d911-4d0e-ae91-85e48f33b6ed,3/17/2023 5:34:11 AM,,3/17/2023 5:34:11 AM,,Hershey Lei,,On the edge of the field,Multiple crops,"other,kalo_(taro)_-_mala_(dryland)","green onions, tomatoes, leafy greens",not applicable,,"— Well taken care of
+— Yeilding
+— Deer fence 
+— Irrigation",-156.922352546625,20.8175741085286
+330,d8820285-948f-4a02-b621-0f774ec21d78,3/17/2023 5:34:38 AM,,3/17/2023 5:34:38 AM,,Hershey Lei,,On the edge of the field,Multiple crops,other,Purple cabbage,other,Papaya,"— Fenced off 
+— Irrigated
+— Few weeds ",-156.922357674263,20.8175896186767
+331,e9d47c8c-3872-4d55-9ba1-0d0081c823a4,3/17/2023 10:14:55 AM,,3/17/2023 10:14:55 AM,,Miguel Nakao,,On the edge of the field,Home garden or irregular,"kalo_(taro)_-_mala_(dryland),other,vegetables_(e.g._leafy_greens_c",Tomato’s and cactus,,,Fenced off ,-156.92246182102,20.8175285310786
+332,9739f315-a83e-42c1-9572-9c774609abcb,3/17/2023 10:15:00 AM,,3/17/2023 10:15:00 AM,,Miguel Nakao,,On the edge of the field,Home garden or irregular,vegetables_(e.g._leafy_greens_c,,,,Irrigated with a hose and fenced off,-156.922522115428,20.8175280855925
+333,a3ed4a9a-8412-44f9-9f89-4a2d3cb8c721,3/17/2023 10:15:03 AM,,3/17/2023 10:15:03 AM,,Miguel Nakao,,On the edge of the field,Home garden or irregular,"vegetables_(e.g._leafy_greens_c,other","Ti Leaf, and cactus",,,Fenced off and irrigated with a hose,-156.922485776315,20.8174901949265
+334,efcccf96-91da-4a0f-a6f9-ac29778e90a3,3/19/2023 1:29:33 AM,,3/19/2023 1:29:33 AM,,Andrei,,Inside the field,Home garden or irregular,,,other,"Eggplant, string beans, bananas tomatoes, pepper, green onions, potatoes, papaya, dragon fruit, squash","Has access to irrigation, has fencing, dominant crop is eggplant 
+Has problems with animals ",-156.925508771837,20.8302434337464
+335,02ca5735-ff83-44f2-9f99-6ea9113f9ce5,3/20/2023 6:48:19 PM,,3/20/2023 6:48:19 PM,,Hershey Lei,,Inside the field,Home garden or irregular,"other,mai`a_(banana)","lime tree, bay leaf, and gondori",,,"— Quite neglected
+— No irrigation
+— No yeilding
+— Deer fence
+— Used to be filled with vegetables (constantly)
+— VERY rich in land
+— Few things still growing",-156.916576849194,20.8199274062725
+336,7687769c-3eae-498e-93b9-fb40db2fa7ac,3/20/2023 7:41:34 PM,,3/20/2023 7:41:34 PM,,Hershey Lei,,On the edge of the field,Fallow,other,weeds and flowers,,,"— Unused land
+— No plants growing
+— trash",-156.922233704867,20.8177332980779
+337,a451d744-e2ae-4b11-9362-8eb2ec1c9432,3/20/2023 8:39:31 PM,,3/20/2023 8:39:31 PM,,Rennan,,On the edge of the field,Multiple crops,"vegetables_(e.g._leafy_greens_c,other,kalo_(taro)_-_mala_(dryland)",,,,,-156.922436004167,20.8175980642434
+338,1fb271f1-78ab-4d1a-89a3-429cfb887eec,3/20/2023 8:40:12 PM,,3/20/2023 8:40:12 PM,,Rennan,,On the edge of the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),vegetables_(e.g._leafy_greens_c",,,,,-156.922431935951,20.8175702884008
+339,1a636adb-0112-47c7-95f5-367809507f2b,3/22/2023 1:07:04 AM,,3/22/2023 1:07:04 AM,,Alexander ,,On the edge of the field,Multiple crops,"other,tropical_fruits,vegetables_(e.g._leafy_greens_c"," Tomatoes, eggplant, cabbage, ti leaves ",,,,-156.922140697663,20.8174758440742
+340,9b8f19e6-5c6e-419d-a45d-c2a98b13c34f,3/22/2023 1:08:57 AM,,3/22/2023 1:08:57 AM,,Makamae kadooka,,On the edge of the field,Home garden or irregular,,,other,"Malunggay, eggplant, green onion, pumpkin ",Decent amount of weeds ,-156.922272312217,20.8173533123048
+341,4ae1620b-39dc-485c-8a39-789b16c1c3a5,3/22/2023 1:09:40 AM,,3/22/2023 1:09:40 AM,,Alexander ,,On the edge of the field,One crop,tropical_fruits,,,,"Only one tree, lots of weeds ",-156.922160170506,20.8175301388852
+342,996e235f-60fa-4568-9866-a67a18487281,3/22/2023 1:10:20 AM,,3/22/2023 1:10:20 AM,,Makamae kadooka ,,On the edge of the field,Home garden or irregular,"tropical_fruits,vegetables_(e.g._leafy_greens_c",,,,,-156.922274414418,20.8173983471142
+343,189d7980-3e97-4e52-ae75-49bbd456c10c,3/22/2023 1:12:16 AM,,3/22/2023 1:12:16 AM,,Alexander ,,On the edge of the field,Multiple crops,"tropical_fruits,vegetables_(e.g._leafy_greens_c,other",Ti leaves ,,,,-156.922131239621,20.817549547284
+344,574098c6-316a-41a1-a846-9c4a9ee2451f,3/22/2023 1:12:46 AM,,3/22/2023 1:12:46 AM,,Makamae kadooka,,On the edge of the field,Home garden or irregular,"vegetables_(e.g._leafy_greens_c,tropical_fruits,other","Cactus,malunggay, corn, pumpkin, eggplant",,,,-156.922222632704,20.8174626303564
+345,b40b81cf-fb5b-4c50-9b2f-a16523a70241,3/25/2023 10:56:28 PM,,3/25/2023 10:56:28 PM,,Brigette Tomas ,,Inside the field,Multiple crops,"mai`a_(banana),kalo_(taro)_-_mala_(dryland),tropical_fruits,vegetables_(e.g._leafy_greens_c",,,,"Harvest pigs and deer
+tropical fruits - papaya",-156.54126704,20.97053801
+346,51f92d0a-be17-41ff-b9c7-c54fc89199ce,3/25/2023 10:56:32 PM,,3/25/2023 10:56:32 PM,,Brigette Tomas,,Inside the field,Multiple crops,"mai`a_(banana),tropical_fruits,kalo_(taro)_-_mala_(dryland)",,,,"Papaya, Hawaiian chili plant,
+lilikoi in the gulch
+Bee hive in field",-156.54133656,20.97058173
+347,990add74-ea10-4fe7-8b40-8211ae67bca4,3/25/2023 10:56:35 PM,,3/25/2023 10:56:35 PM,,Brigette Tomas,,Inside the field,Home garden or irregular,kalo_(taro)_-_mala_(dryland),,,,In animal field goats and horses,-156.54095556,20.97036742
+348,38a77636-70a4-497a-bc8e-636220ac1fa8,3/25/2023 10:56:39 PM,,3/25/2023 10:56:39 PM,,Brigette Tomas,,Inside the field,One crop,mai`a_(banana),,,,"Grass planted also
+Field used to have spinich but animals ate them ",-156.5411104,20.9707328
+349,fc2acb83-8afb-4a83-aa03-017db3363ff7,3/25/2023 10:56:44 PM,,3/25/2023 10:56:44 PM,,Brigette Tomas,,Inside the field,Multiple crops,tropical_fruits,,,,"Noni tree 
+lilikoi tree",-156.54148182,20.97088142
+350,57e3fbb7-eca7-47eb-8bd2-1ba94aa1da69,3/25/2023 10:56:48 PM,,3/25/2023 10:56:48 PM,,Brigette Tomas,,Inside the field,Multiple crops,mai`a_(banana),,,,"Mamaki 
+Glyceria tree
+Kukui nut tree
+Papaya tree",-156.54123624,20.97084838
+351,ca2bd86f-2394-49bd-a8b2-e3d1c0e33549,3/25/2023 10:56:54 PM,,3/25/2023 10:56:54 PM,,Brigette Tomas,,On the edge of the field,Multiple crops,kalo_(taro)_-_mala_(dryland),,,,"Korean Spinich
+madagascar chestnut
+",-156.54125571,20.97028265
+352,fc5b3abd-aa23-482d-9fb9-d4b7e85df00f,3/25/2023 10:56:59 PM,,3/25/2023 10:56:59 PM,,Brigette Tomas,,Inside the field,Multiple crops,mai`a_(banana),,,,Vanilla Bean Tree,-156.54143264,20.97040665
+353,4bedb31a-1d56-4006-9b21-d8225060d244,3/25/2023 10:57:03 PM,,3/25/2023 10:57:03 PM,,Brigette Tomas,,On the edge of the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),mai`a_(banana),`ulu_(breadfruit)",,,,"Fallow
+Mixed garden",-156.54089289,20.97009892
+354,7038d73a-ecc8-4843-9aaf-03e1238e8868,3/25/2023 11:22:29 PM,,3/25/2023 11:22:29 PM,,Mary,,Inside the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),mai`a_(banana),`uala_(sweet_potato),other,tropical_fruits",Chili pepper,,,Agroforest with understory crops under banana,-156.54134162,20.97055273
+355,dee84da8-d4e2-4462-9b57-7e36102b65ed,3/25/2023 11:22:33 PM,,3/25/2023 11:22:33 PM,,Mary,,Inside the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),mai`a_(banana),`uala_(sweet_potato),other",Herbs,,,Mostly banana and sweet potato,-156.541221874193,20.97057331528
+356,fca7c8c7-874f-4ccc-8356-e2b93572ee21,3/25/2023 11:22:35 PM,,3/25/2023 11:22:35 PM,,Mary,,Inside the field,One crop,mai`a_(banana),,,,,-156.54132095,20.97060668
+357,0bcd370a-afd3-4d62-8a8e-363fbcfcb122,3/25/2023 11:22:39 PM,,3/25/2023 11:22:39 PM,,Mary,,Inside the field,One crop,other,Honey bees,,,,-156.54138205,20.97060419
+358,db5d42e9-61d5-4d8e-94c5-557529b303a9,3/25/2023 11:22:42 PM,,3/25/2023 11:22:42 PM,,Mary,,Inside the field,Multiple crops,"tropical_fruits,other",Papaya Bitter melon,,,,-156.5411578,20.97042476
+359,02ddfdc7-eb47-4c81-a0b1-04a81bf93a9a,3/25/2023 11:22:45 PM,,3/25/2023 11:22:45 PM,,Mary,,On the edge of the field,One crop,kalo_(taro)_-_mala_(dryland),,,,,-156.54089698,20.97043889
+360,3c1724d8-16df-4f78-a986-474d8c1d3b85,3/25/2023 11:22:48 PM,,3/25/2023 11:22:48 PM,,Mary,,Inside the field,One crop,mai`a_(banana),,,,,-156.54108537,20.97074073
+361,185080fe-5d27-4f6c-b86c-b608f52d589f,3/25/2023 11:22:52 PM,,3/25/2023 11:22:52 PM,,Mary,,Inside the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),mai`a_(banana),vegetables_(e.g._leafy_greens_c",,,,Squash,-156.54115053,20.97060747
+362,8a373a41-8e82-473d-b300-9c155893b7d7,3/25/2023 11:22:55 PM,,3/25/2023 11:22:55 PM,,Mary,,Inside the field,Multiple crops,tropical_fruits,,,,Citrus noni,-156.54149242,20.97089762
+363,b1c73150-8b7c-4826-bdac-108c8133348d,3/25/2023 11:22:59 PM,,3/25/2023 11:22:59 PM,,Mary,,On the edge of the field,One crop,mai`a_(banana),,,,,-156.54144834,20.97089747
+364,2b71416a-634f-4148-93f7-a2866d4ef44b,3/25/2023 11:23:04 PM,,3/25/2023 11:23:04 PM,,Mary,,On the edge of the field,Fallow,,,,,,-156.54102524,20.97080688
+365,a81497d8-a3bb-40bf-8235-b989bdda4ff8,3/25/2023 11:23:07 PM,,3/25/2023 11:23:07 PM,,Mary,,On the edge of the field,Fallow,,,,,,-156.5408237,20.97065244
+366,acfe1b7a-5304-4d79-b1dc-a134d7487c0a,3/25/2023 11:23:09 PM,,3/25/2023 11:23:09 PM,,Mary,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),other",,,,,-156.54089094,20.9703126
+367,ec5ab138-5aee-4b1a-81b6-2278b758e3b2,3/25/2023 11:23:13 PM,,3/25/2023 11:23:13 PM,,Mary,,Inside the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),`uala_(sweet_potato),mai`a_(banana)",,,,,-156.54127405,20.97027905
+368,c3280176-f22a-499c-bd80-7dfcc13d45bc,3/25/2023 11:23:16 PM,,3/25/2023 11:23:16 PM,,Mary,,Inside the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),tropical_fruits,`uala_(sweet_potato)",,,,,-156.54139616,20.9703396
+369,037aa0c0-3b2e-4a69-afa5-a02a2fdafec4,3/25/2023 11:23:20 PM,,3/25/2023 11:23:20 PM,,Mary,,Inside the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),mai`a_(banana)",,,,Vanilla bean,-156.54142125,20.97036809
+370,aa6a61da-9065-4f0a-a10e-be048376dc05,3/25/2023 11:23:23 PM,,3/25/2023 11:23:23 PM,,Mary,,Inside the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),mai`a_(banana)",,,,,-156.54140818,20.97036377
+371,6ccbc060-b703-4980-b1fc-704ff1ca37a9,3/25/2023 11:23:27 PM,,3/25/2023 11:23:27 PM,,Mary,,On the edge of the field,Multiple crops,"vegetables_(e.g._leafy_greens_c,tropical_fruits,kalo_(taro)_-_mala_(dryland)",,,,,-156.54089378,20.97006352
+372,83b0fb1b-3363-491f-8861-e99c6e4e3a4c,3/25/2023 11:23:30 PM,,3/25/2023 11:23:30 PM,,Mary,,On the edge of the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),`ulu_(breadfruit),tropical_fruits",,,,,-156.54056086,20.96995389
+373,c4385f20-8c71-4225-bdd0-7fa85d75262c,3/25/2023 11:23:33 PM,,3/25/2023 11:23:33 PM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Mountain apple,-156.54041384,20.96984947
+374,7f00f10f-2a6f-4cfc-8f6c-ebf8b347146d,3/26/2023 11:28:50 PM,,3/26/2023 11:28:50 PM,,Brigette Tomas ,,Inside the field,One crop,coffee,,,,"windbreak and shade trees
+Grass
+farm used to grow corn and asparagus.",-156.35179442,20.76647376
+375,6305a3f7-d6fd-4bdb-a975-06e17342ce8e,3/26/2023 11:39:05 PM,,3/26/2023 11:39:05 PM,,Brigette Tomas,,Inside the field,Multiple crops,"coffee,mai`a_(banana),vegetables_(e.g._leafy_greens_c",,,,Squash,-156.35187908,20.76688204
+376,84c6e9eb-e512-46d4-a85f-1d91eef99110,3/26/2023 11:39:25 PM,,3/26/2023 11:39:25 PM,,Brigette Tomas,,Inside the field,One crop,tropical_fruits,,,,"Mango
+fallow",-156.35196274,20.76690208
+377,05743a98-d68d-4d20-ab0d-c9e0cb4f0602,3/27/2023 1:44:23 AM,,3/27/2023 1:44:23 AM,,Charlotte Cabaccang,,On the edge of the field,One crop,other,Banana,,,Used to be a grove citrus trees and other ,-156.541056884598,20.9707046672897
+378,52a44d92-4840-4650-a089-a76e294edc0e,3/27/2023 1:44:36 AM,,3/27/2023 1:44:36 AM,,CC,,On the edge of the field,One crop,other,Banana,,,Used to grow canes but planted grass forulch and feed,-156.541263010969,20.9707131780906
+379,9a8cedfb-7a9d-4f72-a316-1f7801de2f3b,3/27/2023 1:44:50 AM,,3/27/2023 1:44:50 AM,,CC,,On the edge of the field,Multiple crops,other,No no and citrus trees,,,,-156.541479350378,20.9709121068499
+380,94e33366-091c-4059-9da7-47828bd449db,3/27/2023 1:45:00 AM,,3/27/2023 1:45:00 AM,,CC,,On the edge of the field,One crop,kalo_(taro)_-_loʻi_(wetland),,,,Not a wetland. ,-156.541045050216,20.9707550052768
+381,919b4c1d-7635-4fed-a7d1-0eaae7147a60,3/27/2023 1:45:11 AM,,3/27/2023 1:45:11 AM,,CC,,On the edge of the field,One crop,kalo_(taro)_-_loʻi_(wetland),,,,Not a wetland,-156.54093015922,20.9707148849407
+382,71568824-a40f-4407-9437-157c7c4a9670,3/27/2023 1:45:22 AM,,3/27/2023 1:45:22 AM,,CC,,On the edge of the field,Multiple crops,"kalo_(taro)_-_loʻi_(wetland),other","Guava, banana",,,,-156.540831834505,20.9705717935995
+383,0f23a887-79bb-4ef1-a0fb-0cc2abc0c4e0,3/27/2023 1:45:32 AM,,3/27/2023 1:45:32 AM,,CC,,On the edge of the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),`uala_(sweet_potato)",,,,Also uses reeds as pasture,-156.541240172709,20.9703017828523
+384,666ca3b8-4226-47f2-86db-a922176d3e3a,3/27/2023 1:45:41 AM,,3/27/2023 1:45:41 AM,,CC,,Inside the field,One crop,coffee,,,,They use the trees as shade for the coffee and collect wood chips to utilize all its potential. They said they decreased soil erosion by 95%. Plot used to be used for corn and asparagus.,-156.35178009994,20.7665274152726
+385,e133e20a-d873-4e38-8240-b48c5fc9bbe2,3/27/2023 1:45:54 AM,,3/27/2023 1:45:54 AM,,CC,,Inside the field,One crop,other,Mango,,,Uses big trees planted 20 years ago to shade most of the property and acts as windbreaks. Also uses banana trees as windbreaks (they also get harvested). ,-156.35190376702,20.7669435875341
+386,379f6815-05e0-4a19-a962-ca8d5c103953,3/27/2023 1:46:04 AM,,3/27/2023 1:46:04 AM,,CC,,On the edge of the field,Multiple crops,other,Citrus and Longan trees,,,Most shade trees are nitrogen fixing and used as infinite wood chips (cut branches only so if can bounce back every year) ,-156.352142620526,20.767072437062
+387,0d69da6e-6a67-4163-ba6c-37f0f71432d3,3/27/2023 1:46:15 AM,,3/27/2023 1:46:15 AM,,CC,,On the edge of the field,One crop,other,Squash,,,,-156.351601987466,20.767328971321
+388,045d340a-33b9-4ee5-9ec1-4532d1a9c332,3/27/2023 1:46:27 AM,,3/27/2023 1:46:27 AM,,CC,,On the edge of the field,Home garden or irregular,other,25 tons of food waist and roadkill and fish waist from boats.,,,"Used 25 tons of food waiSt and roadkill to add to their compost, and they solely use this pile for compost for the whole farm",-156.351450087427,20.767192711612
+389,5db0c5fc-3c29-4443-b168-5f1133f930b9,3/27/2023 1:46:39 AM,,3/27/2023 1:46:39 AM,,Cc,,On the edge of the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),vegetables_(e.g._leafy_greens_c,pineapple,other","Dragonsfruit, tomatoes",,,Uses ratio after harvesting to prevent weeds and lets insects or microbes wat away at the remaining plant matter.,-156.351135802898,20.7668384527077
+390,a9b19f38-31d5-4ded-b68f-876b4f163d43,3/27/2023 1:46:51 AM,,3/27/2023 1:46:51 AM,,CC,,Inside the field,Multiple crops,"other,tropical_fruits","Papayas, mangoes, and other fruit trees",,,,-156.350879400869,20.7665216917412
+391,a7c8c2a5-7630-4a1a-a241-eecb16ec695c,3/27/2023 2:48:42 AM,,3/27/2023 2:48:42 AM,,Brigette Tomas,,Inside the field,One crop,tropical_fruits,,,,Grapefruit,-156.35212206,20.7671456
+392,451ecb55-6647-4bf3-9821-0cd800a18bc9,3/27/2023 2:48:48 AM,,3/27/2023 2:48:48 AM,,Brigette Tomas,,Inside the field,Multiple crops,other,"Garlic, Fig trees",,,Inside a green house ,-156.3519227,20.76726998
+393,86c33ab9-4b2e-4dfc-95a9-6c0548450837,3/27/2023 2:48:53 AM,,3/27/2023 2:48:53 AM,,Brigette Tomas,,Inside the field,Multiple crops,other,"Beans, cucumbers, garlic, pigeon peas, and sugarcane",,,Green house sturucture just went up,-156.35158641,20.76723465
+394,cc69ce6e-4cd2-461a-bf98-ae4f1c76eeb8,3/27/2023 2:48:57 AM,,3/27/2023 2:48:57 AM,,Brigette Tomas,,On the edge of the field,Home garden or irregular,other,Composte area ,,,Composte area,-156.35144978,20.7671259
+395,00fb3e69-0ae1-46c7-8e36-99c3ea6d8fb1,3/27/2023 2:49:02 AM,,3/27/2023 2:49:02 AM,,Brigette Tomas,,On the edge of the field,Multiple crops,vegetables_(e.g._leafy_greens_c,,,,"Lettuce, grass( cover crop), mustard lettuce, tomatoes",-156.35121051,20.76681756
+396,a2dd7506-211e-4fe8-adaa-076ee376b57a,3/27/2023 2:49:06 AM,,3/27/2023 2:49:06 AM,,Brigette Tomas,,Inside the field,Multiple crops,"avocado,tropical_fruits",,,,Mango and Avocados,-156.35098376,20.76654302
+397,e7520f94-2eca-4eac-a58f-4188e00bfe96,3/27/2023 2:49:10 AM,,3/27/2023 2:49:10 AM,,Brigette Tomas,,Inside the field,One crop,,,,,"Longon tree
+Bee keeping ",-156.35076873,20.76642957
+398,4432fbbc-8cc3-4ef1-9992-44d76f5c0424,3/27/2023 2:49:14 AM,,3/27/2023 2:49:14 AM,,Brigette Tomas,,Inside the field,One crop,coffee,,,,,-156.35078401,20.76632198
+399,54b968d7-737d-4caa-aee5-cbfe87669996,3/27/2023 2:49:20 AM,,3/27/2023 2:49:20 AM,,Brigette Tomas,,Inside the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),other",Garlic,other,Garlic,Part of mixed crop field,-156.35158891,20.76636398
+400,3f9cedf8-00cf-4a08-82b8-ef6611a3ec4d,3/27/2023 2:49:26 AM,,3/27/2023 2:49:26 AM,,Brigette Tomas,,On the edge of the field,Multiple crops,"mai`a_(banana),niu_(coconut),sugarcane",,,,,-156.35164754,20.76462859
+401,3c8f7e04-57f5-423f-bc26-29067a7dcaa1,3/27/2023 9:41:51 PM,,3/27/2023 9:41:51 PM,,Hunter Welch Scott,,On the edge of the field,One crop,macadamia_nut,,,,,-157.047876666667,21.1672433333333
+402,03b27c2e-66a1-4234-826b-c8d7c4176815,3/27/2023 9:41:58 PM,,3/27/2023 9:41:58 PM,,Hunter Welch Scott,,On the edge of the field,One crop,macadamia_nut,,,,,-157.047545,21.1671966666667
+403,d168b770-1867-4f5b-9cab-f14bac827537,3/27/2023 9:42:05 PM,,3/27/2023 9:42:05 PM,,Hunter Welch Scott,,On the edge of the field,One crop,other,Kukui Nut,,,"There is lots of black plastic in the ground from past corprate farms
+",-157.04726,21.1668766666667
+404,8bc9ac32-2c2c-4f3e-bc54-73da36ee81b4,3/28/2023 12:51:41 AM,,3/28/2023 12:51:41 AM,,Kahaku,,On the edge of the field,Multiple crops,"mai`a_(banana),other,tropical_fruits","Citrus trees, sour sap, mango",tropical fruits,,Kahaku,-156.850211779301,21.0577172178787
+405,ad7f4056-a821-40b0-ad66-61ff327fd06b,3/28/2023 12:51:49 AM,,3/28/2023 12:51:49 AM,,Kairee,,On the edge of the field,Multiple crops,"mai`a_(banana),tropical_fruits,other","Citrus trees, sour sap, mango",tropical fruits,,,-156.850176674378,21.0576856749472
+406,3b18eb12-3a85-456d-89e1-52ea001757b1,3/28/2023 12:51:56 AM,,3/28/2023 12:51:56 AM,,Kahaku,,Inside the field,Multiple crops,"mai`a_(banana),tropical_fruits,other","Citrus trees, sour sap, mango, calamungay, milo, kukui",tropical fruits,,,-156.85024281991,21.0577731570327
+407,7e71772e-64d7-4ba4-be2a-0ed2f60d5862,3/28/2023 12:52:02 AM,,3/28/2023 12:52:02 AM,,Kairee,,Inside the field,Multiple crops,"mai`a_(banana),tropical_fruits,other","Citrus trees, sour sap, mango, calamungay, milo, kukui",tropical fruits,,,-156.850235604647,21.0577527510428
+408,b44b8f69-f506-4a6c-a610-d4ebe9935985,3/28/2023 12:52:08 AM,,3/28/2023 12:52:08 AM,,Kairee,,On the edge of the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),mai`a_(banana)",,kalo (taro) - mala (dryland),,,-156.849988791131,21.0575960514084
+409,a9af681e-e67a-4a3b-a067-bc7489d23f93,3/28/2023 12:52:12 AM,,3/28/2023 12:52:12 AM,,Kahaku,,On the edge of the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),mai`a_(banana)",,kalo (taro) - mala (dryland),,,-156.849972650463,21.0575919723985
+410,863d1032-b946-417e-8410-25ba73d28c85,3/28/2023 12:52:18 AM,,3/28/2023 12:52:18 AM,,KP,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),other","Tiare, dragonfruit, puakenikrni, kukui",`ulu (breadfruit),,,-156.849528184999,21.0577832397893
+411,0776cccb-36c2-4757-8848-e33d900ba5b0,3/28/2023 12:52:24 AM,,3/28/2023 12:52:24 AM,,KLV,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),tropical_fruits,other","Tiare, dragonfruit, puakenikrni, kukui",`ulu (breadfruit),,,-156.84939878845,21.0578587227785
+412,a817f483-0f35-4f9d-a90b-56923834a93a,3/28/2023 12:52:28 AM,,3/28/2023 12:52:28 AM,,KP,,On the edge of the field,Multiple crops,"tropical_fruits,`ulu_(breadfruit),mai`a_(banana)",,`ulu (breadfruit),,,-156.849336281897,21.0581413071965
+413,54aed058-7b29-4d66-8dc5-7636210bcb68,3/28/2023 12:52:34 AM,,3/28/2023 12:52:34 AM,,KLV,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),tropical_fruits,other",Mountain apple,`ulu (breadfruit),,,-156.84927303173,21.0581587232001
+414,670a2ecf-90a2-4189-b915-64777add2095,3/28/2023 12:52:41 AM,,3/28/2023 12:52:41 AM,,KP,,On the edge of the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),`ulu_(breadfruit),mai`a_(banana),tropical_fruits",,`ulu (breadfruit),,,-156.849162163611,21.0581879729141
+415,ec5d39f1-756d-4eb5-8532-22a1a07d9e65,3/28/2023 12:52:49 AM,,3/28/2023 12:52:49 AM,,Kairee,,On the edge of the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),tropical_fruits,`ulu_(breadfruit)",,`ulu (breadfruit),,,-156.849180879022,21.0581751133047
+416,0b1cc016-37d9-4599-a428-9a596e3326bb,3/28/2023 12:52:55 AM,,3/28/2023 12:52:55 AM,,KP,,Inside the field,One crop,kalo_(taro)_-_mala_(dryland),,,,"ʻUlaʻula moano, ʻeleʻel naeauea",-156.849111834902,21.0582522697694
+417,cbf54ab3-1f89-4cfd-a77c-6a0e2da8e9bb,3/28/2023 12:53:00 AM,,3/28/2023 12:53:00 AM,,KP,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),mai`a_(banana),other","Pohinahina, crown flower, aloe, native trees",mai`a (banana),,Apple banana,-156.848906480875,21.0582646903994
+418,24c508fa-35cf-4d83-8bd3-dbe0e24169a2,3/28/2023 12:53:06 AM,,3/28/2023 12:53:06 AM,,KLV,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),mai`a_(banana)",,mai`a (banana),,Apple banana,-156.848814161367,21.058207833157
+419,a5da3ad0-8b38-4727-938d-f0eedd3a28e6,3/28/2023 12:53:10 AM,,3/28/2023 12:53:10 AM,,KP,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),other,mai`a_(banana)",Pua kalaunu,`ulu (breadfruit),,,-156.848544194126,21.0578153860135
+420,95801c58-23d1-412b-a608-154f329b82b7,3/28/2023 12:53:17 AM,,3/28/2023 12:53:17 AM,,KLV,,Inside the field,Multiple crops,"`ulu_(breadfruit),mai`a_(banana),kalo_(taro)_-_mala_(dryland)",,`ulu (breadfruit),,Maʻafala,-156.848229263074,21.0578342500478
+421,a01d2132-bd5d-475f-89e1-19b9c9fd3ceb,3/28/2023 12:53:21 AM,,3/28/2023 12:53:21 AM,,KLV,,Inside the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),`ulu_(breadfruit),mai`a_(banana),other",Tileaf. Pua kalaunu,,,,-156.84819283805,21.0578972710548
+422,bdbb675d-a1a1-4826-b1ae-86d521d5cca7,3/28/2023 12:53:26 AM,,3/28/2023 12:53:26 AM,,Kahaku,,Inside the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),`ulu_(breadfruit),mai`a_(banana),other","Pua kalaunu, tileaf",`ulu (breadfruit),,,-156.848193288914,21.0579070207882
+423,b266a89e-0cd9-4ebf-a3d7-41f51d3bfc42,3/28/2023 12:53:31 AM,,3/28/2023 12:53:31 AM,,KP,,Inside the field,Multiple crops,"`uala_(sweet_potato),kalo_(taro)_-_mala_(dryland)",,kalo (taro) - mala (dryland),,,-156.848172560436,21.0579661540512
+424,7a6dcd16-5782-4d34-8f4c-abbb3a3deefd,3/28/2023 12:53:38 AM,,3/28/2023 12:53:38 AM,,KLV,,Inside the field,Multiple crops,"`ulu_(breadfruit),kalo_(taro)_-_mala_(dryland),mai`a_(banana),`uala_(sweet_potato),other","Aalii, uhaloa, helei, wiliwili",,,,-156.848158434806,21.0580149971275
+425,d107fa09-0db4-461d-8a09-41a00cb9bab0,3/28/2023 12:53:45 AM,,3/28/2023 12:53:45 AM,,KP,,Inside the field,Multiple crops,"`ulu_(breadfruit),`uala_(sweet_potato),other,tropical_fruits","Uhaloa, popolo, helei, wiliwili, cjili pepper",`ulu (breadfruit),,"
+",-156.848119898293,21.0580209826488
+426,512746fd-41a1-49ca-a46e-9e353f063974,3/28/2023 12:53:50 AM,,3/28/2023 12:53:50 AM,,KP,,Inside the field,Multiple crops,"`ulu_(breadfruit),mai`a_(banana),`uala_(sweet_potato),kalo_(taro)_-_mala_(dryland),macadamia_nut,other","Uhaloa, popolo",`ulu (breadfruit),,,-156.84810346894,21.0578006313686
+427,220b173b-417b-4c8f-92b4-7671b895cdbb,3/28/2023 12:53:55 AM,,3/28/2023 12:53:55 AM,,KP,,Inside the field,One crop,`ulu_(breadfruit),,other,,,-156.848041090105,21.0579081125525
+428,e38cd67d-499f-4a26-827b-70b18537011e,3/28/2023 12:53:59 AM,,3/28/2023 12:53:59 AM,,KLV,,Inside the field,One crop,`ulu_(breadfruit),,,,"Maʻafala
+",-156.848025016177,21.0581147024402
+429,ff43397e-9e5a-4366-b649-27efa696c00f,3/28/2023 12:54:04 AM,,3/28/2023 12:54:04 AM,,KP,,On the edge of the field,One crop,`ulu_(breadfruit),,,,"Maafala
+",-156.848038235368,21.0584019697856
+430,14dde1f9-09e2-4a22-99de-3ad47b57d0a9,3/28/2023 12:54:08 AM,,3/28/2023 12:54:08 AM,,KLV,,Inside the field,One crop,`ulu_(breadfruit),,,,,-156.84800934156,21.0583786645647
+431,a2a658f2-d1ad-43a7-9fff-7e34fc84f77a,3/28/2023 12:54:14 AM,,3/28/2023 12:54:14 AM,,KP,,Inside the field,One crop,`ulu_(breadfruit),,,,,-156.8479889211,21.0581138345062
+432,753178de-fe05-4818-a4cb-33df747c8f91,3/28/2023 12:54:19 AM,,3/28/2023 12:54:19 AM,,KP,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),kalo_(taro)_-_mala_(dryland),`uala_(sweet_potato),mai`a_(banana),tropical_fruits,macadamia_nut,other",Native plants,`ulu (breadfruit),,,-156.848603341668,21.0577990161218
+433,739545c7-47f9-45f5-b401-af469cd8fff4,3/28/2023 12:54:24 AM,,3/28/2023 12:54:24 AM,,KLV,,On the edge of the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),`ulu_(breadfruit),mai`a_(banana),tropical_fruits",,`ulu (breadfruit),,,-156.848889939554,21.0578340494974
+434,2f560cd1-e216-407f-8bc5-1f9da36e820a,3/28/2023 12:54:30 AM,,3/28/2023 12:54:30 AM,,KP,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),other","Puakenikeni, tiare. Kukui, kou",`ulu (breadfruit),,,-156.849452428302,21.057818668162
+435,1630eef4-709d-499c-bf36-3d54c0788313,3/28/2023 12:54:38 AM,,3/28/2023 12:54:38 AM,,KLV,,Inside the field,Multiple crops,"other,`ulu_(breadfruit)","Puakenikeni, tiare, kukui, kou",`ulu (breadfruit),,"
+",-156.849636275363,21.0578589330428
+436,6e4ef395-995a-4496-a1f6-130977e982a0,3/28/2023 12:54:41 AM,,3/28/2023 12:54:41 AM,,KP,,On the edge of the field,Home garden or irregular,other,"Fish, native plants",,,,-156.849960853959,21.0573987414707
+437,f6f3624e-4fc1-4bea-9afc-145e92938e0d,3/28/2023 12:54:46 AM,,3/28/2023 12:54:46 AM,,KLV,,On the edge of the field,Home garden or irregular,other,"Fish, native plNts",other,,,-156.850197961673,21.0572638962214
+438,07f8bc3d-278f-410d-9400-01ed134bf57f,3/28/2023 12:54:53 AM,,3/28/2023 12:54:53 AM,,KLV,,On the edge of the field,Home garden or irregular,other,Fish,other,,,-156.85031682432,21.0572179874051
+439,31c435a2-2607-4729-8515-09c67cf0ef2f,3/28/2023 12:54:56 AM,,3/28/2023 12:54:56 AM,,KP,,On the edge of the field,Home garden or irregular,other,Fish,,,,-156.85036962216,21.0569847943225
+440,0299f4c1-ca8f-485e-8268-8353edb1467f,3/28/2023 12:55:00 AM,,3/28/2023 12:55:00 AM,,KLV,,On the edge of the field,Home garden or irregular,other,Fish,other,,,-156.850353448048,21.0569699729654
+441,6a546fa8-635b-4027-9d6c-ce0932f04695,3/28/2023 12:55:04 AM,,3/28/2023 12:55:04 AM,,KP,,On the edge of the field,Home garden or irregular,other,Fish,other,,,-156.850364405218,21.0569929094829
+442,7620838c-8f03-44a5-8185-fab1de0e655d,3/28/2023 12:55:09 AM,,3/28/2023 12:55:09 AM,,KLV,,On the edge of the field,Home garden or irregular,other,Fish,,,,-156.85036376323,21.0569892881123
+443,00e2d0bd-d30c-413e-8787-708ad845976a,3/28/2023 12:55:14 AM,,3/28/2023 12:55:14 AM,,KP,,On the edge of the field,Home garden or irregular,other,Fish,other,,,-156.85036431832,21.0570067367285
+444,eb56e81b-1cc6-4306-838e-a4cc0e51feaa,3/28/2023 12:55:18 AM,,3/28/2023 12:55:18 AM,,KLV,,On the edge of the field,Home garden or irregular,other,Fish,,,,-156.850357705196,21.0569952782288
+445,7066ffbf-df3e-48b4-b682-e11a95ed337e,3/28/2023 12:55:21 AM,,3/28/2023 12:55:21 AM,,KLV,,On the edge of the field,Home garden or irregular,other,,,,,-156.85037328457,21.0570025176812
+446,414a51ff-068b-4224-b0fd-5b0474accf56,3/28/2023 12:55:23 AM,,3/28/2023 12:55:23 AM,,KP,,On the edge of the field,Home garden or irregular,"niu_(coconut),other",Fish,other,Fish,,-156.85035310862,21.0569630720725
+447,2345fb0e-f4e4-4dc1-8364-23e3747bf13a,3/28/2023 12:55:31 AM,,3/28/2023 12:55:31 AM,,KP,,On the edge of the field,One crop,"tropical_fruits,other",Mango,,,,-156.806808539274,21.0697204793334
+448,ed6fa0f6-e245-4c2b-bbdd-2208c16fa4f9,3/28/2023 12:55:37 AM,,3/28/2023 12:55:37 AM,,KLV,,On the edge of the field,One crop,tropical_fruits,,,,"Mango patch
+Mapulehu",-156.80681791274,21.0697384524853
+449,c17d4abb-7f86-4418-96dc-03404f596961,3/28/2023 12:55:43 AM,,3/28/2023 12:55:43 AM,,KP,,On the edge of the field,One crop,tropical_fruits,,,,Mapulehu mangoes,-156.806846038272,21.0696798415548
+450,805b04e7-2668-45ea-bfbd-1da4e0c60efe,3/28/2023 12:55:49 AM,,3/28/2023 12:55:49 AM,,KP,,Inside the field,One crop,"other,tropical_fruits","Noni, mango",tropical fruits,,,-156.806719314117,21.0693896786173
+451,7cb47299-0085-4b89-b5cb-4fb802a7cd82,3/28/2023 12:55:56 AM,,3/28/2023 12:55:56 AM,,KLV,,Inside the field,One crop,tropical_fruits,,,,Mango,-156.806466522901,21.0686678487842
+452,ebdd7949-10b6-469a-afab-6162475c2aa2,3/28/2023 12:56:03 AM,,3/28/2023 12:56:03 AM,,KP,,Inside the field,Multiple crops,"tropical_fruits,other","Mango, noni",tropical fruits,,Mapulehu mangoes,-156.806373049767,21.0683941729781
+453,a688aced-2861-4941-b86d-38c4ea4d4675,3/28/2023 12:56:09 AM,,3/28/2023 12:56:09 AM,,KP,,Inside the field,Multiple crops,"tropical_fruits,other,sugarcane","Mango, noni",tropical fruits,,,-156.80610044801,21.0678855656047
+454,cd80ba1c-c15d-49c6-ad6c-5de0f8fbfb65,3/28/2023 12:56:16 AM,,3/28/2023 12:56:16 AM,,KLV,,Inside the field,One crop,tropical_fruits,,,,Mapulehu mango,-156.805551320916,21.0676305014475
+455,bc652773-27d3-447e-8057-361953b2c5d4,3/28/2023 12:56:21 AM,,3/28/2023 12:56:21 AM,,KP,,Inside the field,One crop,"tropical_fruits,other",,tropical fruits,,"Mapulehu mango
+",-156.805216073945,21.0674276643716
+456,0803df1b-5574-4300-a8ff-1385f4047562,3/28/2023 12:56:25 AM,,3/28/2023 12:56:25 AM,,KP,,On the edge of the field,One crop,niu_(coconut),,,,,-156.805096811797,21.0669299128662
+457,9e094d6f-269e-4fa4-801d-689c9e69c9f3,3/28/2023 12:56:32 AM,,3/28/2023 12:56:32 AM,,KP,,Inside the field,One crop,tropical_fruits,,,,"Mapulehu mangoes, not ripe
+",-156.805524255344,21.0676242133882
+458,a8469021-1a3c-4204-89b4-98d7526e8a1f,3/28/2023 12:56:41 AM,,3/28/2023 12:56:41 AM,,KLV,,Inside the field,One crop,avocado,,,,Mango,-156.806187218062,21.0678696745299
+459,411d56a4-776f-43d7-adaf-e9e2796e7422,3/28/2023 12:56:47 AM,,3/28/2023 12:56:47 AM,,KP,,Inside the field,One crop,tropical_fruits,,,,"Mapulehu mango, noni",-156.806440918924,21.0683784491078
+460,d94fc5c7-379e-463e-8d2e-2e2dd2eaf086,3/28/2023 12:56:54 AM,,3/28/2023 12:56:54 AM,,KLVA,,Inside the field,One crop,tropical_fruits,,,,Mapulehu mangoes,-156.806613616008,21.0688948780518
+461,24333c9c-8169-48e6-be42-7555d46e7400,3/28/2023 12:56:58 AM,,3/28/2023 12:56:58 AM,,KP,,Inside the field,One crop,other,,,,"Mapulehu mangoes, noni",-156.806709204852,21.0692290453173
+462,72ea189c-3241-4fdf-ae7f-a9ec901b4368,4/4/2023 10:59:46 PM,,4/4/2023 10:59:46 PM,,Makamae ,,Inside the field,Pasture,other,None,,,Overgrown and a lot of elephant grass.,-156.951443720511,20.7982585691933
+463,66a33418-8f85-4227-bbaa-bf512b7afd04,4/4/2023 11:02:20 PM,,4/4/2023 11:02:20 PM,,Makamae ,,Inside the field,Multiple crops,"mai`a_(banana),tropical_fruits,other,vegetables_(e.g._leafy_greens_c","Peppers, pumpkins ",,,This is just a portion of the farm ,-156.95162022345,20.7986024286888
+464,50acd915-cf7a-4f52-902c-f2fc3c34782e,4/4/2023 11:06:08 PM,,4/4/2023 11:06:08 PM,,Makamae ,,Inside the field,Multiple crops,"other,mai`a_(banana)",Eggplant ,,,This is a section of the bigger farm,-156.95079650835,20.798295433553
+465,94ad6d13-7779-4195-b599-86be9721f23f,4/4/2023 11:11:27 PM,,4/4/2023 11:11:27 PM,,Makamae ,,Inside the field,Multiple crops,"tropical_fruits,vegetables_(e.g._leafy_greens_c,other,mai`a_(banana)",Green onion,,,Section of the farm,-156.951353366694,20.7986513285334
+466,e3542170-73ad-4c55-b660-75f9f33a1cdf,4/4/2023 11:30:16 PM,,4/4/2023 11:30:16 PM,,Makamae ,,Inside the field,Multiple crops,vegetables_(e.g._leafy_greens_c,,other,Lettuce ,This is a section of the farm ,-156.950847943808,20.797917700644
+467,60a0d71c-c65b-4d1b-ac24-ad679ec20481,4/4/2023 11:32:10 PM,,4/4/2023 11:32:10 PM,,Makamae ,,Inside the field,Multiple crops,"pineapple,tropical_fruits,other",Lemons,pineapple,,This is a section of the farm,-156.95103341786,20.7977928276385
+468,e8214c77-6167-40d0-9dda-8d99740bafd3,4/4/2023 11:33:27 PM,,4/4/2023 11:33:27 PM,,Makamae ,,Inside the field,Multiple crops,"pineapple,kalo_(taro)_-_mala_(dryland),other",Bettle nut ,pineapple,,This is a section of the farm ,-156.950902827882,20.797862988486
+469,e0c9ed46-06e2-421d-9745-d8de2ae64732,4/4/2023 11:35:43 PM,,4/4/2023 11:35:43 PM,,Makamae ,,Inside the field,Multiple crops,avocado,,avocado,,This is section is mainly avacado,-156.95077268738,20.7979387843012
+470,b4667fec-d2fe-4070-9ceb-a60626238f08,4/4/2023 11:39:58 PM,,4/4/2023 11:39:58 PM,,Makamae ,,Inside the field,Multiple crops,other,Australian finger lime,,,A section of the farm,-156.950604169765,20.7980282779482
+471,60d6176f-dfc9-4a01-9d15-bf23ceea6c45,4/5/2023 1:33:07 AM,,4/5/2023 1:33:07 AM,,Hershey Lei,,Inside the field,Multiple crops,"other,`ulu_(breadfruit)","Bananas, papayas, citrus trees, cassavas, eggplants,  raspberries.",not applicable,,"— Lots of irrigation
+— Fenced off
+— Cultivated land
+— Well taken care of",-156.951219275684,20.7984749804095
+472,13b95a9d-3238-4302-ae6e-b1108431f6cf,4/5/2023 1:33:11 AM,,4/5/2023 1:33:11 AM,,Hershey Lei,,Inside the field,Multiple crops,other,Papayas and Mamakis,not applicable,,,-156.951310912561,20.7986191404167
+473,1ce2d4e9-f186-4041-82c7-9f6f3b2c9924,4/5/2023 1:33:15 AM,,4/5/2023 1:33:15 AM,,Hershey Lei,,Inside the field,Multiple crops,"other,`uala_(sweet_potato)","Lettuce, cabbages, green onions, bok choy, eggplant, pineapples",not applicable,,Irrigated.,-156.951490477785,20.798504640459
+474,71f85114-e380-4f11-aafb-e0cc3549117b,4/5/2023 1:33:21 AM,,4/5/2023 1:33:21 AM,,Hershey Lei,,Inside the field,Multiple crops,other,Peppers and eggplants,,,"— Yeild (28,000lbs of fruits and veggies)
+— Many pests 
+— Grown organically",-156.951589905055,20.7985434840076
+475,6fdabed4-b7e2-4e6e-954d-f6b64bcbe0cb,4/5/2023 1:33:26 AM,,4/5/2023 1:33:26 AM,,Hershey Lei,,Inside the field,Multiple crops,other,Lemons and tangerines,not applicable,,,-156.951075231933,20.7977517515107
+476,ea0b6531-c583-40ea-9151-35cdd99c11f8,4/6/2023 11:06:05 PM,,4/6/2023 11:06:05 PM,,ervina,,On the edge of the field,One crop,macadamia_nut,,macadamia nut,,,-156.896117455037,20.7892427700013
+477,0546e596-8563-4020-9b00-79d8cd4557ad,4/6/2023 11:07:13 PM,,4/6/2023 11:07:13 PM,,ervina,,On the edge of the field,One crop,macadamia_nut,,,,,-156.896188143041,20.7891137192972
+478,84c9a6e4-fdd1-4b5a-8a4b-24be6387ded6,4/6/2023 11:10:06 PM,,4/6/2023 11:10:06 PM,,Makamae ,,On the edge of the field,Pasture,other,None ,,,,-156.891854417309,20.7930750201046
+479,5854d90a-0e97-456c-aabc-62d6a4a3dd30,4/6/2023 11:10:31 PM,,4/6/2023 11:10:31 PM,,Alex ,,On the edge of the field,Pasture,,,,,"Fenced, pasture ",-156.891764681932,20.7929214835324
+480,feba7b1f-93f3-4d4e-8a88-c746d2d87c2a,4/6/2023 11:14:16 PM,,4/6/2023 11:14:16 PM,,Andrei ,,Inside the field,Multiple crops,"other,vegetables_(e.g._leafy_greens_c,kalo_(taro)_-_loʻi_(wetland)","Trees, pineapple,",,,"Organicly grown 
+-125lbs of kalo 
+-pineapple 400lbs",-156.950867478452,20.7978104954254
+481,57f68b96-d4df-4bb0-a752-44fbad3fc19c,4/6/2023 11:15:07 PM,,4/6/2023 11:15:07 PM,,Andrei badillo,,Inside the field,One crop,macadamia_nut,,,,"Was irragated 
+Partially Fenced in
+Abandoned 
+Overgrown ",-156.896021501764,20.7894501767908
+482,801f8bf5-c792-4de7-bc63-1bfe45223aa0,4/6/2023 11:22:56 PM,,4/6/2023 11:22:56 PM,,Makamae,,Inside the field,Multiple crops,other,"Bamboo, panic, tea leaf",,,,-156.894553052552,20.7936732535248
+483,c88f99a3-adb2-469f-9a10-6c9a661df4cb,4/6/2023 11:24:40 PM,,4/6/2023 11:24:40 PM,,ervina,,Inside the field,Pasture,other,grassy,,,,-156.894447378739,20.7944794128949
+484,bdc79dbb-dd01-42ce-a225-395756a9cbe9,4/6/2023 11:26:08 PM,,4/6/2023 11:26:08 PM,,Andrei,,Inside the field,Fallow,,,,,"Has acces to irrigation
+Fenced in 
+",-156.895084334137,20.7939869662716
+485,066769cf-4397-4170-bd42-d439f06ba4eb,4/6/2023 11:26:17 PM,,4/6/2023 11:26:17 PM,,ervina,,Inside the field,Pasture,other,bushes,,,,-156.894468300033,20.7944601817829
+486,0d9ead91-b48f-4972-9030-e5bd45ddc12f,4/6/2023 11:26:49 PM,,4/6/2023 11:26:49 PM,,Makamae ,,On the edge of the field,Multiple crops,"niu_(coconut),mai`a_(banana)",,,,Can’t see the whole field. Could be more crops ,-156.894598775502,20.7931443667879
+487,dd54f549-9955-481c-83d8-8486b0ecf70f,4/6/2023 11:31:29 PM,,4/6/2023 11:31:29 PM,,Makamae ,,On the edge of the field,Multiple crops,"mai`a_(banana),kalo_(taro)_-_mala_(dryland),other,tropical_fruits","Tapioca,",,,,-156.89463062678,20.7934281618284
+488,b836dcd1-c17d-4cc0-904d-a20b8150d987,4/6/2023 11:45:00 PM,,4/6/2023 11:45:00 PM,,Andrei ,,Inside the field,Pasture,other,Chickens,,,,-156.895368128547,20.7940222776838
+489,965fe6aa-6db5-4cea-baa3-b90d5240e749,4/6/2023 11:52:13 PM,,4/6/2023 11:52:13 PM,,Makamae ,,On the edge of the field,Pasture,,,,,All invasive plants ,-156.896793831654,20.7925775756043
+490,507f1008-59a1-40b1-af15-4656b2f4a476,4/7/2023 12:20:11 AM,,4/7/2023 12:20:11 AM,,Alex ,,Inside the field,Multiple crops,other,"Kou tree, Milo tree",,,,-156.89457761077,20.7937483938659
+491,d26435cd-3360-462a-8e31-f5993aa39194,4/7/2023 12:20:28 AM,,4/7/2023 12:20:28 AM,,Alex ,,Inside the field,Multiple crops,other,"Kou tree, Milo Tree",,,,-156.89477814704,20.7938179346757
+492,1870dd52-4c7f-42f0-8d2f-9fe58adc2cd9,4/7/2023 12:20:42 AM,,4/7/2023 12:20:42 AM,,Alex ,,On the edge of the field,Pasture,,,,,"No crops, just open field, the trees are invasive species ( I don’t know what it’s called though) ",-156.895451316358,20.7938719822928
+493,dec42f35-89e8-4873-873d-3b0e5aa02f61,4/9/2023 6:26:19 AM,,4/9/2023 6:26:19 AM,,Rohan Fahland,,On the edge of the field,One crop,mai`a_(banana),,,,,-156.036046433243,20.7981685691427
+494,38891d15-25be-4bfd-80f5-a970bb281cbc,4/9/2023 6:26:24 AM,,4/9/2023 6:26:24 AM,,Rohan Fahland ,,On the edge of the field,Multiple crops,"mai`a_(banana),other",Papaya,other,Papaya,,-156.035532947007,20.7991163573509
+495,c1b98130-e2b6-4d3d-b943-27ddf19165c1,4/9/2023 6:26:27 AM,,4/9/2023 6:26:27 AM,,Rohan Fahland ,,Inside the field,Multiple crops,"kalo_(taro)_-_mala_(dryland),other",Kava,,, ,-156.037999119941,20.8041783498828
+496,45241a2d-88ce-4d38-8c0b-f46ec670a9f1,4/9/2023 6:26:32 AM,,4/9/2023 6:26:32 AM,,Rohan Fahland ,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),other",Àpe/ Elephqnts est,other,Àpe,One big breadfruit tree surrounded by elephants ear,-156.039520284765,20.8045798303279
+497,e414537a-1475-45c8-9c8b-d265ca6cba90,4/9/2023 8:36:17 AM,,4/9/2023 8:36:17 AM,,Brigette Tomas,,On the edge of the field,One crop,mai`a_(banana),,,,"Farm has chickens
+field used to have macadamia trees ",-156.03614438,20.79800553
+498,7156682e-3fe9-4969-8b19-2274c494b8e7,4/9/2023 8:36:20 AM,,4/9/2023 8:36:20 AM,,Brigette Tomas,,Inside the field,One crop,niu_(coconut),,,,Dwarf coconut,-156.03605138,20.79777227
+499,f3894261-4d7f-49b6-8b3a-c0916c1c9581,4/9/2023 8:36:23 AM,,4/9/2023 8:36:23 AM,,Brigette Tomas,,Inside the field,Multiple crops,"tropical_fruits,niu_(coconut),other",,,,"rambutan yellow
+mango
+acai tree
+lauhala tree
+Avocado",-156.03588306,20.79736461
+500,04267618-aa36-4c4a-b55f-e61293a9930f,4/9/2023 8:36:26 AM,,4/9/2023 8:36:26 AM,,Brigette Tomas,,Inside the field,Multiple crops,"`ulu_(breadfruit),mai`a_(banana)",,`ulu (breadfruit),,"Samoan variation
+ulu fiti
+",-156.03657981,20.79778399
+501,93113523-ec3d-45e9-98f3-ac4ca08c9ab3,4/9/2023 8:36:30 AM,,4/9/2023 8:36:30 AM,,Brigette Tomas,,Inside the field,One crop,tropical_fruits,,,,Mountian apple from indo china,-156.03633955,20.7984216
+502,852aacea-7963-407f-82ab-1eca7e78d6cb,4/9/2023 8:36:35 AM,,4/9/2023 8:36:35 AM,,Brigette Tomas,,On the edge of the field,One crop,other,Bamboo,,,,-156.03634314,20.79843331
+503,0c398fc2-01c4-47b0-8572-3f5f93be53bf,4/9/2023 8:36:40 AM,,4/9/2023 8:36:40 AM,,Brigette Tomas,,Inside the field,Multiple crops,tropical_fruits,,,,"Lychee
+tangellos
+miracle tree fruit",-156.03568979,20.79867324
+504,5cf2c05b-5584-4c0e-8529-b49d7096b8e7,4/9/2023 8:36:44 AM,,4/9/2023 8:36:44 AM,,Brigette Tomas,,Inside the field,Multiple crops,tropical_fruits,,,,"Jackfruit 
+vanilla ",-156.03563417,20.79879682
+505,869ceafa-5d64-40de-abca-3b71714fb5f9,4/9/2023 8:36:48 AM,,4/9/2023 8:36:48 AM,,Brigette Tomas,,Inside the field,Multiple crops,,,,,"located in perinial garden 
+achote tree
+Peanut butter tree",-156.03557426,20.79898253
+506,f4337c12-ef9a-473b-be2c-4cff6f51cbed,4/9/2023 8:36:53 AM,,4/9/2023 8:36:53 AM,,Brigette Tomas,,On the edge of the field,Home garden or irregular,vegetables_(e.g._leafy_greens_c,,,,"Short carrots
+lettuce 
+Scallions 
+Cabbages",-156.03563782,20.79915395
+507,941c653e-a0b0-4a25-83ca-d566b500cc14,4/9/2023 8:36:55 AM,,4/9/2023 8:36:55 AM,,Brigette Tomas,,On the edge of the field,One crop,macadamia_nut,,,,,-156.03560819,20.79928125
+508,2531c577-ff63-4d5b-97c0-95f515a7a2d1,4/9/2023 8:37:01 AM,,4/9/2023 8:37:01 AM,,Brigette Tomas,,Inside the field,Home garden or irregular,tropical_fruits,,,,"Inga tree ice cream bean
+Verbane ",-156.02292387,20.79181585
+509,f44bab25-faf6-4c5a-b728-988014c56a7d,4/9/2023 8:37:05 AM,,4/9/2023 8:37:05 AM,,Brigette Tomas,,Inside the field,Home garden or irregular,mai`a_(banana),,,,Chinese banana,-156.0229041,20.79172279
+510,bba18045-507b-4f83-9afb-5e8c59881e92,4/9/2023 8:37:10 AM,,4/9/2023 8:37:10 AM,,Brigette Tomas,,Inside the field,Multiple crops,"niu_(coconut),tropical_fruits",,,,"Lilikoi
+Verban plant",-156.02292422,20.79169953
+511,1a5e1701-e81f-4791-88c4-4e3de29b41db,4/9/2023 8:37:15 AM,,4/9/2023 8:37:15 AM,,Brigette Tomas,,Inside the field,Home garden or irregular,other,Mulch,,,Gunpowder trees as mulch in field ,-156.02301614,20.79172052
+512,7d06bd08-ddfb-4ca3-bab5-4c30494ca960,4/9/2023 8:37:19 AM,,4/9/2023 8:37:19 AM,,Brigette Tomas,,Inside the field,One crop,other,Awa,,,,-156.03826307,20.80406694
+513,5e3ee638-c584-4918-abc9-7d289cfe87c8,4/9/2023 8:37:23 AM,,4/9/2023 8:37:23 AM,,Brigette Tomas,,Inside the field,One crop,other,Kou tree,,,,-156.03849394,20.80395092
+514,aa449520-b1a1-4332-92c3-6db70dbbc690,4/9/2023 8:37:27 AM,,4/9/2023 8:37:27 AM,,Brigette Tomas,,On the edge of the field,Multiple crops,`ulu_(breadfruit),,,,'Ape - elephants ear,-156.03954392,20.80451897
+515,505c69c5-924a-4f84-889f-c46d38923f54,4/9/2023 8:37:31 AM,,4/9/2023 8:37:31 AM,,Brigette Tomas,,On the edge of the field,Home garden or irregular,other,'awapuhi - shampoo ginger,,,,-156.03960799,20.8044682
+516,49ac2140-ab3a-4239-b83a-a415cd9b2f41,4/9/2023 8:37:35 AM,,4/9/2023 8:37:35 AM,,Brigette Tomas,,On the edge of the field,One crop,tropical_fruits,,,,Noni,-156.03961265,20.80476351
+517,14859b55-4181-46f3-95c5-2cc5c109838d,4/10/2023 9:29:47 PM,,4/10/2023 9:29:47 PM,,Jayleen Abraham ,,On the edge of the field,Multiple crops,"mai`a_(banana),vegetables_(e.g._leafy_greens_c,other","Citrus , dragon fruit, soursap",,,,-156.951043700443,20.798199463608
+518,a63c5fc4-e4d1-4343-bfc8-5b539bb19107,4/10/2023 9:29:49 PM,,4/10/2023 9:29:49 PM,,Jayleen ,,Inside the field,Multiple crops,other,Berries ,other,Dragonfruit ,,-156.951043700442,20.7981994636088
+519,a878e1a7-af5f-4ccb-932d-5c20c40c0165,4/10/2023 9:29:51 PM,,4/10/2023 9:29:51 PM,,Jayleen ,,Inside the field,Multiple crops,"pineapple,`ulu_(breadfruit),other",Papayas ,,,,-156.951043700442,20.7981994636088
+520,97614439-7e5d-4262-b32f-886850c7ec67,4/10/2023 9:29:52 PM,,4/10/2023 9:29:52 PM,,Jayleen ,,Inside the field,Home garden or irregular,"kalo_(taro)_-_mala_(dryland),vegetables_(e.g._leafy_greens_c",,,,Were some windbreak crops,-156.917673026936,20.8161607578878
+521,12553dfe-3273-4ed4-91db-1b6de974388c,4/10/2023 9:31:16 PM,,4/10/2023 9:31:16 PM,,Jayleen,,Inside the field,Pasture,,,,,"Pasture land but some plants are starting to grow
+
+",-156.92265465552,20.8268381927527
+522,90800d6b-dac1-46e5-8b86-a46f459ebd24,4/10/2023 9:32:31 PM,,4/10/2023 9:32:31 PM,,Jayleen ,,On the edge of the field,One crop,macadamia_nut,,,,Macademia nut farms ,-156.922607916847,20.8268574550877
+523,7a5ce213-191b-46cb-a960-76d99585ede9,4/10/2023 9:33:17 PM,,4/10/2023 9:33:17 PM,,Jayleen ,,Inside the field,Multiple crops,"`ulu_(breadfruit),avocado,other,tropical_fruits",,other,Lemons ,,-156.922704930922,20.8268693308353
+524,d8192f75-df15-4d88-852d-6c7c59998ef5,4/13/2023 3:05:00 AM,,4/13/2023 3:05:00 AM,,Carter Rosenthal,,On the edge of the field,Multiple crops,vegetables_(e.g._leafy_greens_c,,,,The farm crop-rotates often and uses mushroom straw to fertilize ,-156.286028887102,20.8154760369445
+525,391f706c-df6b-43a2-a157-8c08f2594ea3,4/13/2023 3:05:09 AM,,4/13/2023 3:05:09 AM,,Carter Rosenthal,,On the edge of the field,One crop,vegetables_(e.g._leafy_greens_c,,,,,-156.286080785999,20.8155649208396
+526,ab05d1cd-ecc6-436c-a9db-10e2016a48a7,4/13/2023 3:05:18 AM,,4/13/2023 3:05:18 AM,,Carter Rosenthal,,On the edge of the field,Multiple crops,,,,,Blend of different types of lettuce.,-156.286092376299,20.8156181041923
+527,7972bac3-bb6f-49e5-933e-d70482ca7270,4/13/2023 3:05:28 AM,,4/13/2023 3:05:28 AM,,Carter Rosenthal,,On the edge of the field,One crop,vegetables_(e.g._leafy_greens_c,,,,5 beds of carrots,-156.286109255918,20.8156451555229
+528,7dd834e7-6ff2-409e-857c-4a70ea076040,4/13/2023 3:05:34 AM,,4/13/2023 3:05:34 AM,,Carter Rosenthal,,On the edge of the field,Multiple crops,other,Parsnips,,,,-156.286125645855,20.8157074522744
+529,1e1f2b97-08b9-4d2a-b2ed-139143cf8e7c,4/13/2023 3:05:44 AM,,4/13/2023 3:05:44 AM,,Carter Rosenthal,,On the edge of the field,One crop,other,Potato,,,"Excessive rain (40+ inches in the winter) gave many of the potatoes blight, lowering the crop yield.",-156.286167478536,20.8157878503204
+530,a5d5f7f3-0e65-4edd-b0ab-fb5ebb73bf8a,4/13/2023 3:05:53 AM,,4/13/2023 3:05:53 AM,,Carter Rosenthal,,On the edge of the field,Multiple crops,other,"Kale, yellow onions",,,,-156.286148142096,20.8158200361699
+531,f6ccc9a6-630d-46a1-9d89-991055405a4f,4/13/2023 3:06:02 AM,,4/13/2023 3:06:02 AM,,Carter Rosenthal,,On the edge of the field,Multiple crops,"vegetables_(e.g._leafy_greens_c,other","Beats, scallions, head lettuce, other greens ",,,,-156.286246467341,20.8159946181484
+532,d88c98bf-f9d8-46b1-a2b0-9c862ce1716f,4/13/2023 3:06:12 AM,,4/13/2023 3:06:12 AM,,Carter Rosenthal,,On the edge of the field,Multiple crops,other,"4 beds of Leach, 6 beds of onion",,,,-156.286300033422,20.8160894651399
+533,f7b73510-bf72-4b6c-b8c2-46ad5d0b5c7b,4/13/2023 3:06:15 AM,,4/13/2023 3:06:15 AM,,Carter Rosenthal,,On the edge of the field,Multiple crops,vegetables_(e.g._leafy_greens_c,,,,"Arugula, mixed-green",-156.285670303774,20.8157094033085
+534,f4c593ce-9b6b-43fd-9736-885fac7eaf23,4/13/2023 3:06:17 AM,,4/13/2023 3:06:17 AM,,Carter Rosenthal,,On the edge of the field,Multiple crops,vegetables_(e.g._leafy_greens_c,,,,Salad and Arugala,-156.285641329433,20.8156299141275
+535,edb8f781-a062-4726-80bb-97cac0923bdb,4/13/2023 3:06:19 AM,,4/13/2023 3:06:19 AM,,Carter Rosenthal,,On the edge of the field,Multiple crops,"other,vegetables_(e.g._leafy_greens_c","Turnips, beats, carrots",,,,-156.285530814978,20.8155496167485
+536,6f9a0ebb-7e94-4aba-abf5-7fbfbad925e5,4/13/2023 3:06:27 AM,,4/13/2023 3:06:27 AM,,Carter Rosenthal,,On the edge of the field,Multiple crops,other,"Snap peas, artichoke, onions, mixed greens",,,,-156.285797814742,20.8153890729258
+537,0586e4bb-1840-49ef-b868-f75590fdd590,4/13/2023 6:43:18 AM,,4/13/2023 6:43:18 AM,,jerry,,On the edge of the field,Multiple crops,"other,mai`a_(banana)","potato, salad kale; carrots purple + white dicon rotated regularly",,,mostly salad stuff rotating regulaly. tomatoand cucumber in hi tunnels in summer,-156.28618146,20.81576011
+538,588de1e3-9325-44f3-8aa4-c3ba0e59d367,4/13/2023 6:43:20 AM,,4/13/2023 6:43:20 AM,,jerry,,On the edge of the field,Pasture,,,,,,-156.22178767,20.89828376
+539,69cdb7d5-26ff-4015-b30c-1fd898961626,4/13/2023 6:43:22 AM,,4/13/2023 6:43:22 AM,,jerry,,Inside the field,Pasture,,,,,,-156.22160359,20.89853971
+540,cc4eef11-1303-4273-b6ba-aedcf13c2700,4/13/2023 6:43:23 AM,,4/13/2023 6:43:23 AM,,jerry,,Inside the field,Multiple crops,"macadamia_nut,mai`a_(banana),`ulu_(breadfruit)",,,,,-156.0360324,20.79829214
+541,90c65eec-e5bb-40ba-946e-f69d182fa025,4/13/2023 6:43:26 AM,,4/13/2023 6:43:26 AM,,jerry,,Inside the field,Multiple crops,"`ulu_(breadfruit),mai`a_(banana),macadamia_nut,niu_(coconut)",,,,,-156.03602853,20.79774284
+542,dcb81dac-bf17-45f0-8973-cd72a784fded,4/13/2023 6:43:27 AM,,4/13/2023 6:43:27 AM,,jerry,,Inside the field,Multiple crops,"niu_(coconut),mai`a_(banana),tropical_fruits,avocado,other",acai,,,,-156.03592209,20.79737797
+543,f34233ff-2fdd-4680-8063-1ae7ab5babb3,4/13/2023 6:43:29 AM,,4/13/2023 6:43:29 AM,,jerry,,Inside the field,Multiple crops,"`uala_(sweet_potato),niu_(coconut),mai`a_(banana),pineapple,tropical_fruits,other",lilikoi,,,,-156.02291766,20.79165857
+544,7e9ca715-a1de-48b3-8625-37f7b0e77820,4/13/2023 6:43:31 AM,,4/13/2023 6:43:31 AM,,jerry,,Inside the field,Multiple crops,"kalo_(taro)_-_loʻi_(wetland),kalo_(taro)_-_mala_(dryland),`ulu_(breadfruit),niu_(coconut),mai`a_(banana),`uala_(sweet_potato),tropical_fruits,sugarcane",,,,,-156.03785373,20.80422861
+545,080919d8-0afa-4c2e-925b-078e2a73bb2e,4/13/2023 9:00:42 PM,,4/13/2023 9:00:42 PM,,Rennan,,On the edge of the field,Fallow,,,,,,-156.922053351626,20.8175529331131
+546,f841ae47-2347-40eb-a2fc-faaa274ebd34,4/13/2023 9:01:06 PM,,4/13/2023 9:01:06 PM,,Rennan,,On the edge of the field,Multiple crops,"vegetables_(e.g._leafy_greens_c,kalo_(taro)_-_mala_(dryland)",,,,,-156.922039358935,20.8175822382519
+547,02d0c343-0389-4421-857d-00f51449af28,4/13/2023 9:01:31 PM,,4/13/2023 9:01:31 PM,,Rennan,,On the edge of the field,One crop,other,Dragon fruit ,,,,-156.951392730852,20.7988947810825
+548,f63eeebb-7739-4771-8517-0ba50927539e,4/13/2023 9:02:02 PM,,4/13/2023 9:02:02 PM,,Rennan ,,Inside the field,One crop,other,Lemons ,,,,-156.951026968692,20.7977594358218
+549,9b0640bc-dc72-4a75-9421-5b871c372d4e,4/13/2023 9:02:36 PM,,4/13/2023 9:02:36 PM,,Rennan,,Inside the field,One crop,other,Tree,,,,-156.894479122408,20.7936464019136
+550,3da3bf8d-86f8-4a72-a079-2d28c04e951d,4/13/2023 9:03:11 PM,,4/13/2023 9:03:11 PM,,Rennan,,On the edge of the field,One crop,"mai`a_(banana),niu_(coconut)",,,,,-156.894578762895,20.7931269273908
+551,a05a2699-5fb1-4553-aa96-ef3dc6a776ea,4/13/2023 9:03:29 PM,,4/13/2023 9:03:29 PM,,Rennan,,On the edge of the field,One crop,mai`a_(banana),,,,,-156.894695454518,20.7933889335942
+552,668dc634-9212-4350-b702-9964424e6ce8,4/14/2023 7:13:21 PM,,4/14/2023 7:13:21 PM,,Ervina,,Inside the field,Multiple crops,"`ulu_(breadfruit),mai`a_(banana),tropical_fruits,vegetables_(e.g._leafy_greens_c",,other,Dragon Fruits,,-156.951043700442,20.7982051280256
+553,d4d43646-7f42-42c3-a2db-ca0720a567d5,4/14/2023 7:13:24 PM,,4/14/2023 7:13:24 PM,,Ervina,,Inside the field,Multiple crops,tropical_fruits,,,,,-156.951043700442,20.7982049610226
+554,12004396-461e-48d9-a472-6838268e4063,4/14/2023 7:13:26 PM,,4/14/2023 7:13:26 PM,,Ervina,,Inside the field,Multiple crops,tropical_fruits,,,,,-156.949673468439,20.7905701052882
+555,86bd3757-9abf-482b-9af9-ee7672b02401,4/14/2023 7:13:28 PM,,4/14/2023 7:13:28 PM,,Ervina ,,Inside the field,Multiple crops,"other,tropical_fruits",Soursop,,,,-156.949673461947,20.7905700691756
+556,7157d3cd-fc8d-4003-a4a5-28446b3ba9f5,4/14/2023 7:13:30 PM,,4/14/2023 7:13:30 PM,,Ervina ,,Inside the field,Multiple crops,"avocado,tropical_fruits",,,,,-156.949673461901,20.7905700689188
+557,db6fde84-db43-4b33-b079-1aca4d8e8187,4/14/2023 7:13:32 PM,,4/14/2023 7:13:32 PM,,Ervina ,,Inside the field,Fallow,,,,,,-156.949673461915,20.790570068999
+558,4e4f94de-7795-4f09-ae8d-569d380b830b,4/14/2023 7:13:34 PM,,4/14/2023 7:13:34 PM,,Ervina ,,Inside the field,Multiple crops,tropical_fruits,,tropical fruits,,,-156.949673461909,20.7905700689641
+559,9272abbb-d6cf-432a-9cbb-b9b58ac4d082,4/16/2023 10:53:24 PM,,4/16/2023 10:53:24 PM,,Mary,,On the edge of the field,One crop,`ulu_(breadfruit),,,,Hana Ranch,-155.98918399,20.73277403
+560,09e99161-4741-49d3-afae-5c4214904913,4/16/2023 10:53:28 PM,,4/16/2023 10:53:28 PM,,Mary,,On the edge of the field,One crop,`ulu_(breadfruit),,,,Hana Ranch,-155.98887793,20.73303577
+561,75d32ea1-04a6-40a4-8421-13b8ace0ea97,4/16/2023 10:53:31 PM,,4/16/2023 10:53:31 PM,,Mary,,On the edge of the field,One crop,`ulu_(breadfruit),,,,Hana Ranch,-155.9880768,20.7338355
+562,0eb5bccb-6366-4730-b923-f75bb1bdc6ec,4/16/2023 10:53:35 PM,,4/16/2023 10:53:35 PM,,Mary,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),mai`a_(banana)",,,,Hana Ranch,-155.98761324,20.7341071
+563,d2b878f5-d965-4c00-9bab-85a0d05383a5,4/16/2023 10:53:38 PM,,4/16/2023 10:53:38 PM,,Mary,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),mai`a_(banana)",,,,,-156.00168624,20.69579571
+564,976da58a-c187-428b-bc1e-ab3a57eeb4b1,4/16/2023 10:53:41 PM,,4/16/2023 10:53:41 PM,,Mary,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),mai`a_(banana)",,,,,-156.0017847,20.69570316
+565,7a151bc5-4e7f-4c62-b78a-a7674d420c92,4/16/2023 10:53:44 PM,,4/16/2023 10:53:44 PM,,Mary,,Inside the field,Multiple crops,"mai`a_(banana),niu_(coconut),`ulu_(breadfruit)",,,,,-156.04918824,20.66712731
+566,cb9b67c6-8e86-4b7f-86ab-ade95920f892,4/16/2023 10:53:48 PM,,4/16/2023 10:53:48 PM,,Mary,,Inside the field,Multiple crops,"kalo_(taro)_-_loʻi_(wetland),mai`a_(banana)",,,,,-156.0492897,20.66700188
+567,33d62b48-ff2f-468b-bf08-259397d7d04e,4/16/2023 10:53:51 PM,,4/16/2023 10:53:51 PM,,Mary,,Inside the field,One crop,kalo_(taro)_-_loʻi_(wetland),,,,,-156.04946335,20.66697039
+568,c46e9e3b-8fe7-453d-8b67-8d1d5741d983,4/16/2023 10:53:55 PM,,4/16/2023 10:53:55 PM,,Mary,,Inside the field,One crop,kalo_(taro)_-_loʻi_(wetland),,,,,-156.04961359,20.66685786
+569,2d563915-60f8-4ce8-9a83-93637cffa932,4/16/2023 10:53:59 PM,,4/16/2023 10:53:59 PM,,Mary,,Inside the field,One crop,kalo_(taro)_-_loʻi_(wetland),,,,,-156.04961333,20.66685795
+570,04952ef7-9413-4054-a5a3-a5abc4ebce2f,4/16/2023 10:54:03 PM,,4/16/2023 10:54:03 PM,,Mary,,Inside the field,One crop,kalo_(taro)_-_loʻi_(wetland),,,,,-156.0497373,20.66672957
+571,07c0e5af-9b15-43c1-8386-a496ea363909,4/16/2023 10:54:07 PM,,4/16/2023 10:54:07 PM,,Mary,,Inside the field,One crop,kalo_(taro)_-_loʻi_(wetland),,,,,-156.04972589,20.66676269
+572,f47b4400-ab7d-407b-be97-59ab3006e208,4/16/2023 10:54:11 PM,,4/16/2023 10:54:11 PM,,Mary,,Inside the field,One crop,kalo_(taro)_-_loʻi_(wetland),,,,,-156.04947731,20.66685527
+573,c97a5af6-a003-40be-8714-ec8b17bf5ded,4/16/2023 10:54:15 PM,,4/16/2023 10:54:15 PM,,Mary,,Inside the field,One crop,kalo_(taro)_-_loʻi_(wetland),,,,,-156.04939283,20.66676007
+574,c9a958e3-c94a-404b-8e85-e21569928b50,4/16/2023 10:54:17 PM,,4/16/2023 10:54:17 PM,,Maty,,Inside the field,One crop,kalo_(taro)_-_loʻi_(wetland),,,,,-156.04954614,20.66661884
+575,58068978-b754-490a-99ce-6056be87b060,4/16/2023 10:54:25 PM,,4/16/2023 10:54:25 PM,,Mary,,Inside the field,Fallow,,,,,,-156.04947526,20.66658206
+576,76ffe822-68ff-472b-a3bd-752c6baa35ff,4/16/2023 10:54:30 PM,,4/16/2023 10:54:30 PM,,Mary,,Inside the field,One crop,kalo_(taro)_-_loʻi_(wetland),,,,,-156.04937008,20.66653086
+577,5233980e-fe25-4557-b82f-8c3efba1aee8,4/16/2023 10:54:33 PM,,4/16/2023 10:54:33 PM,,Mary,,Inside the field,One crop,kalo_(taro)_-_loʻi_(wetland),,,,,-156.04926643,20.66659597
+578,69d74a32-9fa2-491d-8413-703f83b68e42,4/16/2023 10:54:36 PM,,4/16/2023 10:54:36 PM,,Mary,,Inside the field,One crop,kalo_(taro)_-_loʻi_(wetland),,,,,-156.04923822,20.6666347
+579,2a6ac619-07e3-48c6-bb9b-adf82f949c76,4/16/2023 10:54:39 PM,,4/16/2023 10:54:39 PM,,Mary,,Inside the field,Multiple crops,"kalo_(taro)_-_loʻi_(wetland),mai`a_(banana)",,,,,-156.04931407,20.66666406
+580,b1c404eb-35e8-43f0-b21c-97b450c9429d,4/16/2023 10:54:45 PM,,4/16/2023 10:54:45 PM,,Mary,,Inside the field,One crop,kalo_(taro)_-_loʻi_(wetland),,,,,-156.04926935,20.66681237
+581,6a0b28f3-d892-49ae-a6eb-1bf8cb6f6f70,4/16/2023 10:54:47 PM,,4/16/2023 10:54:47 PM,,Mary,,Inside the field,One crop,kalo_(taro)_-_loʻi_(wetland),,,,Sold at taro festival and value-added poi in local certified kitchen,-156.04933659,20.66700851
+582,34cc43e8-eeee-49eb-b375-bfaf87bf8f1b,4/16/2023 10:54:51 PM,,4/16/2023 10:54:51 PM,,Mary,,Inside the field,Multiple crops,"kalo_(taro)_-_loʻi_(wetland),`ulu_(breadfruit),mai`a_(banana)",,,,,-156.04930724,20.66679553
+583,603edf1d-9993-4547-8d09-8054639ad21a,4/16/2023 10:54:53 PM,,4/16/2023 10:54:53 PM,,Mary,,Inside the field,One crop,other,Mountain apple,,,,-156.04926878,20.66700359
+584,b71814a3-7c82-4c26-976a-316a22e4efe9,4/16/2023 10:54:58 PM,,4/16/2023 10:54:58 PM,,Mary,,Inside the field,Multiple crops,"kalo_(taro)_-_loʻi_(wetland),sugarcane,mai`a_(banana),`ulu_(breadfruit)",,,,,-156.04935043,20.66692672
+585,313e142b-3393-4a49-8ceb-b9bae2d0f4f9,4/16/2023 10:55:01 PM,,4/16/2023 10:55:01 PM,,Mary,,Inside the field,One crop,`ulu_(breadfruit),,,,,-156.03720248,20.79944537
+586,820925f0-35e7-4f3e-83a2-26b76ee948ae,4/16/2023 10:55:05 PM,,4/16/2023 10:55:05 PM,,Mary,,Inside the field,One crop,`ulu_(breadfruit),,,,'Ulu grove,-156.03791588,20.79894829
+587,9181a965-690a-4638-929c-179bc68fdb74,4/16/2023 10:55:07 PM,,4/16/2023 10:55:07 PM,,Mary,,Inside the field,One crop,`ulu_(breadfruit),,,,'Ulu grove,-156.03803813,20.79905094
+588,41791180-ac37-4d46-9783-cf588ebb459a,4/16/2023 10:55:11 PM,,4/16/2023 10:55:11 PM,,Mary,,Inside the field,One crop,`ulu_(breadfruit),,,,,-156.03834329,20.79916432
+589,7e3e38a7-fec0-4a2c-a1a9-89faf5261663,4/16/2023 10:55:14 PM,,4/16/2023 10:55:14 PM,,Mary,,Inside the field,One crop,`ulu_(breadfruit),,,,,-156.03883633,20.79929285
+590,9bdfd947-0b98-4ee0-b4a9-5a70eaa862c3,4/16/2023 10:55:17 PM,,4/16/2023 10:55:17 PM,,Mary,,Inside the field,One crop,`ulu_(breadfruit),,,,,-156.03910777,20.79938116
+591,ffc623ae-ad21-40f9-ac00-11b9c778ca5c,4/16/2023 10:55:25 PM,,4/16/2023 10:55:25 PM,,Mary,,Inside the field,One crop,`ulu_(breadfruit),,,,,-156.03947166,20.79948826
+592,7c7916aa-af3b-4bc1-b427-597bcad80e5b,4/16/2023 10:55:28 PM,,4/16/2023 10:55:28 PM,,Mary,,Inside the field,One crop,`ulu_(breadfruit),,,,,-156.03998807,20.79954651
+593,7de4eb13-3ee9-4e1b-95c9-6084c08f1e3c,4/16/2023 10:55:32 PM,,4/16/2023 10:55:32 PM,,Mary,,On the edge of the field,One crop,sugarcane,,,,,-156.03725036,20.80425723
+594,899088b6-7ca6-4dd2-9eb3-e3ea15dc3575,4/16/2023 10:55:34 PM,,4/16/2023 10:55:34 PM,,Mary,,On the edge of the field,One crop,kalo_(taro)_-_mala_(dryland),,,,,-156.03790672,20.80420783
+595,b3037783-9317-4ac3-a6d1-525d6e8aea9d,4/16/2023 10:55:38 PM,,4/16/2023 10:55:38 PM,,Mary,,On the edge of the field,One crop,`uala_(sweet_potato),,,,,-156.03805571,20.80415954
+596,44d40afa-2c5c-41db-8cc7-23c45ff46312,4/16/2023 10:55:41 PM,,4/16/2023 10:55:41 PM,,Mary,,On the edge of the field,One crop,other,'Olena,,,,-156.03810407,20.80402407
+597,712ef094-52a0-4bdb-b517-62aef5e850d5,4/16/2023 10:55:45 PM,,4/16/2023 10:55:45 PM,,Mary,,On the edge of the field,One crop,other,'Awa,,,,-156.03816909,20.80412063
+598,7e95ac90-865f-4921-897c-dfba6908ac4b,4/16/2023 10:55:47 PM,,4/16/2023 10:55:47 PM,,Mary,,On the edge of the field,One crop,niu_(coconut),,,,,-156.03835224,20.80503434
+599,cbf8e6df-e55d-48d8-838e-abc9b8ada6c1,4/16/2023 10:55:51 PM,,4/16/2023 10:55:51 PM,,Mary,,Inside the field,One crop,niu_(coconut),,,,,-156.03857482,20.80538756
+600,603f487c-8e76-4f3e-a2ab-dd52a8f222e7,4/16/2023 10:55:54 PM,,4/16/2023 10:55:54 PM,,Mary,,On the edge of the field,One crop,mai`a_(banana),,,,,-156.07127466,20.6501403
+601,5f3b8512-bc4a-475e-a5ba-d5e65b724857,4/16/2023 10:55:56 PM,,4/16/2023 10:55:56 PM,,Mary,,On the edge of the field,One crop,mai`a_(banana),,,,,-156.07083644,20.6500559
+602,3149adac-ec55-4b54-81e7-3c8c3607f809,4/16/2023 10:55:59 PM,,4/16/2023 10:55:59 PM,,Mary,,On the edge of the field,One crop,mai`a_(banana),,,,,-156.07198838,20.65032813
+603,6ab6df77-a1c7-49af-a928-083c99c16457,4/17/2023 8:57:08 PM,,4/17/2023 8:57:08 PM,,Hershey Lei,,On the edge of the field,Multiple crops,"other,niu_(coconut),`ulu_(breadfruit)",cassava and alo,not applicable,,,-156.89292247713,20.7928640125002
+604,d24a86f7-b771-480a-96e0-72e17c482a5b,4/17/2023 8:57:14 PM,,4/17/2023 8:57:14 PM,,Hershey Lei,,Inside the field,Multiple crops,"`ulu_(breadfruit),kalo_(taro)_-_mala_(dryland),sugarcane,mai`a_(banana),`uala_(sweet_potato),other","Mamaki, chaya, and tapioca",not applicable,,"— Not irrigated YET on the farm (tying in irrigation soon)
+— EXTREME temperature differences (look at where you stay, know where the wind and rain comes from, how you position everything)
+— Much access to water (many systems for water) 
+— Fenced off (internal and external)
+— Organically grown — Natural farming 
+— Many weeds
+— Many pests (rats, deer, birds, cats, dogs, Hawaiian owls)
+— Technology is used (data collector, systems for holding information, resources)",-156.894581192967,20.7934945667197
+605,03771869-aa84-45f0-9b59-1a51c3f0e2bd,4/22/2023 8:31:07 PM,,4/22/2023 8:31:07 PM,,Anna G,,Inside the field,One crop,macadamia_nut,,,,"Nearly 200 acres of max nuts, much more acreage available but needs to be cleared out first. Plans of doing so.",-156.510731320891,20.9213866058095
+606,44e0a429-f691-4576-89e0-788d39926d98,4/22/2023 8:35:28 PM,,4/22/2023 8:35:28 PM,,Anna G,,Inside the field,One crop,macadamia_nut,,,,Picture is of a row of macadamia nut trees.,-156.510935127592,20.9219861782267
+607,25866f10-e44c-442f-b2a0-5bc5abb53d78,4/22/2023 9:56:25 PM,,4/22/2023 9:56:25 PM,,jerry,,Inside the field,Multiple crops,"kalo_(taro)_-_loʻi_(wetland),kalo_(taro)_-_mala_(dryland),macadamia_nut",,,,lower 19 acres in variety of family farms; 200 acres of macnuthas been fallow for a year; upper area is conservation district with ancient kalo being restored. 16y organic certified.,-156.50818659,20.91860331
+608,39c52d8f-bcb4-41ae-a26a-b8a4784e8f38,4/22/2023 9:56:48 PM,,4/22/2023 9:56:48 PM,,jerry,,Inside the field,Multiple crops,"kalo_(taro)_-_loʻi_(wetland),kalo_(taro)_-_mala_(dryland),macadamia_nut,tropical_fruits,other",java plum in puc,,,,-156.51096194,20.92193673
+609,20dd6a27-798e-49e8-9b09-0051ae3667ab,4/22/2023 9:56:56 PM,,4/22/2023 9:56:56 PM,,jerry,,Inside the field,Multiple crops,other,pic is top of 19 acre misc row crop family farms' dragon fruit `2 acre to left,,,,-156.5091699,20.91930809
+610,e2860467-e361-4161-a9ae-c000529f4da1,4/23/2023 5:21:43 AM,,4/23/2023 5:21:43 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Kumu farms,-157.09336642,21.1374383
+611,3e9f49e1-7e78-4ac0-b439-3c1469a993cb,4/23/2023 5:21:47 AM,,4/23/2023 5:21:47 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Papaya,-157.09346046,21.13732812
+612,49aeaad3-f48d-4005-86d6-d371eedee3e0,4/23/2023 5:21:49 AM,,4/23/2023 5:21:49 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Papaya,-157.09351842,21.13719568
+613,9af7b1e6-666a-49d1-b5df-5703a0325b32,4/23/2023 5:21:53 AM,,4/23/2023 5:21:53 AM,,Mary,,On the edge of the field,One crop,vegetables_(e.g._leafy_greens_c,,,,Salad greens,-157.09271401,21.13733773
+614,1077d3ae-1b0a-4a1b-96c0-eb30541ec392,4/23/2023 5:21:56 AM,,4/23/2023 5:21:56 AM,,Mary,,On the edge of the field,One crop,vegetables_(e.g._leafy_greens_c,,,,Salad greens,-157.09258639,21.13731661
+615,57bf2c6c-ea38-43d8-8c91-8148d6eb1b11,4/23/2023 5:22:01 AM,,4/23/2023 5:22:01 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Papaya,-157.09242156,21.13725377
+616,f52ce461-b5e0-4b6e-b4e3-75038a10c830,4/23/2023 5:22:05 AM,,4/23/2023 5:22:05 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Papaya,-157.09231385,21.13719324
+617,84894dc2-95ba-4245-b04e-554cab1162ed,4/23/2023 5:22:07 AM,,4/23/2023 5:22:07 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Papaya,-157.09189834,21.13716361
+618,7092e6b9-78bc-4c39-be73-bddd92e8a616,4/23/2023 5:22:11 AM,,4/23/2023 5:22:11 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Papaya,-157.09170362,21.13713264
+619,1cc34f1b-a95b-4372-ac74-ae4e19a70855,4/23/2023 5:22:15 AM,,4/23/2023 5:22:15 AM,,Mary,,On the edge of the field,One crop,vegetables_(e.g._leafy_greens_c,,,,Kale,-157.09171163,21.13697686
+620,8991dd82-698c-4f85-aea4-e52e3e1c8f47,4/23/2023 5:22:19 AM,,4/23/2023 5:22:19 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Papaya,-157.09189418,21.13695759
+621,8414bc1d-f322-4b74-876f-e60897f9c271,4/23/2023 5:22:22 AM,,4/23/2023 5:22:22 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Papaya,-157.09218123,21.13708884
+622,9c4a80fe-8042-4c96-bef5-3fffceaed6b9,4/23/2023 5:22:27 AM,,4/23/2023 5:22:27 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Papaya,-157.09258329,21.13718346
+623,8e425e2b-a395-4533-b36b-4189b69199ea,4/23/2023 5:22:29 AM,,4/23/2023 5:22:29 AM,,Mary,,On the edge of the field,Multiple crops,"tropical_fruits,vegetables_(e.g._leafy_greens_c",,,,"Salad greens, papaya",-157.09274056,21.13753252
+624,3b866feb-4080-452f-8130-78944d999ae4,4/23/2023 5:22:34 AM,,4/23/2023 5:22:34 AM,,Mary,,On the edge of the field,One crop,vegetables_(e.g._leafy_greens_c,,,,Salad greens,-157.09231112,21.13842239
+625,70239925-e80c-4a38-abda-bc2b512ae86b,4/23/2023 5:22:37 AM,,4/23/2023 5:22:37 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Papaya,-157.09210531,21.13846474
+626,1496eea4-319b-4bf1-b6ab-1b8c2766d3e0,4/23/2023 5:22:40 AM,,4/23/2023 5:22:40 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Papaya,-157.09262933,21.13908836
+627,8b83fd19-1572-40de-b5f1-cf56415ff58b,4/23/2023 5:22:42 AM,,4/23/2023 5:22:42 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Papaya,-157.09257545,21.13952291
+628,fb38d289-340f-40ba-932f-8afe9de7338f,4/23/2023 5:22:47 AM,,4/23/2023 5:22:47 AM,,Mary,,On the edge of the field,Fallow,,,,,,-157.09283506,21.13956935
+629,a636fd2d-df2c-4d54-955e-46d18eb92809,4/23/2023 5:22:50 AM,,4/23/2023 5:22:50 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Papaya,-157.0931895,21.13957157
+630,ed150d24-039c-4f11-842a-8c324bce735e,4/23/2023 5:22:54 AM,,4/23/2023 5:22:54 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Papaya,-157.09319998,21.13870622
+631,c018fe2b-2496-4543-ae83-3d140f08c40a,4/23/2023 5:22:58 AM,,4/23/2023 5:22:58 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Papaya,-157.09340625,21.13852097
+632,84b74717-5bcd-42d9-bc2d-786d20462926,4/23/2023 5:23:01 AM,,4/23/2023 5:23:01 AM,,Mary,,On the edge of the field,Multiple crops,"tropical_fruits,vegetables_(e.g._leafy_greens_c",,,,"Salad greens, papaya nursery",-157.09424447,21.13759863
+633,62d993f7-2f52-42a6-ba69-dd030d2ab783,4/23/2023 5:23:05 AM,,4/23/2023 5:23:05 AM,,Mary,,On the edge of the field,Fallow,,,,,,-157.09439298,21.13760747
+634,a656eed4-ac84-45ad-a9f9-985fea14ec31,4/23/2023 5:23:09 AM,,4/23/2023 5:23:09 AM,,Mary,,On the edge of the field,Fallow,,,,,,-157.09498023,21.13769537
+635,314245d0-3fc1-4479-b866-b09010f44b79,4/23/2023 5:23:12 AM,,4/23/2023 5:23:12 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Papaya,-157.0952277,21.1377467
+636,f8bfc1a5-d7c9-4372-a4c3-560ee2f40c13,4/23/2023 5:23:15 AM,,4/23/2023 5:23:15 AM,,Mary,,On the edge of the field,Fallow,,,,,,-157.09572183,21.13782354
+637,e43061fe-d82d-4ca0-aa5c-7c7021c0daad,4/23/2023 5:23:19 AM,,4/23/2023 5:23:19 AM,,Mary,,On the edge of the field,Fallow,,,,,,-157.09577806,21.13789601
+638,0f450a09-356b-41ea-afcb-7cd4d5b5747a,4/23/2023 5:23:22 AM,,4/23/2023 5:23:22 AM,,Mary,,On the edge of the field,Fallow,,,,,,-157.09526114,21.13779916
+639,cbe14f80-7912-4331-8f40-ee1698bd144d,4/23/2023 5:23:29 AM,,4/23/2023 5:23:29 AM,,Mary,,On the edge of the field,One crop,`uala_(sweet_potato),,,,Decoite Potato Farm,-157.09371628,21.14043013
+640,89993823-30e5-4de3-b6d6-ae80e9c355f2,4/23/2023 5:23:36 AM,,4/23/2023 5:23:36 AM,,Mary,,On the edge of the field,One crop,vegetables_(e.g._leafy_greens_c,,,,Potato,-157.09376959,21.14068931
+641,06f2a981-f741-4017-a2ca-a4492e69a965,4/23/2023 5:23:40 AM,,4/23/2023 5:23:40 AM,,Mary,,On the edge of the field,One crop,vegetables_(e.g._leafy_greens_c,,,,Potato,-157.0937918,21.14102523
+642,8c9114a7-1958-4345-b486-04b4c1e563d7,4/23/2023 5:23:43 AM,,4/23/2023 5:23:43 AM,,Mary,,On the edge of the field,One crop,vegetables_(e.g._leafy_greens_c,,,,Potato,-157.09381395,21.14130581
+643,ac83820e-8683-47c6-a122-7a9574491a4e,4/23/2023 5:23:48 AM,,4/23/2023 5:23:48 AM,,Mary,,On the edge of the field,Fallow,,,,,,-157.09389782,21.14201014
+644,64980db4-1eca-43d2-962a-fc1d769ee00a,4/23/2023 5:23:51 AM,,4/23/2023 5:23:51 AM,,Mary,,On the edge of the field,Fallow,,,,,,-157.09392448,21.14262587
+645,e5580336-5459-4a39-a2af-a50fd6ce398b,4/23/2023 5:23:55 AM,,4/23/2023 5:23:55 AM,,Mary,,On the edge of the field,One crop,other,Sorgum,,,,-157.09384729,21.14333576
+646,f179cd4d-0ab3-44b0-aec6-012128c427a7,4/23/2023 5:23:59 AM,,4/23/2023 5:23:59 AM,,Mary,,On the edge of the field,One crop,other,Sorgum,,,,-157.09381493,21.14318645
+647,cec089bb-50ba-439e-b493-14978de1862d,4/23/2023 5:24:03 AM,,4/23/2023 5:24:03 AM,,Mary,,On the edge of the field,One crop,other,Sorghum,,,,-157.09379426,21.14304216
+648,d8207f16-fcef-45c7-9b6e-49eab5b04282,4/23/2023 5:24:06 AM,,4/23/2023 5:24:06 AM,,Mary,,On the edge of the field,One crop,other,Seed corn,,,,-157.09373459,21.14275868
+649,274c2f1a-b9e3-4dd4-8992-b95d2ffd79df,4/23/2023 5:24:09 AM,,4/23/2023 5:24:09 AM,,Mary,,Inside the field,One crop,vegetables_(e.g._leafy_greens_c,,,,Cucumber,-157.13147917,21.14462147
+650,9abbe75b-35f0-4d61-b9ed-3b7a98f33744,4/23/2023 5:24:13 AM,,4/23/2023 5:24:13 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Citrus,-157.13178057,21.14454303
+651,7ff81bd6-a16b-4a6b-9c77-9d8eefe4b8bd,4/23/2023 5:24:15 AM,,4/23/2023 5:24:15 AM,,Mary,,Inside the field,One crop,tropical_fruits,,,,Citrus,-157.13179844,21.14450082
+652,aabd3874-ffe2-413c-b30a-5d2f01c1824c,4/23/2023 5:24:18 AM,,4/23/2023 5:24:18 AM,,Mary,,Inside the field,One crop,tropical_fruits,,,,Citrus,-157.13196677,21.14439853
+653,53364d75-7248-4ce3-a65b-93213c6e3177,4/23/2023 5:24:21 AM,,4/23/2023 5:24:21 AM,,Mary,,Inside the field,One crop,tropical_fruits,,,,Citrus,-157.13187678,21.14448997
+654,bdcc3fe0-0731-49fe-bac5-93efa3da0911,4/23/2023 5:24:24 AM,,4/23/2023 5:24:24 AM,,Mary,,Inside the field,One crop,tropical_fruits,,,,Citrus,-157.13191679,21.14445545
+655,4294cc60-1348-49dd-ae38-001321ad53a4,4/23/2023 5:24:28 AM,,4/23/2023 5:24:28 AM,,Mary,,Inside the field,One crop,other,,,,Cahew,-157.1316011,21.14434077
+656,15d0ba47-3bc3-4e67-b239-4551b597f22e,4/23/2023 5:24:31 AM,,4/23/2023 5:24:31 AM,,Mary,,Inside the field,One crop,tropical_fruits,,,,Mango,-157.13172218,21.14423411
+657,a3fc0839-d873-44ee-af41-c6abe152a90d,4/23/2023 5:24:36 AM,,4/23/2023 5:24:36 AM,,Mary,,Inside the field,One crop,sugarcane,,,,,-157.13167456,21.14417699
+658,d641596d-f863-41bb-80a7-7842535b4ad4,4/23/2023 5:24:41 AM,,4/23/2023 5:24:41 AM,,Mary,,Inside the field,Multiple crops,vegetables_(e.g._leafy_greens_c,,,,"Onions, kale",-157.13171419,21.14405571
+659,0c11a9a7-175d-451d-902a-d4b354c17e24,4/23/2023 5:24:45 AM,,4/23/2023 5:24:45 AM,,Mary,,On the edge of the field,One crop,other,Tamarind,,,,-157.13176775,21.14394631
+660,dd8bc28f-4669-48ea-ac01-cf0f7a40c045,4/23/2023 5:24:49 AM,,4/23/2023 5:24:49 AM,,Mary,,Inside the field,Multiple crops,other,Nursery,,,,-157.1315998,21.14398155
+661,b86505b8-a2cb-40ba-b67d-595a4b3fe63d,4/23/2023 5:24:54 AM,,4/23/2023 5:24:54 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Citrus,-156.73474712,21.1438299
+662,024b2dba-8d76-4ceb-87ca-a2bb4ca94f29,4/23/2023 5:24:57 AM,,4/23/2023 5:24:57 AM,,Mary,,On the edge of the field,Multiple crops,tropical_fruits,,,,Citrus,-156.73501776,21.14357229
+663,65dbb020-51f5-42bd-b308-50cdad24beca,4/23/2023 5:25:01 AM,,4/23/2023 5:25:01 AM,,Mary,,On the edge of the field,Multiple crops,vegetables_(e.g._leafy_greens_c,,,,,-156.73488975,21.14350617
+664,3c057207-e681-4186-94c9-93a0445017c9,4/23/2023 5:25:05 AM,,4/23/2023 5:25:05 AM,,Mary,,On the edge of the field,Multiple crops,"mai`a_(banana),vegetables_(e.g._leafy_greens_c",,,,,-156.7349051,21.14325906
+665,aa2f2e50-43cc-4956-856b-0b338431472c,4/23/2023 5:25:07 AM,,4/23/2023 5:25:07 AM,,Mary,,On the edge of the field,Multiple crops,"mai`a_(banana),tropical_fruits,vegetables_(e.g._leafy_greens_c",,mai`a (banana),,Papaya,-156.73492374,21.14314849
+666,464ca48f-41a4-4f9f-8a16-bc53887a22b1,4/23/2023 5:25:11 AM,,4/23/2023 5:25:11 AM,,Mary,,On the edge of the field,Multiple crops,"`ulu_(breadfruit),mai`a_(banana),tropical_fruits,vegetables_(e.g._leafy_greens_c",,,,,-156.73490474,21.14305239
+667,5c5ec036-0214-4863-87f2-3856cbb069aa,4/23/2023 5:25:14 AM,,4/23/2023 5:25:14 AM,,Mary,,On the edge of the field,Multiple crops,"mai`a_(banana),tropical_fruits,vegetables_(e.g._leafy_greens_c",,,,Mango,-156.73491186,21.14297028
+668,c4932418-0ea1-4364-959f-f35c4a9cdc85,4/23/2023 5:25:17 AM,,4/23/2023 5:25:17 AM,,Mary,,On the edge of the field,One crop,tropical_fruits,,,,Citrus,-156.73491783,21.14295863
+669,6970f320-7930-432a-8e43-03731cd9ed21,4/23/2023 5:25:21 AM,,4/23/2023 5:25:21 AM,,Mary,,On the edge of the field,One crop,kalo_(taro)_-_mala_(dryland),,,,,-156.78061605,21.08512087
