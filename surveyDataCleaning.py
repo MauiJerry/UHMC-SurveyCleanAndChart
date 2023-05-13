@@ -23,11 +23,15 @@ df = df.rename(columns={'x': 'Longitude', 'y': 'Latitude'})
 print("now export with new columns")
 df.to_csv('20230423_survey_NewCol.csv', index=False)
 
-# Split multi-value cells on comma separator
+# crop names have embedded backticks, which mess up python string processing
+# so nix the characters out
 df['CropsInField'] = df['CropsInField'].str.replace('`', '')  # Replace backtick character
+# Split multi-value cells on comma separator
 df['Crops'] = df['CropsInField'].str.split(',')
 
 # Count unique crop names
+exploded_crops = df.explode('Crops')
+print(exploded_crops['Crops'].unique())
 crop_counts = df.explode('Crops')['Crops'].value_counts()
 
 # Display result
